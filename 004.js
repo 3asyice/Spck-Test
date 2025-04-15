@@ -13,7 +13,6 @@ function filterItems() {
   })
 }
 const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML = `<div id="links">
-
 <div class="link-item">
              <a href="https://web.archive.org/web/20250405050541/https://ric.com.br/seguranca/acidentes/aluna-ufsm-decidiu-nao-embarcar-na-vespera-de-acidente/"> sorte ou premonição?/</a><p class="date">apr 05, 2025 </p> <hr> </div>
 <div class="link-item">
