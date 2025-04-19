@@ -13,6 +13,11 @@ function filterItems() {
   })
 }
 const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML = `<div id="links">
+
+<div class="link-item">
+             <a href="https://web.archive.org/web/20250419043752/https://www.ocafezinho.com/2024/07/22/exercito-brasileiro-insistente-em-nao-revelar-militares-envolvidos-em-carta-golpista/"/>Carta Golpista Militar</a><p class="date">apr 19, 2025 </p> <hr> </div>
+<div class="link-item">
+             <a href="https://web.archive.org/web/20250418172619/https://www.scielo.br/j/rbh/a/3B49LhDfNKhDKqVPZjvxY5R/"/>Gran Circus Tragedy</a><p class="date">apr 18, 2025 </p> <hr> </div>
 <div class="link-item">
              <a href="https://web.archive.org/web/20250405050541/https://ric.com.br/seguranca/acidentes/aluna-ufsm-decidiu-nao-embarcar-na-vespera-de-acidente/"> sorte ou premonição?/</a><p class="date">apr 05, 2025 </p> <hr> </div>
 <div class="link-item">
