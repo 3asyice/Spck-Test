@@ -21,6 +21,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 <div class="link-item">
              <a href="https://web.archive.org/web/20250405050541/https://ric.com.br/seguranca/acidentes/aluna-ufsm-decidiu-nao-embarcar-na-vespera-de-acidente/"> sorte ou premonição?/</a><p class="date">apr 05, 2025 </p> <hr> </div>
 <div class="link-item">
+             <a href="https://web.archive.org/web/20250405064854/https://www.big-loser.site/Caso/031"/>All Cassetes Fitas</a><p class="date">apr 05, 2025 </p> <hr> </div>
+<div class="link-item">
              <a href="https://web.archive.org/web/20250405045939/https://ric.com.br/seguranca/acidentes/veja-lista-nomes-vitimas-acidente-onibus-ufsm/">bus accident 7 death/</a><p class="date">apr 05, 2025 </p> <hr> </div>
 <div class="link-item">
              <a href="https://web.archive.org/web/20250328081437/https://aventurasnahistoria.com.br/noticias/reportagem/perdida-no-oceano-trajetoria-de-bahia-bakari-unica-sobrevivente-de-um-terrivel-acidente-de-aviao.phtml"> Bahia Bakari_survivor/</a><p class="date"> mar 28, 2025 </p> <hr> </div>
