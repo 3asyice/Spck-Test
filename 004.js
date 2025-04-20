@@ -15,6 +15,8 @@ function filterItems() {
 const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML = `<div id="links">
 
 <div class="link-item">
+             <a href="https://web.archive.org/web/20250420185859/https://3asyice.github.io/natal/"/>malditonatal origem</a><p class="date">apr 20, 2025 </p> <hr> </div>
+<div class="link-item">
              <a href="https://web.archive.org/web/20250419043752/https://www.ocafezinho.com/2024/07/22/exercito-brasileiro-insistente-em-nao-revelar-militares-envolvidos-em-carta-golpista/"/>Carta Golpista Militar</a><p class="date">apr 19, 2025 </p> <hr> </div>
 <div class="link-item">
              <a href="https://web.archive.org/web/20250418172619/https://www.scielo.br/j/rbh/a/3B49LhDfNKhDKqVPZjvxY5R/"/>Gran Circus Tragedy</a><p class="date">apr 18, 2025 </p> <hr> </div>
