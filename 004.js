@@ -14,16 +14,24 @@ function filterItems() {
 }
 const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML = `<div id="links">
 
+
+
 <div class="link-item">
-             <a href="https://web.archive.org/web/20250420185859/https://3asyice.github.io/natal/"/>malditonatal origem</a><p class="date">apr 20, 2025 </p> <hr> </div>
+             <a href="https://web.archive.org/web/20250421113527/https://3asyice.github.io/Birthday-2024/"/>Birthday Note/</a><p class="date">apr 20, 2025 </p> <hr> </div>
 <div class="link-item">
-             <a href="https://web.archive.org/web/20250419043752/https://www.ocafezinho.com/2024/07/22/exercito-brasileiro-insistente-em-nao-revelar-militares-envolvidos-em-carta-golpista/"/>Carta Golpista Militar</a><p class="date">apr 19, 2025 </p> <hr> </div>
+             <a href="https://web.archive.org/web/20250420231731/https://3asyice.github.io/frontend_course/"/>html, css, js/</a><p class="date">apr 20, 2025 </p> <hr> </div>
 <div class="link-item">
-             <a href="https://web.archive.org/web/20250418172619/https://www.scielo.br/j/rbh/a/3B49LhDfNKhDKqVPZjvxY5R/"/>Gran Circus Tragedy</a><p class="date">apr 18, 2025 </p> <hr> </div>
+             <a href="https://web.archive.org/web/20250420190604/https://3asyice.github.io/Spck-Test/"/>archived media 004/</a><p class="date">apr 20, 2025 </p> <hr> </div>
+<div class="link-item">
+             <a href="https://web.archive.org/web/20250420185859/https://3asyice.github.io/natal/"/>malditonatal origem/</a><p class="date">apr 20, 2025 </p> <hr> </div>
+<div class="link-item">
+             <a href="https://web.archive.org/web/20250419043752/https://www.ocafezinho.com/2024/07/22/exercito-brasileiro-insistente-em-nao-revelar-militares-envolvidos-em-carta-golpista/"/>Carta Golpista EB/</a><p class="date">apr 19, 2025 </p> <hr> </div>
+<div class="link-item">
+             <a href="https://web.archive.org/web/20250418172619/https://www.scielo.br/j/rbh/a/3B49LhDfNKhDKqVPZjvxY5R/"/>Gran Circus Tragedy/</a><p class="date">apr 18, 2025 </p> <hr> </div>
 <div class="link-item">
              <a href="https://web.archive.org/web/20250405050541/https://ric.com.br/seguranca/acidentes/aluna-ufsm-decidiu-nao-embarcar-na-vespera-de-acidente/"> sorte ou premonição?/</a><p class="date">apr 05, 2025 </p> <hr> </div>
 <div class="link-item">
-             <a href="https://web.archive.org/web/20250405064854/https://www.big-loser.site/Caso/031"/>All Cassetes Fitas</a><p class="date">apr 05, 2025 </p> <hr> </div>
+             <a href="https://web.archive.org/web/20250405064854/https://www.big-loser.site/Caso/031"/>All Cassetes Fitas/</a><p class="date">apr 05, 2025 </p> <hr> </div>
 <div class="link-item">
              <a href="https://web.archive.org/web/20250405045939/https://ric.com.br/seguranca/acidentes/veja-lista-nomes-vitimas-acidente-onibus-ufsm/">bus accident 7 death/</a><p class="date">apr 05, 2025 </p> <hr> </div>
 <div class="link-item">
