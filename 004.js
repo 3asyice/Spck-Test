@@ -16,6 +16,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 <div class="link-item">
+<a href="https://web.archive.org/web/20250423200251/https://www.big-loser.site/A/Audio/FITA-10,-LADO-A.m4a"/>Fita 10 Lado A/</a><p class="date">apr 23, 2025 </p> <hr> </div>
+<div class="link-item">
              <a href="https://web.archive.org/web/20250421115329/https://3asyice.github.io/Loja-doRoni/"/>Roni's Old Store/</a><p class="date">apr 21, 2025 </p> <hr> </div>
 <div class="link-item">
              <a href="https://web.archive.org/web/20250421113527/https://3asyice.github.io/Birthday-2024/"/>Birthday Note/</a><p class="date">apr 21, 2025 </p> <hr> </div>
