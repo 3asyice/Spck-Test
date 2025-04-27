@@ -15,16 +15,31 @@ function filterItems() {
 const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML = `<div id="links">
 
 
+
+<div class="link-item">
+<a href="https://web.archive.org/web/20250427013446/https://3asyice.github.io/Tapes/script/ep/4.html"/>ep 4: sindicância/</a><p class="date">apr 27, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250427013307/https://3asyice.github.io/Tapes/script/ep/3.html"/>ep 3: sd Isaias/</a><p class="date">apr 27, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250427013320/https://3asyice.github.io/Tapes/script/ep/2.html"/>ep 2: a mensagem/</a><p class="date">apr 27, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250427013338/https://3asyice.github.io/Tapes/script/ep/6.html"/>ep 6: plantão/</a><p class="date">apr 27, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250427013309/https://3asyice.github.io/Tapes/script/ep/5.html"/>ep 5: Internato/</a><p class="date">apr 27, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250427013253/https://3asyice.github.io/Tapes/script/category.html"/>609 - Categorias/</a><p class="date">apr 27, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250427013048/https://3asyice.github.io/Tapes/script/home.html"/>ep 1: decisão errada/</a><p class="date">apr 27, 2025 </p> <hr> </div>
 <div class="link-item">
 <a href="https://web.archive.org/web/20250423200251/https://www.big-loser.site/A/Audio/FITA-10,-LADO-A.m4a"/>Fita 10 Lado A/</a><p class="date">apr 23, 2025 </p> <hr> </div>
 <div class="link-item">
-             <a href="https://web.archive.org/web/20250421115329/https://3asyice.github.io/Loja-doRoni/"/>Roni's Old Store/</a><p class="date">apr 21, 2025 </p> <hr> </div>
+<a href="https://web.archive.org/web/20250421115329/https://3asyice.github.io/Loja-doRoni/"/>Roni's Old Store/</a><p class="date">apr 21, 2025 </p> <hr> </div>
 <div class="link-item">
-             <a href="https://web.archive.org/web/20250421113527/https://3asyice.github.io/Birthday-2024/"/>Birthday Note/</a><p class="date">apr 21, 2025 </p> <hr> </div>
+<a href="https://web.archive.org/web/20250421113527/https://3asyice.github.io/Birthday-2024/"/>Birthday Note/</a><p class="date">apr 21, 2025 </p> <hr> </div>
 <div class="link-item">
-             <a href="https://web.archive.org/web/20250420231731/https://3asyice.github.io/frontend_course/"/>html, css, js/</a><p class="date">apr 20, 2025 </p> <hr> </div>
+<a href="https://web.archive.org/web/20250420231731/https://3asyice.github.io/frontend_course/"/>html, css, js/</a><p class="date">apr 20, 2025 </p> <hr> </div>
 <div class="link-item">
-             <a href="https://web.archive.org/web/20250420190604/https://3asyice.github.io/Spck-Test/"/>archived media 004/</a><p class="date">apr 20, 2025 </p> <hr> </div>
+<a href="https://web.archive.org/web/20250420190604/https://3asyice.github.io/Spck-Test/"/>archived media 004/</a><p class="date">apr 20, 2025 </p> <hr> </div>
 <div class="link-item">
              <a href="https://web.archive.org/web/20250420185859/https://3asyice.github.io/natal/"/>malditonatal origem/</a><p class="date">apr 20, 2025 </p> <hr> </div>
 <div class="link-item">
