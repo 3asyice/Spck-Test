@@ -17,6 +17,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 <div class="link-item">
+<a href="https://web.archive.org/web/20250510122449/https://www.social.org.br/relatorio2001/relatorio003.htm?hl=en-US"/>Tortura Militar/</a><p class="date">mar 10, 2025 </p> <hr> </div>
+<div class="link-item">
 <a href="https://archive.org/download/vid-20240825-wa-0000/vid-20240825-wa-0000_archive.torrent"/>acidente.torrent/</a><p class="date">apr 27, 2025 </p> <hr> </div>
 <div class="link-item">
 <a href="https://web.archive.org/web/20250427013446/https://3asyice.github.io/Tapes/script/ep/4.html"/>ep 4: sindicância/</a><p class="date">apr 27, 2025 </p> <hr> </div>
