@@ -16,13 +16,14 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 <div class="link-item">
+<a href="https://web.archive.org/web/20250511002501/https://noticias.stf.jus.br/postsnoticias/mandado-de-seguranca-pede-anulacao-de-acordo-entre-brasil-e-oea-sobre-morte-de-cadete/"/>morte de cadete/</a><p class="date">may 11, 2025 </p> <hr> </div>
+<div class="link-item">
 <a href="https://web.archive.org/web/20250510122753/https://saopauloantiga.com.br/a-tragedia-do-cine-oberdan/?hl=en-US"/>tragédia cinema/</a><p class="date">may 10, 2025 </p> <hr> </div>
+
 <div class="link-item">
 <a href="https://web.archive.org/web/20250510122449/https://www.social.org.br/relatorio2001/relatorio003.htm?hl=en-US"/>Tortura Militar/</a><p class="date">may 10, 2025 </p> <hr> </div>
-
 <div class="link-item">
 <a style="text-transform:uppercase;" href="https://web.archive.org/web/20250509232434/https://3asyice.github.io/Tapes/script/ep/9.html"/>Ep 9: a dor do luto/</a><p class="date">may 09, 2025 </p> <hr> </div>
-
 <div class="link-item">
 <a href="https://archive.org/download/vid-20240825-wa-0000/vid-20240825-wa-0000_archive.torrent"/>acidente.torrent/</a><p class="date">apr 27, 2025 </p> <hr> </div>
 <div class="link-item">
