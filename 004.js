@@ -15,7 +15,10 @@ function filterItems() {
 const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML = `<div id="links">
 
 
-
+<div class="link-item">
+<a href="https://web.archive.org/web/20250520114123/https://3asyice.github.io/SixOhNine/script/sd/602.html"/>602 Weber/</a><p class="date">may 20, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250520113858/https://3asyice.github.io/SixOhNine/script/sd/601.html"/>601 Tassinari/</a><p class="date">may 20, 2025 </p> <hr> </div>
 <div class="link-item">
 <a href="https://web.archive.org/web/20250511220143/https://www.big-loser.site/M/Maio/everton-conceicao-soares-profile.mp4"/>everton soares.mp4/</a><p class="date">may 11, 2025 </p> <hr> </div>
 <div class="link-item">
