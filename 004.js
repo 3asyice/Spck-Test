@@ -19,6 +19,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 <div class="link-item">
+<a href="https://web.archive.org/web/20250529175736/https://3asyice.github.io/Spck-Test/butterfly-effect"/>teoria do caos/</a><p class="date">may 29, 2025 </p> <hr> </div>
+<div class="link-item">
 <a href="https://web.archive.org/web/20250529172715/https://www.big-loser.site/Caso/001"/>Caso 001/</a><p class="date">may 29, 2025 </p> <hr> </div>
 <div class="link-item">
 <a href="https://web.archive.org/web/20250529172004/https://3asyice.github.io/Tapes/script/ep/11.html"/>Ep 11: A Expulsão/</a><p class="date">may 29, 2025 </p> <hr> </div>
