@@ -15,6 +15,15 @@ function filterItems() {
 const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML = `<div id="links">
 
 
+
+
+
+<div class="link-item">
+<a href="https://web.archive.org/web/20250529172004/https://3asyice.github.io/Tapes/script/ep/11.html"/>Ep 11: A Expulsão/</a><p class="date">may 29, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250529171505/https://3asyice.github.io/Tapes/script/ep/10.html"/>Ep 10: A Alteração/</a><p class="date">may 29, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250529170535/https://3asyice.github.io/Tapes/script/ep/8.html"/>Ep 8: Incorporação/</a><p class="date">may 29, 2025 </p> <hr> </div>
 <div class="link-item">
 <a href="https://web.archive.org/web/20250529165827/https://3asyice.github.io/Tapes/script/ep/7.html"/>Ep 7: O Campo/</a><p class="date">may 29, 2025 </p> <hr> </div>
 <div class="link-item">
