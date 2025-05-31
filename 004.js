@@ -19,6 +19,9 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 <div class="link-item">
+<a href="https://web.archive.org/web/20250531193513/https://www.big-loser.site/M/Maio/Eterna%20Vigil%C3%A2ncia%20(Edward%20S_%20(Z-Library)"/>edward snowden.pdf/</a><p class="date">may 31, 2025 </p> <hr> </div>
+
+<div class="link-item">
 <a href="https://web.archive.org/web/20250529175736/https://3asyice.github.io/Spck-Test/butterfly-effect"/>teoria do caos/</a><p class="date">may 29, 2025 </p> <hr> </div>
 <div class="link-item">
 <a href="https://web.archive.org/web/20250529172715/https://www.big-loser.site/Caso/001"/>Caso 001/</a><p class="date">may 29, 2025 </p> <hr> </div>
