@@ -17,6 +17,97 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604231630/https://3asyice.github.io/SixOhNine/script/sd/752.html"/>752 josé gabriel/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604231442/https://3asyice.github.io/SixOhNine/script/sd/640.html"/>640lucas van der sand/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604231255/https://3asyice.github.io/SixOhNine/script/sd/639.html"/>639 arthur keller/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604231113/https://3asyice.github.io/SixOhNine/script/sd/638.html"/>638 juliano oliveira/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604230829/https://3asyice.github.io/SixOhNine/script/sd/637.html"/>637 igor silva santos/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604230606/https://3asyice.github.io/SixOhNine/script/sd/636.html"/>636 emanuel pereira/</a><p class="date">jun 04, 2025 </p> <hr> </div> 
+<div class = "link-item">
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604230339/https://3asyice.github.io/SixOhNine/script/sd/635.html"/>635 carlos eduardo/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604225322/https://3asyice.github.io/SixOhNine/script/sd/634.html"/>634 gabriel de vargas/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604225102/https://3asyice.github.io/SixOhNine/script/sd/633.html"/>633 vagner coelho/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604224925/https://3asyice.github.io/SixOhNine/script/sd/632.html"/>632 cassio alberto/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604224729/https://3asyice.github.io/SixOhNine/script/sd/631.html"/>631 jeremias fagundes/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604224343/https://3asyice.github.io/SixOhNine/script/sd/630.html"/>630 matheus machado/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604224033/https://3asyice.github.io/SixOhNine/script/sd/629.html"/>629 Cirineu Magalhães/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604223820/https://3asyice.github.io/SixOhNine/script/sd/627.html"/>627 joão vitor lemos/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604223319/https://3asyice.github.io/SixOhNine/script/sd/626.html"/>626 miguel xavier/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604222939/https://3asyice.github.io/SixOhNine/script/sd/625honig.html"/>625 leonardo hönig/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604222604/https://3asyice.github.io/SixOhNine/script/sd/624.html"/>624 alisson nesske/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604222246/https://3asyice.github.io/SixOhNine/script/sd/623.html"/>623 joão cardoso/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604221928/https://3asyice.github.io/SixOhNine/script/sd/622.html"/>622 charles preuss/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604221159/https://3asyice.github.io/SixOhNine/script/sd/621.html"/>621kainan zippenfeild/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604220929/https://3asyice.github.io/SixOhNine/script/sd/620.html"/>620 jeferson da silva/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604220707/https://3asyice.github.io/SixOhNine/script/sd/619.html"/>619 alisson zancan/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604215246/https://3asyice.github.io/SixOhNine/script/sd/618roger.html"/>618 luan roger/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604213332/https://3asyice.github.io/SixOhNine/script/sd/617.html"/>617 everton silvano/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604211640/https://3asyice.github.io/SixOhNine/script/sd/616.html"/>616 frederico gregori/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604211413/https://3asyice.github.io/SixOhNine/script/sd/615.html"/>615 ricardo bernardi/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604210958/https://3asyice.github.io/SixOhNine/script/sd/614.html"/>614 carlos teixeira/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604210751/https://3asyice.github.io/SixOhNine/script/sd/613.html"/>613 gabriel ebling/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250529154540/https://3asyice.github.io/SixOhNine/script/sd/612.html"/>612 adrian gonçalves/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604205652/https://3asyice.github.io/SixOhNine/script/sd/611.html"/>611 carlos daniel/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604205518/https://3asyice.github.io/SixOhNine/script/sd/610.html"/>610 lucas da rosa/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a style="text-transform:uppercase;font-weight:900;color:#39FF14;" href="https://web.archive.org/web/20250604203736/https://3asyice.github.io/SixOhNine/script/sd/609.html"/>609 Carvalho/</a><p class="date b">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604203538/https://3asyice.github.io/SixOhNine/script/sd/608.html"/>608 gustavo drescher/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604203337/https://3asyice.github.io/SixOhNine/script/sd/607.html"/>607 Diniz Chimainski/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604203010/https://3asyice.github.io/SixOhNine/script/sd/606.html"/>606 Micael Schumacher/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604202744/https://3asyice.github.io/SixOhNine/script/sd/605.html"/>605 allan gabriel/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604202417/https://3asyice.github.io/SixOhNine/script/sd/604.html"/>604 Richard rafael/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604201720/https://3asyice.github.io/SixOhNine/script/sd/603.html"/>603 Guilherme Maidana/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604201248/https://3asyice.github.io/SixOhNine/script/sd/602.html"/>602 samuel weber/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604200937/https://3asyice.github.io/SixOhNine/script/sd/601.html"/>601 gabriel tassinari/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604200544/https://3asyice.github.io/SixOhNine/script/sd/39.html"/>39 grégori forgerini/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604200259/https://3asyice.github.io/SixOhNine/script/sd/37.html"/>37 augusto bergamnn/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604200120/https://3asyice.github.io/SixOhNine/script/sd/03.html"/>03 gabriel azevedo/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604195945/https://3asyice.github.io/SixOhNine/script/cel/soares.html"/>## everton soares bio/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item">
 <a href="https://web.archive.org/web/20250604194006/https://outraspalavras.net/outrasmidias/pioneiro-da-internet-brasileira-conta-como-se-vigia-a-rede/"/>backdoor e vigilância/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item">
@@ -49,7 +140,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 <div class="link-item">
 <a href="https://web.archive.org/web/20250510122449/https://www.social.org.br/relatorio2001/relatorio003.htm?hl=en-US"/>Tortura Militar/</a><p class="date">may 10, 2025 </p> <hr> </div>
 <div class="link-item">
-<a style="text-transform:uppercase;" href="https://web.archive.org/web/20250509232434/https://3asyice.github.io/Tapes/script/ep/9.html"/>Ep 9: a dor do luto/</a><p class="date">may 09, 2025 </p> <hr> </div>
+<a style="text-transform:uppercase;font-weight:900;color:#39FF14;" href="https://web.archive.org/web/20250509232434/https://3asyice.github.io/Tapes/script/ep/9.html"/>Ep 9: a dor do luto/</a><p class="date">may 09, 2025 </p> <hr> </div>
 <div class="link-item">
 <a href="https://archive.org/download/vid-20240825-wa-0000/vid-20240825-wa-0000_archive.torrent"/>acidente.torrent/</a><p class="date">apr 27, 2025 </p> <hr> </div>
 <div class="link-item">
