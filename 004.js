@@ -16,6 +16,18 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+
+
+
+
+<div class="link-item">
+<a href="https://web.archive.org/web/20250605012236/https://escola25dejulho.com.br/info/cpm.php"/>cpm 25 de julho/</a><p class="date">jun 05, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://3asyice.github.io/SixOhNine/script/black-news/Soldado-atropelado-por-advogada-enfrenta-sindic%C3%A2ncia.html"/>sindicância carvalho/</a><p class="date">jun 05, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250605011818/https://3asyice.github.io/SixOhNine/script/black-news/Coronel-Soares-expulsa-Carvalho-da%20B-ADM-GU-SM.html"/>expulso da badmgusm/</a><p class="date">jun 05, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250605011729/https://3asyice.github.io/SixOhNine/script/black-news/Suic%C3%ADdio-na-B-ADM-GU-SM.html"/>suicídio de soldado/</a><p class="date">jun 05, 2025 </p> <hr> </div>
 <div class="link-item">
 <a href="https://web.archive.org/web/20250605011216/https://3asyice.github.io/SixOhNine/script/cv/camila-dalcol-da-silva.html"/>advogada camila/</a><p class="date">jun 05, 2025 </p> <hr> </div>
 <div class="link-item">
