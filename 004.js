@@ -16,9 +16,18 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
-
-
+<div class="link-item">
+<a href="https://web.archive.org/web/20250605011216/https://3asyice.github.io/SixOhNine/script/cv/camila-dalcol-da-silva.html"/>advogada camila/</a><p class="date">jun 05, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250605010216/https://3asyice.github.io/SixOhNine/script/instrucao/ordem-das-pecas-do-fuzil-7-62.html"/>peças do fuzil 7,62/</a><p class="date">jun 05, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250605005739/https://3asyice.github.io/SixOhNine/script/instrucao/ordem_unida.html"/>ordem unida/</a><p class="date">jun 05, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250605005453/https://3asyice.github.io/SixOhNine/script/instrucao/duque_de_caxias.html"/>duque de caxias/</a><p class="date">jun 05, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250605005202/https://3asyice.github.io/SixOhNine/script/instrucao/principios_e_valores.html"/>principios e valores/</a><p class="date">jun 05, 2025 </p> <hr> </div>
+<div class="link-item">
+<a href="https://web.archive.org/web/20250604223622/https://3asyice.github.io/SixOhNine/script/cv/luciano-de-souza.html"/>fotógrafo luciano/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item">
 <a href="https://web.archive.org/web/20250604233059/https://3asyice.github.io/SixOhNine/assets/txt/conversa.txt"/>2025 conversa.txt/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 
@@ -106,7 +115,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 <a href="https://web.archive.org/web/20250604210751/https://3asyice.github.io/SixOhNine/script/sd/613.html"/>613 gabriel ebling/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 
 <div class="link-item">
-<a href="https://web.archive.org/web/20250529154540/https://3asyice.github.io/SixOhNine/script/sd/612.html"/>612 adrian gonçalves/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<a href="https://web.archive.org/web/20250604205831/https://3asyice.github.io/SixOhNine/script/sd/612.html"/>612 adrian gonçalves/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 
 <div class="link-item">
 <a href="https://web.archive.org/web/20250604205652/https://3asyice.github.io/SixOhNine/script/sd/611.html"/>611 carlos daniel/</a><p class="date">jun 04, 2025 </p> <hr> </div>
