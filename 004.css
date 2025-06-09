@@ -2,8 +2,8 @@
 
 @font-face {
   font-family: OCRA;
-  src: url('https://www.big-loser.site/Caso/OCRA Alt.otf') format('woff2');
-  font-display: swap
+  src: url('../../assets/font/OCRA Alt.otf') format('woff2');
+  font-display: swap;
 }
 
 * {
