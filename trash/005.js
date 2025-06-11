@@ -18,7 +18,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
+<div class="link-item">
+<a href="https://web.archive.org/web/20250611015646/https://3asyice.github.io/Spck-Test/"/>004 Archives/</a><p class="date">jun 10, 2025 </p> <hr> </div>
 <div class="link-item">
 <a href="https://web.archive.org/web/20250604231442/https://3asyice.github.io/SixOhNine/script/sd/640.html"/>640lucas van der sand/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item">
