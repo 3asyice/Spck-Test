@@ -15,8 +15,7 @@ function filterItems() {
 const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML = `<div id="links">
 
 
-
-
+<div class="link-item"><a href="https://3asyice.github.io/SixOhNine/script/home.html"/>Não Clique Aqui/</a><p class="date">jun 14, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://bancodedadosfeb.com.br/?soldiers=5692"/>Guilherme Coutinho/</a><p class="date">jun 11, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://bancodedadosfeb.com.br/?soldiers=23620"/>Túlio Carvalho Souza/</a><p class="date">jun 11, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://bancodedadosfeb.com.br/?soldiers=4289"/>sv — Octavio Carvalho/</a><p class="date">jun 11, 2025 </p> <hr> </div>
