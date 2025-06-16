@@ -19,7 +19,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 <div class="link-item"><a href="https://web.archive.org/web/20250616212442/https://3asyice.github.io/SixOhNine/script/sd/628.html"/>628 Anderson Oliveira/</a><p class="date">jun 16, 2025 </p> <hr> </div>
-<div class="link-item"><a href="assets/pdf/609/609.docx"/>livro 609 azar/</a><p class="date">jun 16, 2025 </p> <hr> </div>
+<div class="link-item"><a href="assets/pdf/609/609.docx"/>livro 609 recruta/</a><p class="date">jun 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250616203340/https://3asyice.github.io/SixOhNine/script/sd/069.html"/>069 Kawã lorentz/</a><p class="date">jun 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250616202658/https://3asyice.github.io/SixOhNine/script/sd/03.html"/>03 Azevedo/</a><p class="date">jun 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/SixOhNine/script/home.html"/>Não Clique Aqui/</a><p class="date">jun 14, 2025 </p> <hr> </div>
