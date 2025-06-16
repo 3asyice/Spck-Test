@@ -18,20 +18,18 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
-
-
-
-<div class="link-item"><a href="https://web.archive.org/web/20250616203340/https://3asyice.github.io/SixOhNine/script/sd/069.html"/>069 Kawã/</a><p class="date">jun 16, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250616212442/https://3asyice.github.io/SixOhNine/script/sd/628.html"/>628 Anderson Oliveira/</a><p class="date">jun 16, 2025 </p> <hr> </div>
+<div class="link-item"><a href="assets/pdf/609/609.docx"/>livro 609 azar/</a><p class="date">jun 16, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250616203340/https://3asyice.github.io/SixOhNine/script/sd/069.html"/>069 Kawã lorentz/</a><p class="date">jun 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250616202658/https://3asyice.github.io/SixOhNine/script/sd/03.html"/>03 Azevedo/</a><p class="date">jun 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/SixOhNine/script/home.html"/>Não Clique Aqui/</a><p class="date">jun 14, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://bancodedadosfeb.com.br/?soldiers=5692"/>Guilherme Coutinho/</a><p class="date">jun 11, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://bancodedadosfeb.com.br/?soldiers=23620"/>Túlio Carvalho Souza/</a><p class="date">jun 11, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://bancodedadosfeb.com.br/?soldiers=4289"/>sv — Octavio Carvalho/</a><p class="date">jun 11, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://bancodedadosfeb.com.br/?soldiers=4269"/>sv — Milton Carvalho/</a><p class="date">jun 11, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://bancodedadosfeb.com.br/?soldiers=4232"/>sv — Pereira Carvalho/</a><p class="date">jun 11, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://bancodedadosfeb.com.br/?soldiers=4225"/>sv — Souza Carvalho/</a><p class="date">jun 11, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://bancodedadosfeb.com.br/?soldiers=4218"/>sv — Alípio Carvalho/</a><p class="date">jun 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250616205115/https://bancodedadosfeb.com.br/?soldiers=23620"/>2nd we Túlio Carvalho/</a><p class="date">jun 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250616204848/https://bancodedadosfeb.com.br/?soldiers=4289"/>2nd ww Octavio Car.../</a><p class="date">jun 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250616204629/https://bancodedadosfeb.com.br/?soldiers=4269"/>2nd ww Milton Carv.../</a><p class="date">jun 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250611064135/https://bancodedadosfeb.com.br/?soldiers=4232"/>2nd ww josé Carvalho/</a><p class="date">jun 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250611063538/https://bancodedadosfeb.com.br/?soldiers=4225"/>2nd ww Souza Carvalho/</a><p class="date">jun 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250611062809/https://bancodedadosfeb.com.br/?soldiers=4218"/>2nd WW Alípio Carv.../</a><p class="date">jun 11, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250611061440/https://bancodedadosfeb.com.br/?soldiers=4197"/>Jayme José Carvalho/</a><p class="date">jun 11, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250611015646/https://3asyice.github.io/Spck-Test/"/>004 Archives/</a><p class="date">jun 11, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://drive.google.com/drive/folders/1pk5NaqoPW2afinGSfSPeetL8qc4Rv8P8"/>final destination 1-5/</a><p class="date">jun 05, 2025 </p> <hr> </div>
@@ -47,7 +45,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 <div class="link-item"><a href="https://web.archive.org/web/20250604223622/https://3asyice.github.io/SixOhNine/script/cv/luciano-de-souza.html"/>fotógrafo luciano/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250604233059/https://3asyice.github.io/SixOhNine/assets/txt/conversa.txt"/>2025 conversa.txt/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250604231630/https://3asyice.github.io/SixOhNine/script/sd/752.html"/>752 josé gabriel/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250604231442/https://3asyice.github.io/SixOhNine/script/sd/640.html"/>640lucas van der sand/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604231442/https://3asyice.github.io/SixOhNine/script/sd/640.html"/>640 lucas van der.../</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250604231255/https://3asyice.github.io/SixOhNine/script/sd/639.html"/>639 arthur keller/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250604231113/https://3asyice.github.io/SixOhNine/script/sd/638.html"/>638 juliano oliveira/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250604230829/https://3asyice.github.io/SixOhNine/script/sd/637.html"/>637 igor silva santos/</a><p class="date">jun 04, 2025 </p> <hr> </div>
@@ -65,7 +63,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 <div class="link-item"><a href="https://web.archive.org/web/20250604222604/https://3asyice.github.io/SixOhNine/script/sd/624.html"/>624 alisson nesske/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250604222246/https://3asyice.github.io/SixOhNine/script/sd/623.html"/>623 joão cardoso/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250604221928/https://3asyice.github.io/SixOhNine/script/sd/622.html"/>622 charles preuss/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250604221159/https://3asyice.github.io/SixOhNine/script/sd/621.html"/>621kainan zippenfeild/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604221159/https://3asyice.github.io/SixOhNine/script/sd/621.html"/>621 kainan zippen.../</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250604220929/https://3asyice.github.io/SixOhNine/script/sd/620.html"/>620 jeferson da silva/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250604220707/https://3asyice.github.io/SixOhNine/script/sd/619.html"/>619 alisson zancan/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250604215246/https://3asyice.github.io/SixOhNine/script/sd/618roger.html"/>618 luan roger/</a><p class="date">jun 04, 2025 </p> <hr> </div>
