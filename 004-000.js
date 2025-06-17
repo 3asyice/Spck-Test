@@ -18,6 +18,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20250617204510/https://3asyice.github.io/Spck-Test/"/>004 Archived Media/</a><p class="date">jun 17, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250617062257/https://3asyice.github.io/Spck-Test/assets/pdf/609/historia-de-um-recruta.pdf"/>história recruta.pdf/</a><p class="date">jun 17, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/iUOn6N6gD6U"/>Briga de Família yt/</a><p class="date">jun 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250616212442/https://3asyice.github.io/SixOhNine/script/sd/628.html"/>628 Anderson Oliveira/</a><p class="date">jun 16, 2025 </p> <hr> </div>
