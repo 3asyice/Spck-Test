@@ -18,6 +18,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+
+<div class="link-item"><a href="https://web.archive.org/web/20140822191407/http://www.boris-koch.de/wp-content/uploads/2011/01/Liste-Google-Hacking.pdf"/>google dork.pdf/</a><p class="date">jun 20, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.mediafire.com/file/9mac423oj2qskwt/A_HIST%25C3%2593RIA_DE_UM_RECRUTA.opus/file"/>A história de u...oga/</a><p class="date">jun 19, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.mediafire.com/file/yssd1rnzycz71pj/A_HIST%25C3%2593RIA_DE_UM_RECRUTA_-_O_FILME.mp4/file"/>A história de u...mp4/</a><p class="date">jun 19, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.mediafire.com/file/sxpuip86y7fuop0/A_HIST%25C3%2593RIA_DE_UM_RECRUTA.webm/file"/>A história de ...webm/</a><p class="date">jun 18, 2025 </p> <hr> </div>
