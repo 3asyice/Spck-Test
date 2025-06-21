@@ -18,6 +18,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+
 <div class="link-item"><a href="https://web.archive.org/web/20250621054838/https://3asyice.github.io/Spck-Test/teste.txt"/>badmgusm links.txt/</a><p class="date">jun 21, 2025 </p> <hr> </div>
 <div class="link-item"><a style="text-transform:uppercase;" href="https://3asyice.github.io/Infinity/script/home"/>BAD NEWS/</a><p class="date">jun 20, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20140822191407/http://www.boris-koch.de/wp-content/uploads/2011/01/Liste-Google-Hacking.pdf"/>google dork.pdf/</a><p class="date">jun 20, 2025 </p> <hr> </div>
@@ -299,6 +300,11 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 <div class="link-item"><a href="https://web.archive.org/web/20240915053759/https://www.malditonatal.online/daniele.html">malditonatal - dani/</a><p class="date">Sep 15, 2024</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20240914144838/https://www.big-loser.site/Caso/004_4RCH1V3S">Con_Archives_&copy;_004/</a><p class="date">Sep 14, 2024</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20240913031505/https://www.big-loser.site/Caso/004_4RCH1V3S">Con_Archives_&copy;_004/</a><p class="date">Sep 13, 2024</p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20240913045629/https://3asyice.github.io/MirrorNEWS/maio.html"/>maionews 2024/</a><p class="date">Sep 13, 2024 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20240913051401/https://3asyice.github.io/MirrorNEWS/junho.html"/>junhonews 2024/</a><p class="date">Sep 13, 2024 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20240913051624/https://3asyice.github.io/MirrorNEWS/julho.html"/>julhonews 2024/</a><p class="date">Sep 13, 2024 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20240913052319/https://3asyice.github.io/MirrorNEWS/chop-suey.html"/> as notas do suey/</a><p class="date">Sep 13, 2024 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20240913045043/https://3asyice.github.io/MirrorNEWS/buttons.html"/> The Mirror News/</a><p class="date">Sep 13, 2024 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20240913175959/https://bandersnatch.club/">bandersnatch.club/</a><p class="date">Sep 13, 2024</p><hr></div>
 <div class="link-item"><a href="http://web.archive.org/web/20240913052319/https://3asyice.github.io/MirrorNEWS/chop-suey.html">MirrorNEWS - chop/</a><p class="date">Sep 13, 2024</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20240913231132/https://3asyice.github.io/Regulamento-Disciplinar-do-Ex-rcito-Brasileiro/">Artigo do RDE/</a><p class="date">Sep 13, 2024</p><hr></div>
