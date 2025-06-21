@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Base Administrativa da Guarnição de Santa Maria</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      background-color: #3D3D3D;
+    }
+
+    .link-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 20px;
+    }
+
+    .link-item {
+      background-color: rgba(0, 0, 0, 1);
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      padding: 15px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    .link-item a {
+      text-decoration: none;
+      color: rgba(19, 255, 0, 1);
+      border-bottom: 2px dashed rgba(161, 161, 161, 1);
+      font-weight: bold;
+    }
+
+    .link-item a:hover {
+      text-decoration: underline;
+    }
+
+    .date {
+      color: rgba(255, 253, 0, 1);
+      margin: 5px 0;
+    }
+
+    .embeds {
+      color: rgba(255, 44, 44, 1);
+      font-size: 0.9em;
+    }
+
+    hr {
+      border: 1px dashed #eee;
+      margin: 10px 0;
+    }
+
+    h1,
+    h2,
+    h3 {
+      color: rgba(255, 255, 255, 1);
+      font-family: 'Times New Roman', Times, serif;
+      text-align: center;
+    }
+
+    .search-container {
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    .search-input {
+      padding: 10px;
+      width: 80%;
+      max-width: 600px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Base Administrativa</h1>
+  <h2>da Guarnição de</h2>
+  <h3> Santa Maria</h3>
+
+  <div class="search-container">
+    <input type="text" id="searchInput" class="search-input" placeholder="Buscar links...">
+  </div>
+
+  <div class="link-grid" id="linkGrid">
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113235/https://badmgusm.eb.mil.br/">BADMGUSM / updated</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">44 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113235/http://web.archive.org/screenshot/https://badmgusm.eb.mil.br/">Screenshot BADMGUSM</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">0 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113318/https://3de.eb.mil.br/">3DE / updated</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">49 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113315/https://www.gov.br/acessoainformacao/pt-br">Acesso à Informação</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">102 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113316/https://cms.eb.mil.br/">CMS EB</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">53 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113318/https://www.gov.br/defesa/pt-br">Defesa</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">43 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113337/https://www.gov.br/acessoainformacao/pt-br">Acesso à Informação (novamente)</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">102 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113318/https://www.gov.br/pt-br/orgaos-do-governo">Órgãos do Governo</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">93 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113317/https://www.gov.br/secom/pt-br/acesso-a-informacao/comunicabr">Comunica BR</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">106 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113313/https://www.joomla.org/">Joomla</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">46 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113314/http://www4.planalto.gov.br/legislacao/">Legislação</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">3 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113303/https://badmgusm.eb.mil.br/images/informativo.pdf">Informativo PDF</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">0 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113414/https://badmgusm.eb.mil.br/favicon.ico">Favicon</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">1 embed</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113410/https://badmgusm.eb.mil.br/index.php/acessibilidade">Acessibilidade</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">32 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113346/https://badmgusm.eb.mil.br/index.php/adjunto-de-comando">Adjunto de Comando</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">33 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113342/https://badmgusm.eb.mil.br/index.php/cancao-b-adm-gu-sm">Canção B ADM GU SM</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">32 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113318/https://badmgusm.eb.mil.br/index.php/comandante">Comandante</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">31 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915114104/https://badmgusm.eb.mil.br/index.php/component/content/article#login">Login Artigo</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">22 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113446/https://badmgusm.eb.mil.br/index.php/component/users/?view=registration">Registro</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">34 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113440/https://badmgusm.eb.mil.br/index.php/component/users/?view=remind">Lembrar senha</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">35 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113350/https://badmgusm.eb.mil.br/index.php/component/users/?view=reset">Resetar senha</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">35 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113324/https://badmgusm.eb.mil.br/index.php/fale-conosco">Fale Conosco</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">32 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113310/https://badmgusm.eb.mil.br/index.php/galeria-dos-eternos-comandantes">Galeria dos Eternos Comandantes</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">35 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113333/https://badmgusm.eb.mil.br/index.php/historico">Histórico</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">32 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113356/https://badmgusm.eb.mil.br/index.php/htsm">HTSM</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">33 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113321/https://badmgusm.eb.mil.br/index.php/licitacoes-comprasnet">Licitações Comprasnet</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">31 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113312/https://badmgusm.eb.mil.br/index.php/links-2">Links</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">33 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113404/https://badmgusm.eb.mil.br/index.php/mapa-do-site">Mapa do Site</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">32 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113332/https://badmgusm.eb.mil.br/index.php/missao-e-visao">Missão e Visão</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">35 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113308/https://badmgusm.eb.mil.br/index.php/novo">Novo</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">47 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113405/https://badmgusm.eb.mil.br/index.php/portal-de-contratacoes-publicas-da-b-adm-gu-sm">Portal de Contratações</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">32 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113412/https://badmgusm.eb.mil.br/favicon.ico">Favicon (Outros)</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">1 embed</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113328/https://badmgusm.eb.mil.br/index.php/sfpc-produtos-controlados">SFPC Produtos Controlados</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">42 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113520/https://badmgusm.eb.mil.br/index.php/sic-servico-de-informacao-ao-cidadao">SIC - Serviço de Informação ao Cidadão</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">32 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113320/https://badmgusm.eb.mil.br/index.php/subcomandante">Subcomandante</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">33 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113326/https://badmgusm.eb.mil.br/index.php/subordinacao">Subordinação</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">33 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113416/https://badmgusm.eb.mil.br/index.php/todas-as-noticias">Todas as Notícias</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">45 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915114109/https://badmgusm.eb.mil.br/index.php/todas-as-noticias/2253-palestra-sobre-valorizacao-da-vida-aos-soldados-do-efetivo-variavel">Palestra sobre Valorização da Vida</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">41 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113330/https://badmgusm.eb.mil.br/index.php/veteranos-e-pensionistas">Veteranos e Pensionistas</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">34 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113314/https://pagtesouro.tesouro.gov.br/portal-gru/#/pagamento-gru">Pagamento GRU</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">23 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915114104/https://pncp.gov.br/app/pca/00394452000103/2023/307">PNCP 2023</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">31 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113314/https://pncp.gov.br/app/pca/00394452000103/2024/302">PNCP 2024</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">32 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113336/https://pncp.gov.br/app/pca/00394452000103/2025/219">PNCP 2025</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">32 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113439/https://sga.eb.mil.br/Login_controller/index">Login SGA</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">21 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://webmail.badmgusm.eb.mil.br/">Webmail BADMGUSM</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">Unreachable</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915114103/https://www.gov.br/pt-br/participacao-social/">Participação Social</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">94 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113348/https://docs.google.com/forms/d/e/1FAIpQLSeiPZW640KQ7xVzds52RFM9LTaAl3-dr5GBKXgi06dH_mIaAA/viewform">Formulário Google</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">92 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113347/https://sga.eb.mil.br/Login_controller/index">Login SGA (Outros)</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">21 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113346/https://www.badmgusm.eb.mil.br/index.php/component/content/article?id=2258&">Artigo 2258</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">41 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113459/https://www.badmgusm.eb.mil.br/index.php/component/content/article?id=2262&">Artigo 2262</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">36 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113353/https://www.badmgusm.eb.mil.br/index.php/component/content/article?id=2261&">Artigo 2261</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">35 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113340/https://badmgusm.eb.mil.br/index.php/component/content/article?id=2261">Artigo 2261 (Outros)</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">35 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113408/https://badmgusm.eb.mil.br/index.php/component/content/article?id=2262">Artigo 2262 (Outros)</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">36 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113427/https://badmgusm.eb.mil.br/index.php/component/content/article?id=2263">Artigo 2263</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">35 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113403/https://badmgusm.eb.mil.br/index.php/component/content/article?id=2264">Artigo 2264</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">39 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113456/https://badmgusm.eb.mil.br/index.php/component/content/article?id=2265">Artigo 2265</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">35 embeds</p>
+      <hr>
+    </div>
+    <div class="link-item">
+      <a href="https://web.archive.org/web/20240915113354/https://badmgusm.eb.mil.br/index.php/component/content/article?id=2266">Artigo 2266</a>
+      <p class="date">Sep 15, 2024</p>
+      <p class="embeds">56 embeds</p>
+      <hr>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById('searchInput').addEventListener('input', function () {
+      const filter = this.value.toLowerCase();
+      const linkItems = document.querySelectorAll('.link-item');
+
+      linkItems.forEach(item => {
+        const linkText = item.querySelector('a').textContent.toLowerCase();
+        if (linkText.includes(filter)) {
+          item.style.display = '';
+        } else {
+          item.style.display = 'none';
+        }
+      });
+    });
+  </script>
+
+</body>
+
+        </html>
