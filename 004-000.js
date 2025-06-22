@@ -19,6 +19,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20250622184747/https://noticias.uol.com.br/internacional/ultimas-noticias/2025/06/22/eua-ataca-ira-que-se-reune-com-putin-entenda-o-risco-de-3-guerra-mundial.htm"/>EUA ataca Irã/</a><p class="date">jun 22, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250621054838/https://3asyice.github.io/Spck-Test/teste.txt"/>badmgusm links.txt/</a><p class="date">jun 21, 2025 </p> <hr> </div>
 <div class="link-item"><a style="text-transform:uppercase;" href="https://3asyice.github.io/Infinity/script/home"/>BAD NEWS/</a><p class="date">jun 20, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20140822191407/http://www.boris-koch.de/wp-content/uploads/2011/01/Liste-Google-Hacking.pdf"/>google dork.pdf/</a><p class="date">jun 20, 2025 </p> <hr> </div>
