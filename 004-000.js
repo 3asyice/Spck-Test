@@ -18,6 +18,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20250622204333/https://3asyice.github.io/Spck-Test/badmgusm-pagamento.pdf"/>badmgusm pagamento/</a><p class="date">jun 22, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250622201200/https://diariosm.com.br/noticias/geral/saiba_como_e_a_administracao_do_exercito_em_santa_maria.455060"/>Administração EB SM/</a><p class="date">jun 22, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250622195938/https://geneall.net/pt/forum/46357/bicentenario-de-nascimento-do-duque-de-caxias/"/>Duque De Caxias/</a><p class="date">jun 22, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250622195431/https://www.defesabrasil.com/forum/viewtopic.php?t=7195&start=45"/>Operações E... Fórum/</a><p class="date">jun 22, 2025 </p> <hr> </div>
