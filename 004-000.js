@@ -17,7 +17,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
+<div class="link-item"><a href="https://web.archive.org/web/20250623174808/https://ijuinews.com.br/index.php?m=news&a=detail&id=9660"/>gustavo daniel b.../</a><p class="date">jun 23, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250623173859/https://www.radiocidadesa.com.br/index.php?m=noticias&a=detail&id=21426"/>colisão de carretas/</a><p class="date">jun 23, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250622204333/https://3asyice.github.io/Spck-Test/badmgusm-pagamento.pdf"/>badmgusm pagamento/</a><p class="date">jun 22, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250622201200/https://diariosm.com.br/noticias/geral/saiba_como_e_a_administracao_do_exercito_em_santa_maria.455060"/>Administração EB SM/</a><p class="date">jun 22, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250622195938/https://geneall.net/pt/forum/46357/bicentenario-de-nascimento-do-duque-de-caxias/"/>Duque De Caxias/</a><p class="date">jun 22, 2025 </p> <hr> </div>
@@ -225,6 +226,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 <div class="link-item"><a href="https://web.archive.org/web/20250208025819/https://www.big-loser.site/">big loser.site/</a><p class="date">Feb 08, 2025</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20250201102618/https://www.big-loser.site/">big loser.site/</a><p class="date">Feb 01, 2025</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20250127170619/https://www.big-loser.site/">big loser.site/</a><p class="date">Jan 27, 2025</p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250120121045/https://ijuinews.com.br/index.php?m=news&a=detail&id=9660">Gustavo Daniel B.../</a><p class="date">Jan 20, 2025</p><hr></div>
 <div class="link-item"><a href="https://youtu.be/F9fflX-9wRA">big loser podcast/</a><p class="date">Jan 19, 2025</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20250125013140/https://www.big-loser.site/Caso/aeropass/VID-20240825-WA0000.mp4">Vídeo atropelamento/</a><p class="date">Jan 19, 2025</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20250118021045/https://www.big-loser.site/Caso/040">040 ocorrência/</a><p class="date">Jan 18, 2025</p><hr></div>
