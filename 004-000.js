@@ -16,6 +16,10 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+
+
+<div class="link-item"><a href="https://web.archive.org/web/20250624095059/https://dol.com.br/carajas/noticias/mundo/911773/descubra-o-numero-chocante-de-sobreviventes-do-titanic?d=1"/>Titanic número de.../</a><p class="date">jun 24, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250624075223/https://www.reddit.com/r/brasil/comments/1h00y3k/o_ex%C3%A9rcito_brasileiro_n%C3%A3o_serve_pra_nada_e/"/>sobre Exército Fórum/</a><p class="date">jun 24, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250624054823/https://www.defesaemfoco.com.br/visita-de-orientacao-tecnica-revela-progresso-do-projeto-ebfcil-na-guarnicao-de-santa-maria/"/>EB F@cil/</a><p class="date">jun 24, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250623213517/https://www.terra.com.br/noticias/brasil/cidades/boate-kiss-tragedia-completa-12-anos-saiba-quem-foi-responsabilizado-e-se-acusados-estao-presos,1da1d26c3781d132ebe350b166a9cbc6ui0f0k79.html"/>boate kiss história/</a><p class="date">jun 23, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250623180010/https://www.terra.com.br/noticias/brasil/cidades/jovem-e-morto-a-tiros-em-ijui-policia-investiga-o-caso,25b4f05b6f6a7232df64ce9da50b3bcen5zzh79o.html"/>gustavo daniel bat.../</a><p class="date">jun 23, 2025 </p> <hr> </div>
@@ -140,10 +144,12 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 <div class="link-item"><a href="https://web.archive.org/web/20250420185859/https://3asyice.github.io/natal/"/>malditonatal origem/</a><p class="date">apr 20, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250419043752/https://www.ocafezinho.com/2024/07/22/exercito-brasileiro-insistente-em-nao-revelar-militares-envolvidos-em-carta-golpista/"/>Carta Golpista EB/</a><p class="date">apr 19, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250418172619/https://www.scielo.br/j/rbh/a/3B49LhDfNKhDKqVPZjvxY5R/"/>Gran Circus Tragedy/</a><p class="date">apr 18, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250407110023/https://www.reddit.com/r/brasil/comments/1h00y3k/o_ex%C3%A9rcito_brasileiro_n%C3%A3o_serve_pra_nada_e/"> sobre Exército Fórum/</a><p class="date">apr 07, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250405050541/https://ric.com.br/seguranca/acidentes/aluna-ufsm-decidiu-nao-embarcar-na-vespera-de-acidente/"> sorte ou premonição?/</a><p class="date">apr 05, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250405064854/https://www.big-loser.site/Caso/031"/>All Cassetes Fitas/</a><p class="date">apr 05, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250405045939/https://ric.com.br/seguranca/acidentes/veja-lista-nomes-vitimas-acidente-onibus-ufsm/">bus accident 7 death/</a><p class="date">apr 05, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250328081437/https://aventurasnahistoria.com.br/noticias/reportagem/perdida-no-oceano-trajetoria-de-bahia-bakari-unica-sobrevivente-de-um-terrivel-acidente-de-aviao.phtml"> Bahia Bakari_survivor/</a><p class="date"> mar 28, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250328000343/https://www.cnnbrasil.com.br/blogs/fernando-nakagawa/economia/macroeconomia/gasto-militar-com-pessoal-no-brasil-e-proporcionalmente-mais-que-o-triplo-dos-eua/">gasto militar no BR/</a> <p class="date"> mar 28, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250328075757/https://www.cnnbrasil.com.br/nacional/sudeste/sp/queda-de-aviao-relembre-cronologia-do-acidente-da-voepass-em-vinhedo-sp/">Voepass 2283/</a> <p class="date"> mar 28, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250328075304/https://cgn.inf.br/noticia/1773188/mae-de-vitima-do-voo-2283-critica-voepass-e-como-se-eles-matassem-nossos-familiares-outra-vez"> critica Voepass/</a><p class="date"> mar 28, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250328072720/https://manchetempo.uff.br/?p=2941">242 mortes Boate Kiss/</a> <p class="date"> mar 28, 2025</p><hr></div>
