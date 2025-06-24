@@ -16,7 +16,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
+<div class="link-item"><a href="https://web.archive.org/web/20250624054823/https://www.defesaemfoco.com.br/visita-de-orientacao-tecnica-revela-progresso-do-projeto-ebfcil-na-guarnicao-de-santa-maria/"/>EB F@cil/</a><p class="date">jun 24, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250623213517/https://www.terra.com.br/noticias/brasil/cidades/boate-kiss-tragedia-completa-12-anos-saiba-quem-foi-responsabilizado-e-se-acusados-estao-presos,1da1d26c3781d132ebe350b166a9cbc6ui0f0k79.html"/>boate kiss história/</a><p class="date">jun 23, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250623180010/https://www.terra.com.br/noticias/brasil/cidades/jovem-e-morto-a-tiros-em-ijui-policia-investiga-o-caso,25b4f05b6f6a7232df64ce9da50b3bcen5zzh79o.html"/>gustavo daniel bat.../</a><p class="date">jun 23, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250623174808/https://ijuinews.com.br/index.php?m=news&a=detail&id=9660"/>gustavo daniel bat.../</a><p class="date">jun 23, 2025 </p> <hr> </div>
