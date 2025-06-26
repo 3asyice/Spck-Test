@@ -20,7 +20,7 @@ html {
 }
 
 div.link-item hr {
-  border: 1px solid #8ed18c
+  border: 1px dashed #8ed18c
 }
 
 .h1__title {
@@ -163,7 +163,8 @@ a {
   margin-right: 0%;
   width: 100%;
   border-radius: 10px;
-  background: url('../../assets/img/bg/coded.jpg') center/cover no-repeat fixed;
+  background: url('../assets/img/bg/coded.jpg') center/cover no-repeat fixed;
+  
   /* background: url(https://web.archive.org/web/20250420022153/https://www.big-loser.site/Caso/img/helloNeo.gif) center/cover no-repeat fixed; */
 }
 
