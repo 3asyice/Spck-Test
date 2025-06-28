@@ -18,7 +18,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
+<div class="link-item"><a href="https://web.archive.org/web/20250628074644/https://www.the-independent.com/life-style/facebook-artificial-intelligence-ai-chatbot-new-language-research-openai-google-a7869706.html"/>facebook bots lan.../</a><p class="date">jun 28, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250624141753/https://pt.stackoverflow.com/questions/86869/o-que-%C3%A9-intelig%C3%AAncia-artificial"/>o que é I.A?/</a><p class="date">jun 24, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250624095059/https://dol.com.br/carajas/noticias/mundo/911773/descubra-o-numero-chocante-de-sobreviventes-do-titanic?d=1"/>Titanic número de.../</a><p class="date">jun 24, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250624075223/https://www.reddit.com/r/brasil/comments/1h00y3k/o_ex%C3%A9rcito_brasileiro_n%C3%A3o_serve_pra_nada_e/"/>sobre Exército Fórum/</a><p class="date">jun 24, 2025 </p> <hr> </div>
