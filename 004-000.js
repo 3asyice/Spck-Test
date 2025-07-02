@@ -19,6 +19,9 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/youtube-njGbbwp1H2I"/>Final Destination yt/</a><p class="date">jul 01, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250701183238/https://jovempan.com.br/noticias/brasil/sobrevivente-da-boate-kiss-que-seria-testemunha-morre-aos-33-anos.html"/>kiss survivor died/</a><p class="date">jul 01, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250701182640/https://diariogaucho.clicrbs.com.br/policia/noticia/2013/02/apos-desistir-de-festa-na-boate-kiss-jovem-morre-em-acidente-no-parana-4034361.html"/>Jéssica's Premonition/</a><p class="date">jul 01, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250701080906/https://hemeroteca-pdf.bn.gov.br/830259/per830259_1951_00821.pdf"/>hemeroteca.pdf/</a><p class="date">jul 01, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250630070439/https://3asyice.github.io/SixOhNine/script/sd/621.html"/>621 Kainan Zippen.../</a><p class="date">jun 30, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250628074644/https://www.the-independent.com/life-style/facebook-artificial-intelligence-ai-chatbot-new-language-research-openai-google-a7869706.html"/>facebook bots lan.../</a><p class="date">jun 28, 2025 </p> <hr> </div>
