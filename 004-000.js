@@ -19,6 +19,11 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+
+<div class="link-item"><a href="https://archive.org/details/music-videos-MTV-00s"/>MTV 2000s video clip/</a><p class="date">jul 01, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/vts-01-1_20201020_1822/MTV+Top+100+1989+94-75/VTS_01_1.VOB"/>MTV Top 100 1989/</a><p class="date">jul 01, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/vts-01-1_20201015_1811/MTV+-+January+1986+A/1986-01-11/Disc+2/VTS_01_1.VOB"/>MTV Jan 1986/</a><p class="date">jul 01, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/ds-store_202207/MTV+Jackass+Vol+1-6+dvds/Disc+1/VIDEO_TS/VTS_01_1.VOB"/>Jackass Show/</a><p class="date">jul 01, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/youtube-njGbbwp1H2I"/>Final Destination yt/</a><p class="date">jul 01, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250701183238/https://jovempan.com.br/noticias/brasil/sobrevivente-da-boate-kiss-que-seria-testemunha-morre-aos-33-anos.html"/>kiss survivor died/</a><p class="date">jul 01, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250701182640/https://diariogaucho.clicrbs.com.br/policia/noticia/2013/02/apos-desistir-de-festa-na-boate-kiss-jovem-morre-em-acidente-no-parana-4034361.html"/>Jéssica's Premonition/</a><p class="date">jul 01, 2025 </p> <hr> </div>
