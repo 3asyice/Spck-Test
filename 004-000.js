@@ -19,8 +19,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-https://web.archive.org/web/20240506034114/https://www.healthline.com/nutrition/blue-lotus-flower
-
+<div class="link-item"><a href="https://web.archive.org/web/20250703114519/https://3asyice.github.io/Spck-Test/37_bergmann_609.html"/>Bergmann dançarino/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20240506034114/https://www.healthline.com/nutrition/blue-lotus-flower"/>blue lotus flower/</a><p class="date">jul 03, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20240506064619/https://en.wikipedia.org/wiki/Nymphaea_nouchali_var._caerulea"/>blue lotus wikipedia/</a><p class="date">jul 03, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250703084042if_/https://www.ufsm.br/app/uploads/sites/342/2022/09/Vaga-confirmada-subsequentes.pdf"/>forgerini mecân. 2023/</a><p class="date">jul 03, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250703083239/https://3asyice.github.io/Spck-Test/forgerini-facebook-comments.mp4"/>forgerini comments FB/</a><p class="date">jul 03, 2025 </p> <hr> </div>
