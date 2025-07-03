@@ -20,6 +20,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20250703055342/https://3asyice.github.io/Spck-Test/nada-importante.mp3"/>Petry - Nada é impo../</a><p class="date">jul 03, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250703030624/https://3asyice.github.io/Infinity/script/news!/032.html"/>Campo Período Básico/</a><p class="date">jul 03, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250703030048/https://3asyice.github.io/Infinity/script/home.html"/>BADMGUSM NEWS/</a><p class="date">jul 03, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250703025803/https://3asyice.github.io/Infinity/script/news!/000.html"/>incorporação 2024/</a><p class="date">jul 03, 2025 </p> <hr> </div>
