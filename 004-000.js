@@ -19,6 +19,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20250703165122/https://processos.stm.jus.br/consulta.php?q_or=&s=&fq_assunto_pesquisa__1=DIREITO%20PENAL&fq_orgao=3%C2%AA%20AUDITORIA%20DA%203%C2%AA%20CJM&q=%2A&&fq_meio=ELETR%C3%94NICO"/>Everton Soares jus.br/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250703121541/https://3asyice.github.io/SixOhNine/berg"/>Bergmann dançarino/</a><p class="date">jul 03, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250703114519/https://3asyice.github.io/Spck-Test/37_bergmann_609.html"/>Bergmann dançarino/</a><p class="date">jul 03, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20240506034114/https://www.healthline.com/nutrition/blue-lotus-flower"/>blue lotus flower/</a><p class="date">jul 03, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20240506064619/https://en.wikipedia.org/wiki/Nymphaea_nouchali_var._caerulea"/>blue lotus wikipedia/</a><p class="date">jul 03, 2025 </p> <hr> </div>
