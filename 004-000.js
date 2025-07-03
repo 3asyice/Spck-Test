@@ -20,6 +20,9 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20250703030624/https://3asyice.github.io/Infinity/script/news!/032.html"/>Campo Período Básico/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250703030048/https://3asyice.github.io/Infinity/script/home.html"/>BADMGUSM NEWS/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250703025803/https://3asyice.github.io/Infinity/script/news!/000.html"/>incorporação 2024/</a><p class="date">jul 03, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250702211811/https://3asyice.github.io/Spck-Test/prompts.txt"/>chatgpt prompts/</a><p class="date">jul 02, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/music-videos-MTV-00s"/>MTV 2000s video clip/</a><p class="date">jul 01, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/vts-01-1_20201020_1822/MTV+Top+100+1989+94-75/VTS_01_1.VOB"/>MTV Top 100 1989/</a><p class="date">jul 01, 2025 </p> <hr> </div>
