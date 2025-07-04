@@ -19,6 +19,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20250704235511/https://3asyice.github.io/Spck-Test/Archived_Media.zip"/>Archived_Media.zip/</a><p class="date">jul 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250704082125/https://3asyice.github.io/Spck-Test/cassia-araujo-pic.zip"/>Cássia Araújo pic.zip/</a><p class="date">jul 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250704082125/https://3asyice.github.io/Spck-Test/camila-braga-photos.zip"/>camila braga pics.zip/</a><p class="date">jul 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250703181804if_/https://colegiomanoelribas.weebly.com/uploads/4/3/5/5/43556501/1º_i.pdf"/>1º ano Ens. M. Kainan/</a><p class="date">jul 03, 2025 </p> <hr> </div>
