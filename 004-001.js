@@ -19,6 +19,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20250706215403if_/https://www.megacurioso.com.br/ciencia/125049-byford-dolphin-um-dos-piores-acidentes-maritimos-ja-registrados.htm"/>Byford Dolphin Aci.../</a><p class="date">jul 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.reddit.com/r/concursospublicos/comments/1kprp4d/minha_carreira_acabou_exclus%C3%A3o_das_for%C3%A7as_armadas/"/>Exclusão do EB Fórum/</a><p class="date">jul 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250704235511if_/https://3asyice.github.io/Spck-Test/Archived_Media.zip"/>Archived_Media.zip/</a><p class="date">jul 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250704082125if_/https://3asyice.github.io/Spck-Test/cassia-araujo-pic.zip"/>Cássia Araújo pic.zip/</a><p class="date">jul 04, 2025 </p> <hr> </div>

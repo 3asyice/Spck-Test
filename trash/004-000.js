@@ -18,272 +18,193 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-<div class="link-item">
-<a href="https://web.archive.org/web/20250611015646/https://3asyice.github.io/Spck-Test/"/>004 Archives/</a><p class="date">jun 11, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://drive.google.com/drive/folders/1pk5NaqoPW2afinGSfSPeetL8qc4Rv8P8"/>final destination 1-5/</a><p class="date">jun 05, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250605012236/https://escola25dejulho.com.br/info/cpm.php"/>cpm 25 de julho/</a><p class="date">jun 05, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://3asyice.github.io/SixOhNine/script/black-news/Soldado-atropelado-por-advogada-enfrenta-sindic%C3%A2ncia.html"/>sindicância carvalho/</a><p class="date">jun 05, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250605011818/https://3asyice.github.io/SixOhNine/script/black-news/Coronel-Soares-expulsa-Carvalho-da%20B-ADM-GU-SM.html"/>expulso da badmgusm/</a><p class="date">jun 05, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250605011729/https://3asyice.github.io/SixOhNine/script/black-news/Suic%C3%ADdio-na-B-ADM-GU-SM.html"/>suicídio de soldado/</a><p class="date">jun 05, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250605011216/https://3asyice.github.io/SixOhNine/script/cv/camila-dalcol-da-silva.html"/>advogada camila/</a><p class="date">jun 05, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250605010216/https://3asyice.github.io/SixOhNine/script/instrucao/ordem-das-pecas-do-fuzil-7-62.html"/>peças do fuzil 7,62/</a><p class="date">jun 05, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250605005739/https://3asyice.github.io/SixOhNine/script/instrucao/ordem_unida.html"/>ordem unida/</a><p class="date">jun 05, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250605005453/https://3asyice.github.io/SixOhNine/script/instrucao/duque_de_caxias.html"/>duque de caxias/</a><p class="date">jun 05, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250605005202/https://3asyice.github.io/SixOhNine/script/instrucao/principios_e_valores.html"/>principios e valores/</a><p class="date">jun 05, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604223622/https://3asyice.github.io/SixOhNine/script/cv/luciano-de-souza.html"/>fotógrafo luciano/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604233059/https://3asyice.github.io/SixOhNine/assets/txt/conversa.txt"/>2025 conversa.txt/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604231630/https://3asyice.github.io/SixOhNine/script/sd/752.html"/>752 josé gabriel/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604231442/https://3asyice.github.io/SixOhNine/script/sd/640.html"/>640lucas van der sand/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604231255/https://3asyice.github.io/SixOhNine/script/sd/639.html"/>639 arthur keller/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604231113/https://3asyice.github.io/SixOhNine/script/sd/638.html"/>638 juliano oliveira/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604230829/https://3asyice.github.io/SixOhNine/script/sd/637.html"/>637 igor silva santos/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604230606/https://3asyice.github.io/SixOhNine/script/sd/636.html"/>636 emanuel pereira/</a><p class="date">jun 04, 2025 </p> <hr> </div> 
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604230339/https://3asyice.github.io/SixOhNine/script/sd/635.html"/>635 carlos eduardo/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604225322/https://3asyice.github.io/SixOhNine/script/sd/634.html"/>634 gabriel de vargas/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604225102/https://3asyice.github.io/SixOhNine/script/sd/633.html"/>633 vagner coelho/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604224925/https://3asyice.github.io/SixOhNine/script/sd/632.html"/>632 cassio alberto/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604224729/https://3asyice.github.io/SixOhNine/script/sd/631.html"/>631 jeremias fagundes/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604224343/https://3asyice.github.io/SixOhNine/script/sd/630.html"/>630 matheus machado/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604224033/https://3asyice.github.io/SixOhNine/script/sd/629.html"/>629 Cirineu Magalhães/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604223820/https://3asyice.github.io/SixOhNine/script/sd/627.html"/>627 joão vitor lemos/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604223319/https://3asyice.github.io/SixOhNine/script/sd/626.html"/>626 miguel xavier/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604222939/https://3asyice.github.io/SixOhNine/script/sd/625honig.html"/>625 leonardo hönig/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604222604/https://3asyice.github.io/SixOhNine/script/sd/624.html"/>624 alisson nesske/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604222246/https://3asyice.github.io/SixOhNine/script/sd/623.html"/>623 joão cardoso/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604221928/https://3asyice.github.io/SixOhNine/script/sd/622.html"/>622 charles preuss/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604221159/https://3asyice.github.io/SixOhNine/script/sd/621.html"/>621kainan zippenfeild/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604220929/https://3asyice.github.io/SixOhNine/script/sd/620.html"/>620 jeferson da silva/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604220707/https://3asyice.github.io/SixOhNine/script/sd/619.html"/>619 alisson zancan/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604215246/https://3asyice.github.io/SixOhNine/script/sd/618roger.html"/>618 luan roger/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604213332/https://3asyice.github.io/SixOhNine/script/sd/617.html"/>617 everton silvano/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604211640/https://3asyice.github.io/SixOhNine/script/sd/616.html"/>616 frederico gregori/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604211413/https://3asyice.github.io/SixOhNine/script/sd/615.html"/>615 ricardo bernardi/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604210958/https://3asyice.github.io/SixOhNine/script/sd/614.html"/>614 carlos teixeira/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604210751/https://3asyice.github.io/SixOhNine/script/sd/613.html"/>613 gabriel ebling/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604205831/https://3asyice.github.io/SixOhNine/script/sd/612.html"/>612 adrian gonçalves/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604205652/https://3asyice.github.io/SixOhNine/script/sd/611.html"/>611 carlos daniel/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://www.reddit.com/r/concursospublicos/comments/1kprp4d/minha_carreira_acabou_exclus%C3%A3o_das_for%C3%A7as_armadas/"/>Exclusão do EB Fórum/</a><p class="date">jul 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250704235511/https://3asyice.github.io/Spck-Test/Archived_Media.zip"/>Archived_Media.zip/</a><p class="date">jul 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250704082125/https://3asyice.github.io/Spck-Test/cassia-araujo-pic.zip"/>Cássia Araújo pic.zip/</a><p class="date">jul 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250704082125/https://3asyice.github.io/Spck-Test/camila-braga-photos.zip"/>camila braga pics.zip/</a><p class="date">jul 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250703181804if_/https://colegiomanoelribas.weebly.com/uploads/4/3/5/5/43556501/1º_i.pdf"/>1º ano Ens. M. Kainan/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250703172847if_/https://www.ufsm.br/app/uploads/sites/342/2023/12/vestibular_2024_lista_de_espera.pdf"/>eng. elétrica weber/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250703165122/https://processos.stm.jus.br/consulta.php?q_or=&s=&fq_assunto_pesquisa__1=DIREITO%20PENAL&fq_orgao=3%C2%AA%20AUDITORIA%20DA%203%C2%AA%20CJM&q=%2A&&fq_meio=ELETR%C3%94NICO"/>Everton Soares jus.br/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250703121541/https://3asyice.github.io/SixOhNine/berg"/>Bergmann dançarino/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250703114519/https://3asyice.github.io/Spck-Test/37_bergmann_609.html"/>Bergmann dançarino/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20240506034114/https://www.healthline.com/nutrition/blue-lotus-flower"/>blue lotus flower/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20240506064619/https://en.wikipedia.org/wiki/Nymphaea_nouchali_var._caerulea"/>blue lotus wikipedia/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250703084042if_/https://www.ufsm.br/app/uploads/sites/342/2022/09/Vaga-confirmada-subsequentes.pdf"/>forgerini mecân. 2023/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250703083239/https://3asyice.github.io/Spck-Test/forgerini-facebook-comments.mp4"/>forgerini comments FB/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250703080320/https://3asyice.github.io/Spck-Test/test.html"/>nosedive rates/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250703055626/https://3asyice.github.io/Spck-Test/hannahBaker.txt"/>Hannah Baker Fita.txt/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250703055342/https://3asyice.github.io/Spck-Test/nada-importante.mp3"/>Petry - Nada é i.mp3/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250703030624/https://3asyice.github.io/Infinity/script/news!/032.html"/>Campo Período Básico/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250703030048/https://3asyice.github.io/Infinity/script/home.html"/>BADMGUSM NEWS/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250703025803/https://3asyice.github.io/Infinity/script/news!/000.html"/>incorporação 2024/</a><p class="date">jul 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250702211811/https://3asyice.github.io/Spck-Test/prompts.txt"/>chatgpt prompts.txt/</a><p class="date">jul 02, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/music-videos-MTV-00s"/>MTV 2000s video clip/</a><p class="date">jul 01, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/vts-01-1_20201020_1822/MTV+Top+100+1989+94-75/VTS_01_1.VOB"/>MTV Top 100 1989/</a><p class="date">jul 01, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/vts-01-1_20201015_1811/MTV+-+January+1986+A/1986-01-11/Disc+2/VTS_01_1.VOB"/>MTV Jan 1986/</a><p class="date">jul 01, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/ds-store_202207/MTV+Jackass+Vol+1-6+dvds/Disc+1/VIDEO_TS/VTS_01_1.VOB"/>Jackass Show/</a><p class="date">jul 01, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/youtube-njGbbwp1H2I"/>Final Destination yt/</a><p class="date">jul 01, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250701183238/https://jovempan.com.br/noticias/brasil/sobrevivente-da-boate-kiss-que-seria-testemunha-morre-aos-33-anos.html"/>kiss survivor died/</a><p class="date">jul 01, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250701182640/https://diariogaucho.clicrbs.com.br/policia/noticia/2013/02/apos-desistir-de-festa-na-boate-kiss-jovem-morre-em-acidente-no-parana-4034361.html"/>Jéssica's Premonition/</a><p class="date">jul 01, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250701080906/https://hemeroteca-pdf.bn.gov.br/830259/per830259_1951_00821.pdf"/>hemeroteca.pdf/</a><p class="date">jul 01, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250630070439/https://3asyice.github.io/SixOhNine/script/sd/621.html"/>621 Kainan Zippen.../</a><p class="date">jun 30, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250628074644/https://www.the-independent.com/life-style/facebook-artificial-intelligence-ai-chatbot-new-language-research-openai-google-a7869706.html"/>facebook bots lan.../</a><p class="date">jun 28, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250624141753/https://pt.stackoverflow.com/questions/86869/o-que-%C3%A9-intelig%C3%AAncia-artificial"/>o que é I.A?/</a><p class="date">jun 24, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250624095059/https://dol.com.br/carajas/noticias/mundo/911773/descubra-o-numero-chocante-de-sobreviventes-do-titanic?d=1"/>Titanic número de.../</a><p class="date">jun 24, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250624075223/https://www.reddit.com/r/brasil/comments/1h00y3k/o_ex%C3%A9rcito_brasileiro_n%C3%A3o_serve_pra_nada_e/"/>sobre Exército Fórum/</a><p class="date">jun 24, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250624054823/https://www.defesaemfoco.com.br/visita-de-orientacao-tecnica-revela-progresso-do-projeto-ebfcil-na-guarnicao-de-santa-maria/"/>EB F@cil/</a><p class="date">jun 24, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250623213517/https://www.terra.com.br/noticias/brasil/cidades/boate-kiss-tragedia-completa-12-anos-saiba-quem-foi-responsabilizado-e-se-acusados-estao-presos,1da1d26c3781d132ebe350b166a9cbc6ui0f0k79.html"/>boate kiss história/</a><p class="date">jun 23, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250623180010/https://www.terra.com.br/noticias/brasil/cidades/jovem-e-morto-a-tiros-em-ijui-policia-investiga-o-caso,25b4f05b6f6a7232df64ce9da50b3bcen5zzh79o.html"/>gustavo daniel bat.../</a><p class="date">jun 23, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250623174808/https://ijuinews.com.br/index.php?m=news&a=detail&id=9660"/>gustavo daniel bat.../</a><p class="date">jun 23, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250623173859/https://www.radiocidadesa.com.br/index.php?m=noticias&a=detail&id=21426"/>colisão de carretas/</a><p class="date">jun 23, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250622204333/https://3asyice.github.io/Spck-Test/badmgusm-pagamento.pdf"/>badmgusm pagamento/</a><p class="date">jun 22, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250622201200/https://diariosm.com.br/noticias/geral/saiba_como_e_a_administracao_do_exercito_em_santa_maria.455060"/>Administração EB SM/</a><p class="date">jun 22, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250622195938/https://geneall.net/pt/forum/46357/bicentenario-de-nascimento-do-duque-de-caxias/"/>Duque De Caxias/</a><p class="date">jun 22, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250622195431/https://www.defesabrasil.com/forum/viewtopic.php?t=7195&start=45"/>Operações E... Fórum/</a><p class="date">jun 22, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250622190605/https://www.cnnbrasil.com.br/internacional/saiba-como-trump-tomou-a-decisao-de-atacar-as-instalacoes-do-ira/"/>Decisão de Trump a.../</a><p class="date">jun 22, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250622184747/https://noticias.uol.com.br/internacional/ultimas-noticias/2025/06/22/eua-ataca-ira-que-se-reune-com-putin-entenda-o-risco-de-3-guerra-mundial.htm"/>EUA ataca Irã/</a><p class="date">jun 22, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250621054838/https://3asyice.github.io/Spck-Test/teste.txt"/>badmgusm links.txt/</a><p class="date">jun 21, 2025 </p> <hr> </div>
+<div class="link-item"><a style="text-transform:uppercase;" href="https://3asyice.github.io/Infinity/script/home"/>BAD NEWS/</a><p class="date">jun 20, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20140822191407/http://www.boris-koch.de/wp-content/uploads/2011/01/Liste-Google-Hacking.pdf"/>google dork.pdf/</a><p class="date">jun 20, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://www.mediafire.com/file/9mac423oj2qskwt/A_HIST%25C3%2593RIA_DE_UM_RECRUTA.opus/file"/>A história de u...oga/</a><p class="date">jun 19, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://www.mediafire.com/file/yssd1rnzycz71pj/A_HIST%25C3%2593RIA_DE_UM_RECRUTA_-_O_FILME.mp4/file"/>A história de u...mp4/</a><p class="date">jun 19, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://www.mediafire.com/file/sxpuip86y7fuop0/A_HIST%25C3%2593RIA_DE_UM_RECRUTA.webm/file"/>A história de ...webm/</a><p class="date">jun 18, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250618174151/https://3asyice.github.io/SixOhNine/script/sd/31-sgt-capisani.html"/>31 Antônio Capisani/</a><p class="date">jun 18, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250617204510/https://3asyice.github.io/Spck-Test/"/>004 Archived Media/</a><p class="date">jun 17, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250617062257/https://3asyice.github.io/Spck-Test/assets/pdf/609/historia-de-um-recruta.pdf"/>história recruta.pdf/</a><p class="date">jun 17, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://youtu.be/iUOn6N6gD6U"/>Briga de Família yt/</a><p class="date">jun 16, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250616212442/https://3asyice.github.io/SixOhNine/script/sd/628.html"/>628 Anderson Oliveira/</a><p class="date">jun 16, 2025 </p> <hr> </div>
+<div class="link-item"><a href="assets/pdf/609/609.docx"/>livro 609 recruta/</a><p class="date">jun 16, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250616203340/https://3asyice.github.io/SixOhNine/script/sd/069.html"/>069 Kawã lorentz/</a><p class="date">jun 16, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250616202658/https://3asyice.github.io/SixOhNine/script/sd/03.html"/>03 Azevedo/</a><p class="date">jun 16, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://3asyice.github.io/SixOhNine/script/home.html"/>Não Clique Aqui/</a><p class="date">jun 14, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://bancodedadosfeb.com.br/?soldiers=5692"/>Guilherme Coutinho/</a><p class="date">jun 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250616205115/https://bancodedadosfeb.com.br/?soldiers=23620"/>2nd we Túlio Carvalho/</a><p class="date">jun 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250616204848/https://bancodedadosfeb.com.br/?soldiers=4289"/>2nd ww Octavio Car.../</a><p class="date">jun 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250616204629/https://bancodedadosfeb.com.br/?soldiers=4269"/>2nd ww Milton Carv.../</a><p class="date">jun 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250611064135/https://bancodedadosfeb.com.br/?soldiers=4232"/>2nd ww josé Carvalho/</a><p class="date">jun 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250611063538/https://bancodedadosfeb.com.br/?soldiers=4225"/>2nd ww Souza Carvalho/</a><p class="date">jun 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250611062809/https://bancodedadosfeb.com.br/?soldiers=4218"/>2nd WW Alípio Carv.../</a><p class="date">jun 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250611061440/https://bancodedadosfeb.com.br/?soldiers=4197"/>Jayme José Carvalho/</a><p class="date">jun 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250611015646/https://3asyice.github.io/Spck-Test/"/>004 Archives/</a><p class="date">jun 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://drive.google.com/drive/folders/1pk5NaqoPW2afinGSfSPeetL8qc4Rv8P8"/>final destination 1-5/</a><p class="date">jun 05, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250605012236/https://escola25dejulho.com.br/info/cpm.php"/>cpm 25 de julho/</a><p class="date">jun 05, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://3asyice.github.io/SixOhNine/script/black-news/Soldado-atropelado-por-advogada-enfrenta-sindic%C3%A2ncia.html"/>sindicância carvalho/</a><p class="date">jun 05, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250605011818/https://3asyice.github.io/SixOhNine/script/black-news/Coronel-Soares-expulsa-Carvalho-da%20B-ADM-GU-SM.html"/>expulso da badmgusm/</a><p class="date">jun 05, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250605011729/https://3asyice.github.io/SixOhNine/script/black-news/Suic%C3%ADdio-na-B-ADM-GU-SM.html"/>suicídio de soldado/</a><p class="date">jun 05, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250605011216/https://3asyice.github.io/SixOhNine/script/cv/camila-dalcol-da-silva.html"/>advogada camila/</a><p class="date">jun 05, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250605010216/https://3asyice.github.io/SixOhNine/script/instrucao/ordem-das-pecas-do-fuzil-7-62.html"/>peças do fuzil 7,62/</a><p class="date">jun 05, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250605005739/https://3asyice.github.io/SixOhNine/script/instrucao/ordem_unida.html"/>ordem unida/</a><p class="date">jun 05, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250605005453/https://3asyice.github.io/SixOhNine/script/instrucao/duque_de_caxias.html"/>duque de caxias/</a><p class="date">jun 05, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250605005202/https://3asyice.github.io/SixOhNine/script/instrucao/principios_e_valores.html"/>principios e valores/</a><p class="date">jun 05, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604223622/https://3asyice.github.io/SixOhNine/script/cv/luciano-de-souza.html"/>fotógrafo luciano/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604233059/https://3asyice.github.io/SixOhNine/assets/txt/conversa.txt"/>2025 conversa.txt/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604231630/https://3asyice.github.io/SixOhNine/script/sd/752.html"/>752 josé gabriel/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604231442/https://3asyice.github.io/SixOhNine/script/sd/640.html"/>640 lucas van der.../</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604231255/https://3asyice.github.io/SixOhNine/script/sd/639.html"/>639 arthur keller/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604231113/https://3asyice.github.io/SixOhNine/script/sd/638.html"/>638 juliano oliveira/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604230829/https://3asyice.github.io/SixOhNine/script/sd/637.html"/>637 igor silva santos/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604230606/https://3asyice.github.io/SixOhNine/script/sd/636.html"/>636 emanuel pereira/</a><p class="date">jun 04, 2025 </p> <hr> </div> 
+<div class="link-item"><a href="https://web.archive.org/web/20250604230339/https://3asyice.github.io/SixOhNine/script/sd/635.html"/>635 carlos eduardo/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604225322/https://3asyice.github.io/SixOhNine/script/sd/634.html"/>634 gabriel de vargas/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604225102/https://3asyice.github.io/SixOhNine/script/sd/633.html"/>633 vagner coelho/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604224925/https://3asyice.github.io/SixOhNine/script/sd/632.html"/>632 cassio alberto/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604224729/https://3asyice.github.io/SixOhNine/script/sd/631.html"/>631 jeremias fagundes/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604224343/https://3asyice.github.io/SixOhNine/script/sd/630.html"/>630 matheus machado/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604224033/https://3asyice.github.io/SixOhNine/script/sd/629.html"/>629 Cirineu Magalhães/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604223820/https://3asyice.github.io/SixOhNine/script/sd/627.html"/>627 joão vitor lemos/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604223319/https://3asyice.github.io/SixOhNine/script/sd/626.html"/>626 miguel xavier/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604222939/https://3asyice.github.io/SixOhNine/script/sd/625honig.html"/>625 leonardo hönig/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604222604/https://3asyice.github.io/SixOhNine/script/sd/624.html"/>624 alisson nesske/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604222246/https://3asyice.github.io/SixOhNine/script/sd/623.html"/>623 joão cardoso/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604221928/https://3asyice.github.io/SixOhNine/script/sd/622.html"/>622 charles preuss/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604221159/https://3asyice.github.io/SixOhNine/script/sd/621.html"/>621 kainan zippen.../</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604220929/https://3asyice.github.io/SixOhNine/script/sd/620.html"/>620 jeferson da silva/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604220707/https://3asyice.github.io/SixOhNine/script/sd/619.html"/>619 alisson zancan/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604215246/https://3asyice.github.io/SixOhNine/script/sd/618roger.html"/>618 luan roger/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604213332/https://3asyice.github.io/SixOhNine/script/sd/617.html"/>617 everton silvano/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604211640/https://3asyice.github.io/SixOhNine/script/sd/616.html"/>616 frederico gregori/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604211413/https://3asyice.github.io/SixOhNine/script/sd/615.html"/>615 ricardo bernardi/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604210958/https://3asyice.github.io/SixOhNine/script/sd/614.html"/>614 carlos teixeira/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604210751/https://3asyice.github.io/SixOhNine/script/sd/613.html"/>613 gabriel ebling/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604205831/https://3asyice.github.io/SixOhNine/script/sd/612.html"/>612 adrian gonçalves/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604205652/https://3asyice.github.io/SixOhNine/script/sd/611.html"/>611 carlos daniel/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item">
 <a href="https://web.archive.org/web/20250604205518/https://3asyice.github.io/SixOhNine/script/sd/610.html"/>610 lucas da rosa/</a><p class="date">jun 04, 2025</p><hr></div>
-
-
-
-<div class="link-item">
-<a style="text-transform:uppercase;font-weight:900;" href="https://web.archive.org/web/20250604203736/https://3asyice.github.io/SixOhNine/script/sd/609.html"/>609 Carvalho/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604203538/https://3asyice.github.io/SixOhNine/script/sd/608.html"/>608 gustavo drescher/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604203337/https://3asyice.github.io/SixOhNine/script/sd/607.html"/>607 Diniz Chimainski/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604203010/https://3asyice.github.io/SixOhNine/script/sd/606.html"/>606 Micael Schumacher/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604202744/https://3asyice.github.io/SixOhNine/script/sd/605.html"/>605 allan gabriel/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604202417/https://3asyice.github.io/SixOhNine/script/sd/604.html"/>604 Richard rafael/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604201720/https://3asyice.github.io/SixOhNine/script/sd/603.html"/>603 Guilherme Maidana/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604201248/https://3asyice.github.io/SixOhNine/script/sd/602.html"/>602 samuel weber/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604200937/https://3asyice.github.io/SixOhNine/script/sd/601.html"/>601 gabriel tassinari/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604200544/https://3asyice.github.io/SixOhNine/script/sd/39.html"/>39 grégori forgerini/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604200259/https://3asyice.github.io/SixOhNine/script/sd/37.html"/>37 augusto bergamnn/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604200120/https://3asyice.github.io/SixOhNine/script/sd/03.html"/>03 gabriel azevedo/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604195945/https://3asyice.github.io/SixOhNine/script/cel/soares.html"/>## everton soares bio/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250604194006/https://outraspalavras.net/outrasmidias/pioneiro-da-internet-brasileira-conta-como-se-vigia-a-rede/"/>backdoor e vigilância/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250531193513/https://www.big-loser.site/M/Maio/Eterna%20Vigil%C3%A2ncia%20(Edward%20S_%20(Z-Library)"/>edward snowden.pdf/</a><p class="date">may 31, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250529175736/https://3asyice.github.io/Spck-Test/butterfly-effect"/>teoria do caos/</a><p class="date">may 29, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250529172715/https://www.big-loser.site/Caso/001"/>Caso 001/</a><p class="date">may 29, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250529172004/https://3asyice.github.io/Tapes/script/ep/11.html"/>Ep 11: A Expulsão/</a><p class="date">may 29, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250529171505/https://3asyice.github.io/Tapes/script/ep/10.html"/>Ep 10: A Alteração/</a><p class="date">may 29, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250529170535/https://3asyice.github.io/Tapes/script/ep/8.html"/>Ep 8: Incorporação/</a><p class="date">may 29, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250529165827/https://3asyice.github.io/Tapes/script/ep/7.html"/>Ep 7: O Campo/</a><p class="date">may 29, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://youtu.be/qZhD2cU0UOo?si=OJ_AZy7NqLPBwtb-"/>YouTube Link/</a><p class="date">may 29, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250520114123/https://3asyice.github.io/SixOhNine/script/sd/602.html"/>602 Weber/</a><p class="date">may 20, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250520113858/https://3asyice.github.io/SixOhNine/script/sd/601.html"/>601 Tassinari/</a><p class="date">may 20, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250511220143/https://www.big-loser.site/M/Maio/everton-conceicao-soares-profile.mp4"/>everton soares.mp4/</a><p class="date">may 11, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250511002501/https://noticias.stf.jus.br/postsnoticias/mandado-de-seguranca-pede-anulacao-de-acordo-entre-brasil-e-oea-sobre-morte-de-cadete/"/>morte de cadete/</a><p class="date">may 11, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250510122753/https://saopauloantiga.com.br/a-tragedia-do-cine-oberdan/?hl=en-US"/>tragédia cinema/</a><p class="date">may 10, 2025 </p> <hr> </div>
-
-<div class="link-item">
-<a href="https://web.archive.org/web/20250510122449/https://www.social.org.br/relatorio2001/relatorio003.htm?hl=en-US"/>Tortura Militar/</a><p class="date">may 10, 2025 </p> <hr> </div>
-<div class="link-item">
-<a style="text-transform:uppercase;" href="https://web.archive.org/web/20250509232434/https://3asyice.github.io/Tapes/script/ep/9.html"/>Ep 9: a dor do luto/</a><p class="date">may 09, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://archive.org/download/vid-20240825-wa-0000/vid-20240825-wa-0000_archive.torrent"/>acidente.torrent/</a><p class="date">apr 27, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250427013446/https://3asyice.github.io/Tapes/script/ep/4.html"/>ep 4: sindicância/</a><p class="date">apr 27, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250427013307/https://3asyice.github.io/Tapes/script/ep/3.html"/>ep 3: sd Isaias/</a><p class="date">apr 27, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250427013320/https://3asyice.github.io/Tapes/script/ep/2.html"/>ep 2: a mensagem/</a><p class="date">apr 27, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250427013338/https://3asyice.github.io/Tapes/script/ep/6.html"/>ep 6: plantão/</a><p class="date">apr 27, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250427013309/https://3asyice.github.io/Tapes/script/ep/5.html"/>ep 5: Internato/</a><p class="date">apr 27, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250427013253/https://3asyice.github.io/Tapes/script/category.html"/>609 - Categorias/</a><p class="date">apr 27, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250427013048/https://3asyice.github.io/Tapes/script/home.html"/>ep 1: decisão errada/</a><p class="date">apr 27, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250423200251/https://www.big-loser.site/A/Audio/FITA-10,-LADO-A.m4a"/>Fita 10 Lado A/</a><p class="date">apr 23, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250421115329/https://3asyice.github.io/Loja-doRoni/"/>Roni's Old Store/</a><p class="date">apr 21, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250421113527/https://3asyice.github.io/Birthday-2024/"/>Birthday Note/</a><p class="date">apr 21, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250420231731/https://3asyice.github.io/frontend_course/"/>html, css, js/</a><p class="date">apr 20, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250420190604/https://3asyice.github.io/Spck-Test/"/>archived media 004/</a><p class="date">apr 20, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250420185859/https://3asyice.github.io/natal/"/>malditonatal origem/</a><p class="date">apr 20, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250419043752/https://www.ocafezinho.com/2024/07/22/exercito-brasileiro-insistente-em-nao-revelar-militares-envolvidos-em-carta-golpista/"/>Carta Golpista EB/</a><p class="date">apr 19, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250418172619/https://www.scielo.br/j/rbh/a/3B49LhDfNKhDKqVPZjvxY5R/"/>Gran Circus Tragedy/</a><p class="date">apr 18, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250405050541/https://ric.com.br/seguranca/acidentes/aluna-ufsm-decidiu-nao-embarcar-na-vespera-de-acidente/"> sorte ou premonição?/</a><p class="date">apr 05, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250405064854/https://www.big-loser.site/Caso/031"/>All Cassetes Fitas/</a><p class="date">apr 05, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250405045939/https://ric.com.br/seguranca/acidentes/veja-lista-nomes-vitimas-acidente-onibus-ufsm/">bus accident 7 death/</a><p class="date">apr 05, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250328081437/https://aventurasnahistoria.com.br/noticias/reportagem/perdida-no-oceano-trajetoria-de-bahia-bakari-unica-sobrevivente-de-um-terrivel-acidente-de-aviao.phtml"> Bahia Bakari_survivor/</a><p class="date"> mar 28, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250328075757/https://www.cnnbrasil.com.br/nacional/sudeste/sp/queda-de-aviao-relembre-cronologia-do-acidente-da-voepass-em-vinhedo-sp/">Voepass 2283/</a> <p class="date"> mar 28, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250328075304/https://cgn.inf.br/noticia/1773188/mae-de-vitima-do-voo-2283-critica-voepass-e-como-se-eles-matassem-nossos-familiares-outra-vez"> critica Voepass/</a><p class="date"> mar 28, 2025 </p> <hr> </div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250328072720/https://manchetempo.uff.br/?p=2941">242 mortes Boate Kiss/</a> <p class="date"> mar 28, 2025</p><hr></div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250328072137/https://www.bbc.com/portuguese/articles/c89y43gvdl4o">503 dead gran circus/</a> <p class="date"> mar 28, 2025 </p><hr></div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250325075854/https://www.big-loser.site/A/Audio/FITA-9,-LADO-A.opus">2:03 Fita 9 Lado a/</a> <p class="date"> mar 25, 2025 </p> <hr></div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250325075425/https://www.big-loser.site/A/Audio/FITA-8,-LADO-B.opus">0:59 Fita 8 Lado b/</a> <p class="date"> mar 25, 2025 </p> <hr> </div>
-  <div class="link-item">
-<a href="https://web.archive.org/web/20250325075007/https://www.big-loser.site/A/Audio/FITA-8,-LADO-A.opus">1:59 Fita 8 Lado a/</a><p class="date">mar 25, 2025</p><hr></div>
-<div class="link-item">
-<a style="text-transform:uppercase;text-shadow:1px 0 0 rgba(18, 255, 0, 1);" href="https://web.archive.org/web/20250320094119/https://www.big-loser.site/Caso/100">BACK TO BLACK/</a>
-<p class="date">mar 20, 2025 </p><hr></div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250319102007/https://www.big-loser.site/Caso/004">004 Archived Media/</a>
-<p class="date">mar 19, 2025 </p><hr></div><div class="link-item">
-<a href="https://web.archive.org/web/20250318124659/https://www.big-loser.site/A/Audio/FITA-7,-LADO-B.opus">10:58 Fita 7 Lado B/</a><p class="date">mar 18, 2025 </p><hr></div><div class="link-item">
-<a href="https://web.archive.org/web/20250315131320/https://www.big-loser.site/A/Audio/FITA-7,-LADO-A.opus">8:12 Fita 7 Lado A/</a>
-<p class="date">mar 15, 2025 </p><hr></div><div class="link-item">
-<a href="https://web.archive.org/web/20250313093351/https://www.big-loser.site/Caso/070">609 butterfly/</a><p class="date">mar 13, 2025 </p><hr></div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250312203737/https://badmgusm.eb.mil.br/index.php/component/content/article?id=2298&">Licenciamento SD EP/</a>
-<p class="date">mar 12, 2025 </p><hr></div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250312131355/https://www.big-loser.site/Caso/005">Camila Dalcol/</a><p class="date">mar 12, 2025 </p><hr></div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250312130354/https://www.big-loser.site/Project_Apocalypse/comandante">everton soares/</a><p class="date">mar 12, 2025 </p><hr></div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250312114500/https://www.big-loser.site/Project_Apocalypse/assedio">assédio 6bdainfbld/</a><p class="date">mar 12, 2025 </p><hr></div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250312112446/https://www.big-loser.site/Project_Apocalypse/expulso">expulsão - carvalho/</a><p class="date">mar 12, 2025 </p><hr></div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250312103040/https://www.big-loser.site/Project_Apocalypse/atropelamento">sd 609 carvalho/</a><p class="date">mar 12, 2025 </p><hr></div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250312093156/https://www.big-loser.site/Project_Apocalypse/suicide">614 sd teixeira/</a><p class="date">mar 12, 2025 </p><hr></div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250310232106/https://designculture.com.br/tipografia-para-web/">tipografia web²/</a><p class="date">mar 10, 2025 </p><hr></div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250310231418/https://productoversee.com/um-guia-completo-de-tipografia-para-a-web/">tipografia para web/</a><p class="date">mar 10, 2025 </p><hr></div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250310231032/https://rockcontent.com/br/blog/tipografia/">conceito tipografia/</a><p class="date">mar 10, 2025 </p><hr></div>
-<div class="link-item">
-<a href="https://web.archive.org/web/20250310230359/https://www.futuraexpress.com.br/blog/o-que-e-tipografia/">termo tipografia/</a><p class="date">mar 10, 2025 </p><hr></div>
+<div class="link-item"><a style="text-transform:uppercase;font-weight:900;" href="https://web.archive.org/web/20250604203736/https://3asyice.github.io/SixOhNine/script/sd/609.html"/>609 Carvalho/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604203538/https://3asyice.github.io/SixOhNine/script/sd/608.html"/>608 gustavo drescher/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604203337/https://3asyice.github.io/SixOhNine/script/sd/607.html"/>607 Diniz Chimainski/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604203010/https://3asyice.github.io/SixOhNine/script/sd/606.html"/>606 Micael Schumacher/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604202744/https://3asyice.github.io/SixOhNine/script/sd/605.html"/>605 allan gabriel/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604202417/https://3asyice.github.io/SixOhNine/script/sd/604.html"/>604 Richard rafael/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604201720/https://3asyice.github.io/SixOhNine/script/sd/603.html"/>603 Guilherme Maidana/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604201248/https://3asyice.github.io/SixOhNine/script/sd/602.html"/>602 samuel weber/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604200937/https://3asyice.github.io/SixOhNine/script/sd/601.html"/>601 gabriel tassinari/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604200544/https://3asyice.github.io/SixOhNine/script/sd/39.html"/>39 grégori forgerini/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604200259/https://3asyice.github.io/SixOhNine/script/sd/37.html"/>37 augusto bergamnn/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604200120/https://3asyice.github.io/SixOhNine/script/sd/03.html"/>03 gabriel azevedo/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604195945/https://3asyice.github.io/SixOhNine/script/cel/soares.html"/>## everton soares bio/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604194006/https://outraspalavras.net/outrasmidias/pioneiro-da-internet-brasileira-conta-como-se-vigia-a-rede/"/>backdoor e vigilância/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250531193513/https://www.big-loser.site/M/Maio/Eterna%20Vigil%C3%A2ncia%20(Edward%20S_%20(Z-Library)"/>edward snowden.pdf/</a><p class="date">may 31, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250529175736/https://3asyice.github.io/Spck-Test/butterfly-effect"/>teoria do caos/</a><p class="date">may 29, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250529172715/https://www.big-loser.site/Caso/001"/>Caso 001/</a><p class="date">may 29, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250529172004/https://3asyice.github.io/Tapes/script/ep/11.html"/>Ep 11: A Expulsão/</a><p class="date">may 29, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250529171505/https://3asyice.github.io/Tapes/script/ep/10.html"/>Ep 10: A Alteração/</a><p class="date">may 29, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250529170535/https://3asyice.github.io/Tapes/script/ep/8.html"/>Ep 8: Incorporação/</a><p class="date">may 29, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250529165827/https://3asyice.github.io/Tapes/script/ep/7.html"/>Ep 7: O Campo/</a><p class="date">may 29, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://youtu.be/qZhD2cU0UOo?si=OJ_AZy7NqLPBwtb-"/>YouTube Link/</a><p class="date">may 29, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250520114123/https://3asyice.github.io/SixOhNine/script/sd/602.html"/>602 Weber/</a><p class="date">may 20, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250520113858/https://3asyice.github.io/SixOhNine/script/sd/601.html"/>601 Tassinari/</a><p class="date">may 20, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250511220143/https://www.big-loser.site/M/Maio/everton-conceicao-soares-profile.mp4"/>everton soares.mp4/</a><p class="date">may 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250511002501/https://noticias.stf.jus.br/postsnoticias/mandado-de-seguranca-pede-anulacao-de-acordo-entre-brasil-e-oea-sobre-morte-de-cadete/"/>morte de cadete/</a><p class="date">may 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250510122753/https://saopauloantiga.com.br/a-tragedia-do-cine-oberdan/?hl=en-US"/>tragédia cinema/</a><p class="date">may 10, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250510122449/https://www.social.org.br/relatorio2001/relatorio003.htm?hl=en-US"/>Tortura Militar/</a><p class="date">may 10, 2025 </p> <hr> </div>
+<div class="link-item"><a style="text-transform:uppercase;" href="https://web.archive.org/web/20250509232434/https://3asyice.github.io/Tapes/script/ep/9.html"/>Ep 9: a dor do luto/</a><p class="date">may 09, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/download/vid-20240825-wa-0000/vid-20240825-wa-0000_archive.torrent"/>acidente.torrent/</a><p class="date">apr 27, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250427013446/https://3asyice.github.io/Tapes/script/ep/4.html"/>ep 4: sindicância/</a><p class="date">apr 27, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250427013307/https://3asyice.github.io/Tapes/script/ep/3.html"/>ep 3: sd Isaias/</a><p class="date">apr 27, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250427013320/https://3asyice.github.io/Tapes/script/ep/2.html"/>ep 2: a mensagem/</a><p class="date">apr 27, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250427013338/https://3asyice.github.io/Tapes/script/ep/6.html"/>ep 6: plantão/</a><p class="date">apr 27, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250427013309/https://3asyice.github.io/Tapes/script/ep/5.html"/>ep 5: Internato/</a><p class="date">apr 27, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250427013253/https://3asyice.github.io/Tapes/script/category.html"/>609 - Categorias/</a><p class="date">apr 27, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250427013048/https://3asyice.github.io/Tapes/script/home.html"/>ep 1: decisão errada/</a><p class="date">apr 27, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250423200251/https://www.big-loser.site/A/Audio/FITA-10,-LADO-A.m4a"/>Fita 10 Lado A/</a><p class="date">apr 23, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250421115329/https://3asyice.github.io/Loja-doRoni/"/>Roni's Old Store/</a><p class="date">apr 21, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250421113527/https://3asyice.github.io/Birthday-2024/"/>Birthday Note/</a><p class="date">apr 21, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250420231731/https://3asyice.github.io/frontend_course/"/>html, css, js/</a><p class="date">apr 20, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250420190604/https://3asyice.github.io/Spck-Test/"/>archived media 004/</a><p class="date">apr 20, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250420185859/https://3asyice.github.io/natal/"/>malditonatal origem/</a><p class="date">apr 20, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250419043752/https://www.ocafezinho.com/2024/07/22/exercito-brasileiro-insistente-em-nao-revelar-militares-envolvidos-em-carta-golpista/"/>Carta Golpista EB/</a><p class="date">apr 19, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250418172619/https://www.scielo.br/j/rbh/a/3B49LhDfNKhDKqVPZjvxY5R/"/>Gran Circus Tragedy/</a><p class="date">apr 18, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250407110023/https://www.reddit.com/r/brasil/comments/1h00y3k/o_ex%C3%A9rcito_brasileiro_n%C3%A3o_serve_pra_nada_e/"> sobre Exército Fórum/</a><p class="date">apr 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250405050541/https://ric.com.br/seguranca/acidentes/aluna-ufsm-decidiu-nao-embarcar-na-vespera-de-acidente/"> sorte ou premonição?/</a><p class="date">apr 05, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250405064854/https://www.big-loser.site/Caso/031"/>All Cassetes Fitas/</a><p class="date">apr 05, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250405045939/https://ric.com.br/seguranca/acidentes/veja-lista-nomes-vitimas-acidente-onibus-ufsm/">bus accident 7 death/</a><p class="date">apr 05, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250328081437/https://aventurasnahistoria.com.br/noticias/reportagem/perdida-no-oceano-trajetoria-de-bahia-bakari-unica-sobrevivente-de-um-terrivel-acidente-de-aviao.phtml"> Bahia Bakari_survivor/</a><p class="date"> mar 28, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250328000343/https://www.cnnbrasil.com.br/blogs/fernando-nakagawa/economia/macroeconomia/gasto-militar-com-pessoal-no-brasil-e-proporcionalmente-mais-que-o-triplo-dos-eua/">gasto militar no BR/</a> <p class="date"> mar 28, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250328075757/https://www.cnnbrasil.com.br/nacional/sudeste/sp/queda-de-aviao-relembre-cronologia-do-acidente-da-voepass-em-vinhedo-sp/">Voepass 2283/</a> <p class="date"> mar 28, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250328075304/https://cgn.inf.br/noticia/1773188/mae-de-vitima-do-voo-2283-critica-voepass-e-como-se-eles-matassem-nossos-familiares-outra-vez"> critica Voepass/</a><p class="date"> mar 28, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250328072720/https://manchetempo.uff.br/?p=2941">242 mortes Boate Kiss/</a> <p class="date"> mar 28, 2025</p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250328072137/https://www.bbc.com/portuguese/articles/c89y43gvdl4o">503 dead gran circus/</a> <p class="date"> mar 28, 2025 </p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250325075854/https://www.big-loser.site/A/Audio/FITA-9,-LADO-A.opus">2:03 Fita 9 Lado a/</a> <p class="date"> mar 25, 2025 </p> <hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250325075425/https://www.big-loser.site/A/Audio/FITA-8,-LADO-B.opus">0:59 Fita 8 Lado b/</a> <p class="date"> mar 25, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250325075007/https://www.big-loser.site/A/Audio/FITA-8,-LADO-A.opus">1:59 Fita 8 Lado a/</a><p class="date">mar 25, 2025</p><hr></div>
+<div class="link-item"><a style="text-transform:uppercase;text-shadow:1px 0 0 rgba(18, 255, 0, 1);" href="https://web.archive.org/web/20250320094119/https://www.big-loser.site/Caso/100">BACK TO BLACK/</a><p class="date">mar 20, 2025 </p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250319102007/https://www.big-loser.site/Caso/004">004 Archived Media/</a><p class="date">mar 19, 2025 </p><hr>
+</div><div class="link-item"><a href="https://web.archive.org/web/20250318124659/https://www.big-loser.site/A/Audio/FITA-7,-LADO-B.opus">10:58 Fita 7 Lado B/</a><p class="date">mar 18, 2025 </p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250315131320/https://www.big-loser.site/A/Audio/FITA-7,-LADO-A.opus">8:12 Fita 7 Lado A/</a><p class="date">mar 15, 2025 </p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250313093351/https://www.big-loser.site/Caso/070">609 butterfly/</a><p class="date">mar 13, 2025 </p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250312203737/https://badmgusm.eb.mil.br/index.php/component/content/article?id=2298&">Licenciamento SD EP/</a><p class="date">mar 12, 2025 </p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250312131355/https://www.big-loser.site/Caso/005">Camila Dalcol/</a><p class="date">mar 12, 2025 </p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250312130354/https://www.big-loser.site/Project_Apocalypse/comandante">everton soares/</a><p class="date">mar 12, 2025 </p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250312114500/https://www.big-loser.site/Project_Apocalypse/assedio">assédio 6bdainfbld/</a><p class="date">mar 12, 2025 </p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250312112446/https://www.big-loser.site/Project_Apocalypse/expulso">expulsão - carvalho/</a><p class="date">mar 12, 2025 </p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250312103040/https://www.big-loser.site/Project_Apocalypse/atropelamento">sd 609 carvalho/</a><p class="date">mar 12, 2025 </p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250312093156/https://www.big-loser.site/Project_Apocalypse/suicide">614 sd teixeira/</a><p class="date">mar 12, 2025 </p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250310232106/https://designculture.com.br/tipografia-para-web/">tipografia web²/</a><p class="date">mar 10, 2025 </p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250310231418/https://productoversee.com/um-guia-completo-de-tipografia-para-a-web/">tipografia para web/</a><p class="date">mar 10, 2025 </p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250310231032/https://rockcontent.com/br/blog/tipografia/">conceito tipografia/</a><p class="date">mar 10, 2025 </p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250310230359/https://www.futuraexpress.com.br/blog/o-que-e-tipografia/">termo tipografia/</a><p class="date">mar 10, 2025 </p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20250310132256/https://www.big-loser.site/Caso/014">014 memorial/</a><p class="date">mar 10, 2025 </p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20250310084236/https://www.change.org/p/stop-army-from-taking-back-signing-bonuses-10-years-later-after-vets-completed-contracts">army steals signing/</a><p class="date">mar 10, 2025 </p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20250310062544/https://www.big-loser.site/Caso/004">004 Archived Media/</a><p class="date">mar 10, 2025 </p><hr></div>
@@ -345,6 +266,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 <div class="link-item"><a href="https://web.archive.org/web/20250208025819/https://www.big-loser.site/">big loser.site/</a><p class="date">Feb 08, 2025</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20250201102618/https://www.big-loser.site/">big loser.site/</a><p class="date">Feb 01, 2025</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20250127170619/https://www.big-loser.site/">big loser.site/</a><p class="date">Jan 27, 2025</p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20250120121045/https://ijuinews.com.br/index.php?m=news&a=detail&id=9660">Gustavo Daniel Bat.../</a><p class="date">Jan 20, 2025</p><hr></div>
 <div class="link-item"><a href="https://youtu.be/F9fflX-9wRA">big loser podcast/</a><p class="date">Jan 19, 2025</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20250125013140/https://www.big-loser.site/Caso/aeropass/VID-20240825-WA0000.mp4">Vídeo atropelamento/</a><p class="date">Jan 19, 2025</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20250118021045/https://www.big-loser.site/Caso/040">040 ocorrência/</a><p class="date">Jan 18, 2025</p><hr></div>
@@ -425,6 +347,11 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 <div class="link-item"><a href="https://web.archive.org/web/20240915053759/https://www.malditonatal.online/daniele.html">malditonatal - dani/</a><p class="date">Sep 15, 2024</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20240914144838/https://www.big-loser.site/Caso/004_4RCH1V3S">Con_Archives_&copy;_004/</a><p class="date">Sep 14, 2024</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20240913031505/https://www.big-loser.site/Caso/004_4RCH1V3S">Con_Archives_&copy;_004/</a><p class="date">Sep 13, 2024</p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20240913045629/https://3asyice.github.io/MirrorNEWS/maio.html"/>maionews 2024/</a><p class="date">Sep 13, 2024 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20240913051401/https://3asyice.github.io/MirrorNEWS/junho.html"/>junhonews 2024/</a><p class="date">Sep 13, 2024 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20240913051624/https://3asyice.github.io/MirrorNEWS/julho.html"/>julhonews 2024/</a><p class="date">Sep 13, 2024 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20240913052319/https://3asyice.github.io/MirrorNEWS/chop-suey.html"/> as notas do suey/</a><p class="date">Sep 13, 2024 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20240913045043/https://3asyice.github.io/MirrorNEWS/buttons.html"/> The Mirror News/</a><p class="date">Sep 13, 2024 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20240913175959/https://bandersnatch.club/">bandersnatch.club/</a><p class="date">Sep 13, 2024</p><hr></div>
 <div class="link-item"><a href="http://web.archive.org/web/20240913052319/https://3asyice.github.io/MirrorNEWS/chop-suey.html">MirrorNEWS - chop/</a><p class="date">Sep 13, 2024</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20240913231132/https://3asyice.github.io/Regulamento-Disciplinar-do-Ex-rcito-Brasileiro/">Artigo do RDE/</a><p class="date">Sep 13, 2024</p><hr></div>
@@ -461,7 +388,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 <div class="link-item"><a href="https://web.archive.org/web/20240827172634/https://www.big-loser.site/Opinions/002">Caso - 002.html/</a><p class="date">Aug 27, 2024</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20240827172504/https://www.big-loser.site/Caso/001">Caso - 001.html/</a><p class="date">Aug 27, 2024</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20240827172322/https://www.big-loser.site/">big-loser.site/</a><p class="date">Aug 27, 2024</p><hr></div>
-div class="link-item"><a href="https://web.archive.org/web/20240827180851/https://raw.githubusercontent.com/3asyice/Noticias/main/Caso/Conversa%20do%20WhatsApp%20com%20B%20ADM%20GU%20SM%F0%9F%94%B0%F0%9F%87%A7%F0%9F%87%B7.txt">2024 conversa.txt/</a><p class="date">Aug 27, 2024</p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20240827180851/https://raw.githubusercontent.com/3asyice/Noticias/main/Caso/Conversa%20do%20WhatsApp%20com%20B%20ADM%20GU%20SM%F0%9F%94%B0%F0%9F%87%A7%F0%9F%87%B7.txt">2024 conversa.txt/</a><p class="date">Aug 27, 2024</p><hr></div>
 <div class="link-item"><a href="https://onedrive.live.com/?authkey=%21AE%5FJKH8TjAFMdmU&id=E2112D3399C3A63A%21109&cid=E2112D3399C3A63A&parId=root&parQt=sharedby&o=OneUp">SECRET CON/</a><p class="date">Aug 22, 2024</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20240819213021/https://bandersnatch.club/">bandersnatch.club/</a><p class="date">Aug 19, 2024</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20240816165949/https://www.malditonatal.online/">malditonatal.online/</a><p class="date">Aug 16, 2024</p><hr></div>
@@ -494,4 +421,5 @@ div class="link-item"><a href="https://web.archive.org/web/20240827180851/https:
 <div class="link-item"><a href="https://web.archive.org/web/20240603235628/https://www.big-loser.site/">big-loser.site old/</a><p class="date">Jun 03, 2024</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20240419155855/https://bandersnatch.club/">bandersnatch.club /</a><p class="date">Apr 19, 2024</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20240418171838/https://www.malditonatal.online/">malditonatal.online/</a><p class="date">Apr 18, 2024</p><hr></div>
-<div class="link-item"><a href="https://web.archive.org/web/20240418171838/https://www.malditonatal.online">malditonatal.online/</a><p class="date">Apr 18, 2024</p><hr></div>`;
+<div class="link-item"><a href="https://web.archive.org/web/20240418171838/https://www.malditonatal.online">malditonatal.online/</a><p class="date">Apr 18, 2024</p><hr></div>
+<div class="link-item"><a href="https://web.archive.org/web/20230321002209/https://www.avesderapinabrasil.com/materias/corujas_crendices.htm"/>superstição corujas/</a><p class="date">Mar 21, 2023 </p> <hr> </div>`;
