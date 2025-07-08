@@ -18,6 +18,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20250708211225if_/https://3asyice.github.io/Spck-Test/chatgpt.txt"/>chatgpt prmpts.txt/</a><p class="date">jul 08, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250708170506if_/https://3asyice.github.io/SixOhNine/script/sd/602.html"/>602 Samuel Weber/</a><p class="date">jul 08, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250708170145if_/https://3asyice.github.io/SixOhNine/script/sd/601.html"/>601 Gabriel Tassinari/</a><p class="date">jul 08, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250708165740if_/https://3asyice.github.io/SixOhNine/script/sd/Isaias.html"/># Jessé Isaias/</a><p class="date">jul 08, 2025 </p> <hr> </div>
