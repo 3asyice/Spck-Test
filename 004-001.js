@@ -147,7 +147,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 <div class="link-item"><a href="https://web.archive.org/web/20250604201248if_/https://3asyice.github.io/SixOhNine/script/sd/602.html"/>602 samuel weber/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250604200937if_/https://3asyice.github.io/SixOhNine/script/sd/601.html"/>601 gabriel tassinari/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250604200544if_/https://3asyice.github.io/SixOhNine/script/sd/39.html"/>39 grégori forgerini/</a><p class="date">jun 04, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250604200259if_/https://3asyice.github.io/SixOhNine/script/sd/37.html"/>37 augusto bergamnn/</a><p class="date">jun 04, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250604200259if_/https://3asyice.github.io/SixOhNine/script/sd/37.html"/>37 Augusto Bergmann/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250604200120if_/https://3asyice.github.io/SixOhNine/script/sd/03.html"/>03 gabriel azevedo/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250604195945if_/https://3asyice.github.io/SixOhNine/script/cel/soares.html"/>## everton soares bio/</a><p class="date">jun 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250604194006if_/https://outraspalavras.net/outrasmidias/pioneiro-da-internet-brasileira-conta-como-se-vigia-a-rede/"/>backdoor e vigilância/</a><p class="date">jun 04, 2025 </p> <hr> </div>
