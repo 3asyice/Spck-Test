@@ -19,6 +19,9 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20250708101157if_/https://3asyice.github.io/Spck-Test/Voce_Me_Ama_Caroline_Kepnes.pdf"/>Você Me Ama - Kepnes/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708104852if_/https://3asyice.github.io/Spck-Test/Corpos_Ocultos_Caroline_Kepnes.pdf"/>Corpos Ocultos - kepn/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708104629if_/https://3asyice.github.io/Spck-Test/Voce_Caroline_Kepnes.pdf"/>você - Caroline K.../</a><p class="date">jul 08, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20230331235733if_/https://zero.sci-hub.se/5268/7dda7cee52d7eb3ec606a82d0f1b9a61/giertsen1988.pdf"/>Byford Dolphin.pdf/</a><p class="date">jul 08, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250708073114if_/https://3asyice.github.io/Tech-Info/terms.txt"/>termos&condições.txt/</a><p class="date">jul 08, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250706215403if_/https://www.megacurioso.com.br/ciencia/125049-byford-dolphin-um-dos-piores-acidentes-maritimos-ja-registrados.htm"/>Byford Dolphin Aci.../</a><p class="date">jul 04, 2025 </p> <hr> </div>
