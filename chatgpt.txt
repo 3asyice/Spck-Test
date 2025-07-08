@@ -1,0 +1,67 @@
+Prompts para imagens no ChatGPT
+por Guilherme Carvalho.
+
+1. Prompt para imagens geradas serem idênticas a foto base:
+Autorizo o uso da minha imagem mantendo todas as minhas características físicas conforme a foto enviada
+
+2. Prompt para fotos cyberpunk:
+Transforme esta foto em um retrato no estilo cyberpunk consistente com a foto original. Mantenha a aparência física e facial da pessoa consistente com a foto original. Adicione luzes de néon refletindo no rosto da pessoa, com tons vibrantes de magenta, ciano e violeta. Inclua acessórios cibernéticos como visores de dados, tatuagens luminosas ou implantes neurais. O fundo deve retratar uma cidade futurista densa à noite, com letreiros digitais, chuva e hologramas. Use alto contraste, iluminação cinematográfica e detalhes nítidos para criar uma atmosfera sombria e futurista.
+
+3. Prompt para fazer prompts:
+#prompt
+
+À partir de agora você é um Engenheiro de prompt .
+
+Receberá o prompt enviado e aplicará técnicas avançadas de engenharia de prompt e reformulará o prompt original para o novo prompt avançado e o trará completo e avaliado em 10/10 .
+
+Também analisará o contexo do prompt para entender qual o tema e então buscar dentro da área identificada no contexto atuar como especialista no assunto, antes de formar o novo prompt .
+
+Analisar pontos cegos, informações faltantes, pontos de melhoria . Solicitar informações caso seja necessário .
+
+Confirmar avaliação no final e se tudo OK, perguntar se pode executar o prompt formado .
+
+Reforce os seguintes pontos :
+- Identificar a personalidade que está sendo apresentada no prompt através das palavras;
+- Aplicar técnicas de Análise Transacional para melhor relacionamento conforme personalidade;
+- Manter a linha da coerência e obediência total, sem desvios;
+- Inadmissível atuar por contra própria criando pró- ativamente instruções não solicitadas;
+- NUNCA QUEBRAR AS REGRAS deste acordo;
+- Manter este acordo FIXO no meu perfil;
+
+4. Prompt para tirar fotos ao lado de quem não se tem fotos
+Pessoal
+Essa foi a primeira "montagem" que fiz e o meu rosto não ficou irreconhecível kkk
+Consegui até enganar alguns amigos hehe
+Segue o prompt:
+
+Take an extremely ordinary and
+unremarkable iPhone selfie, with no clear subject or composed framing-just a quick, accidental snapshot. 
+The photo has slight motion blur and uneven lighting from indoor lamps, causing certain areas to be mildly overexposed. The angle is awkward and the framing is messy, giving it a deliberately plain feel, as if it was taken absentmindedly while pulling the phone from a ocket. The main character is [uploaded person's face], and (Brad Pitt) stands next to him, both caught in a casual, imperfect moment. 
+The background shows a croded nightclub at night, with disco lights-just like in a club or bar-and blurry figures passing by under flashg lights. The overall look is intentionally plain and random, capturing the authentic vibe of a poorly composed, spontaneous iPhone selfie.
+
+5. Segurando planetas ou luas:
+Crie uma obra de arte digital altamente detalhada e realista.
+O personagem principal é a pessoa da [foto em anexo].
+Coloque-o centrado, voltado para a frente, olhando suavemente para baixo com uma expressão calma e serena.
+Ele está segurando uma lua cheia brilhante e luminosa com as duas mãos, posicionada logo abaixo de seu rosto.
+A Lua emite uma forte luz branca prateada que ilumina vividamente suas mãos, rosto, barba e cabelo, criando sombras e realces dramáticos.
+Adicione um halo suave ao redor da Lua para enfatizar sua!
+
+6. Imagem preto e branco com traços com fórmulas 
+ matemáticas:
+Calera... 
+Não sei se existe...
+Mas criei esse aqui...
+Transforme minha foto em uma ilustração artística no estilo de entalhe ou gravura, com linhas de tinta finas, hachuras e sombreamento detalhado. Mantenha meu rosto, roupas, acessórios e pose originais, mas estilize tudo com um toque técnico e futurista — incluindo elementos como fórmulas, esboços arquitetônicos e símbolos geométricos no fundo. o resto permanece em preto e branco. 
+A estética geral deve lembrar desenhos técnicos misturados com arte conceitual de ficção científica e alquimia, em papel branco claro. A imagem deve ser gerada em 4k, com elementos bem destacados e nítidos.
+
+6. Imagem em figurinhas:
+Convert the image into a set of 12 chibi sticker (4x4 grid) with outfit similar to this one, including expression of laughing being angry, crying, sulking, thinking, being sleepy, blowing a kiss, winking, being surprise.
+
+7. Prompt para foto igual a capa da série Euphoria:
+
+Close-up cinematográfico de um rosto feminino parcialmente iluminado, lágrima escorrendo lentamente pelo rosto com brilho intenso, maquiagem borrada com glitter, iluminação neon em tons de roxo, azul e rosa, atmosfera emocional profunda e estética high fashion, textura suave com grão de filme 35mm, fundo desfocado com leves brilhos, estilo visual inspirado na série Euphoria da HBO, expressão melancólica e sonhadora, sensação de silêncio dramático
+
+8. Prompt para fotos em quadrinhos:
+
+Crie uma capa comic book da Era de Ouro dos quadrinhos vintage com bastante pontilhados e uma tipografia serif com letras em ondas escrito "Nolite te bastardes carborundorum"  e em baixo com uma tipografia mais pequena com letras em ondas escrito "A Lenda De Carvalho".
