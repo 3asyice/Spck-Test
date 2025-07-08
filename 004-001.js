@@ -18,7 +18,11 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
+<div class="link-item"><a href="https://web.archive.org/web/20250708170506if_/https://3asyice.github.io/SixOhNine/script/sd/602.html"/>602 Samuel Weber/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708170145if_/https://3asyice.github.io/SixOhNine/script/sd/601.html"/>601 Gabriel Tassinari/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708165740if_/https://3asyice.github.io/SixOhNine/script/sd/Isaias.html"/># Jessé Isaias/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708165354if_/https://3asyice.github.io/SixOhNine/script/sd/ziguinatti.html"/># Vitor Ziquinatti/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708165001if_/https://3asyice.github.io/SixOhNine/script/sd/069.html"/>069 Kawã Lorentz/</a><p class="date">jul 08, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250708164642if_/https://3asyice.github.io/SixOhNine/script/sd/39.html"/>39 Grégori Forgerini/</a><p class="date">jul 08, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250708164313if_/https://3asyice.github.io/SixOhNine/script/sd/37.html"/>37 Augusto Bergmann/</a><p class="date">jul 08, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250708164029if_/https://3asyice.github.io/SixOhNine/script/sd/31.html"/>31 Antônio Capisani/</a><p class="date">jul 08, 2025 </p> <hr> </div>
