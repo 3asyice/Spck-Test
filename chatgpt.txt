@@ -65,3 +65,11 @@ Close-up cinematográfico de um rosto feminino parcialmente iluminado, lágrima 
 8. Prompt para fotos em quadrinhos:
 
 Crie uma capa comic book da Era de Ouro dos quadrinhos vintage com bastante pontilhados e uma tipografia serif com letras em ondas escrito "Nolite te bastardes carborundorum"  e em baixo com uma tipografia mais pequena com letras em ondas escrito "A Lenda De Carvalho".
+
+9. lutador em preto e branco:
+
+Alô Charles, é assim que se faz. 😂
+
+Segue o comando:
+
+Crie uma imagem minha em preto e branco, estou com o rosto machucado pois acabei de sair de uma luta ufc, eu venci, mas foi uma luta difícil, há bastante sangue. Estou dentro do octógono e o ambiente é iluminado por luzes que vem de cima, o cinturão de campeão está em meu ombro esquerdo. Ao redor há uma plateia ovacionada, mas não dá pra ver tão bem pois estão embaçados ao fundo, o foco é totalmente em mim. 
