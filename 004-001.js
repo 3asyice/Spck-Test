@@ -19,6 +19,11 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20250708164642if_/https://3asyice.github.io/SixOhNine/script/sd/39.html"/>39 Grégori Forgerini/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708164313if_/https://3asyice.github.io/SixOhNine/script/sd/37.html"/>37 Augusto Bergmann/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708164029if_/https://3asyice.github.io/SixOhNine/script/sd/31.html"/>31 Antônio Capisani/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708163734if_/https://3asyice.github.io/SixOhNine/script/sd/03.html"/>03 gabriel azevedo/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708163417if_/https://3asyice.github.io/SixOhNine/script/cel/soares.html"/>coronel soares/</a><p class="date">jul 08, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250708101157if_/https://3asyice.github.io/Spck-Test/Voce_Me_Ama_Caroline_Kepnes.pdf"/>Você Me Ama - Kepnes/</a><p class="date">jul 08, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250708104852if_/https://3asyice.github.io/Spck-Test/Corpos_Ocultos_Caroline_Kepnes.pdf"/>Corpos Ocultos - kepn/</a><p class="date">jul 08, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250708104629if_/https://3asyice.github.io/Spck-Test/Voce_Caroline_Kepnes.pdf"/>você - Caroline K.../</a><p class="date">jul 08, 2025 </p> <hr> </div>
