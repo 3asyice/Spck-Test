@@ -20,7 +20,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 <div class="link-item"><a href="https://web.archive.org/web/20250710111728if_/https://www.otempo.com.br/mundo/2025/7/3/gerente-mata-funcionaria-ao-sentar-sobre-ela-durante-briga-no-trabalho.amp"/>Jessica McLaughlin/</a><p class="date">jul 10, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250710031000if_/https://3asyice.github.io/SixOhNine/script/sd/603.html"/>603 Guilherme Maidana/</a><p class="date">jul 10, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250710030136if_/https://3asyice.github.io/Tech-Info/script/turma/124/Alexis_Barnaski.html"/>Alexis Barnarski/</a><p class="date">jul 10, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250710030136if_/https://3asyice.github.io/Tech-Info/script/turma/124/Alexis_Barnaski.html"/>Alexis Barnaski/</a><p class="date">jul 10, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250710025459if_/https://3asyice.github.io/SixOhNine/script/home.html"/>SixOhNine wiki diary/</a><p class="date">jul 10, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250708211225if_/https://3asyice.github.io/Spck-Test/chatgpt.txt"/>chatgpt prompts.txt/</a><p class="date">jul 08, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250708170506if_/https://3asyice.github.io/SixOhNine/script/sd/602.html"/>602 Samuel Weber/</a><p class="date">jul 08, 2025 </p> <hr> </div>
