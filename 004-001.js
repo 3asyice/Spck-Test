@@ -18,6 +18,9 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20250711060406if_/https://ijuinews.com.br/index.php?m=news&a=detail&id=9976"/>Andrei Cossetin Ijuí/</a><p class="date">jul 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://www.quora.com/Is-it-true-that-in-1977-we-received-a-radio-signal-from-space-that-lasted-72-seconds-and-up-till-this-day-we-don-t-know-where-it-came-from"/>Outer Space signal/</a><p class="date">jul 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250711025225if_/https://www.livescience.com/20718-computer-history.html"/>computer history/</a><p class="date">jul 11, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250711014417if_/https://3asyice.github.io/Spck-Test/"/>004 Archives/</a><p class="date">jul 10, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250710111728if_/https://www.otempo.com.br/mundo/2025/7/3/gerente-mata-funcionaria-ao-sentar-sobre-ela-durante-briga-no-trabalho.amp"/>Jessica McLaughlin/</a><p class="date">jul 10, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250710031000if_/https://3asyice.github.io/SixOhNine/script/sd/603.html"/>603 Guilherme Maidana/</a><p class="date">jul 10, 2025 </p> <hr> </div>
