@@ -18,6 +18,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20250712042103if_/https://3asyice.github.io/Spck-Test/modelo.mp4"/>supermercado modelo/</a><p class="date">jul 12, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250712035458if_/https://www.rdnews.com.br/cidades/conteudos/151425"/>Técnico de T.I. morre/</a><p class="date">jul 12, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250712034839if_/https://www.ijuinews.com.br/index.php?m=news&a=detail&id=6798"/>João Gabriel Domin.../</a><p class="date">jul 12, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250711060406if_/https://ijuinews.com.br/index.php?m=news&a=detail&id=9976"/>Andrei Cossetin Ijuí/</a><p class="date">jul 11, 2025 </p> <hr> </div>
