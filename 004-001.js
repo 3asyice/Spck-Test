@@ -18,6 +18,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+
+<div class="link-item"><a href="https://3asyice.github.io/Tapes/radio_teste.html"/>Radio Broadcast 609/</a><p class="date">jul 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250712043120if_/https://3asyice.github.io/Spck-Test/modelo_A.mp4"/>S Modelo funcionários/</a><p class="date">jul 12, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250712042103if_/https://3asyice.github.io/Spck-Test/modelo.mp4"/>supermercado modelo/</a><p class="date">jul 12, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250712035458if_/https://www.rdnews.com.br/cidades/conteudos/151425"/>Técnico de T.I. morre/</a><p class="date">jul 12, 2025 </p> <hr> </div>
