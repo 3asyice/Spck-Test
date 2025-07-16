@@ -19,6 +19,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://heartive.pages.dev/"/>filmes&series piratas/</a><p class="date">jul 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://fakeupdate.net"/>fakeupdate.net/</a><p class="date">jul 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/Radio"/>Radio Broadcast 609/</a><p class="date">jul 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250712043120if_/https://3asyice.github.io/Spck-Test/modelo_A.mp4"/>S Modelo funcionários/</a><p class="date">jul 12, 2025 </p> <hr> </div>
