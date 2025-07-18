@@ -163,7 +163,7 @@ a {
   margin-right: 0%;
   width: 100%;
   border-radius: 10px;
-  background: url('../assets/img/bg/coded.jpg') center/cover no-repeat fixed;
+  background: url('assets/img/bg/coded.jpg') center/cover no-repeat fixed;
   
   /* background: url(https://web.archive.org/web/20250420022153/https://www.big-loser.site/Caso/img/helloNeo.gif) center/cover no-repeat fixed; */
 }
@@ -296,6 +296,7 @@ section.logo {
     font-size: 18px;
     background: 0 0;
     border: none;
+    line-height: 24px;
     margin-left: 5%;
     outline: 0
   }
