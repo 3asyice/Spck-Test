@@ -20,6 +20,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20250719033916if_/https://correio.rac.com.br/internautas-criticam-boate-incendiada-em-rede-social-1.1043939"/>Boate Kiss Website/</a><p class="date">jul 19, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250716103755if_/https://oglobo.globo.com/brasil/noticia/2025/07/16/o-que-se-sabe-sobre-brasileiro-que-morreu-afogado-ao-salvar-parente-em-reservatorio-nos-eua.ghtml"/>Daniel Braga fig.../</a><p class="date">jul 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250711014438if_/https://3asyice.github.io/SixOhNine/script/black-news/Soldado-atropelado-por-advogada-enfrenta-sindic%C3%A2ncia.html"/>Sindicância carvalho/</a><p class="date">jul 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250718094453if_/https://3asyice.github.io/BlackMirrorwiki/script/season-1/the-national-anthem.html"/>Hino Nacional S1E1/</a><p class="date">jul 16, 2025 </p> <hr> </div>
