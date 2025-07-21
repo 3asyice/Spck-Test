@@ -19,7 +19,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
+<div class="link-item"><a href="https://sd614-teixeira.yay.boo/"/>Carlos H... Teixeira/</a><p class="date">jul 20, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://htmlforpeople.com/"/>html para internet/</a><p class="date">jul 20, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250720172930if_/https://3asyice.github.io/BlackMirrorwiki/script/season-1/the-entire-history-of-you.html"/>the entire h... s1e3/</a><p class="date">jul 20, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250720172119if_/https://3asyice.github.io/BlackMirrorwiki/script/season-1/15-million-merits.html"/>15 million m... s1e2/</a><p class="date">jul 20, 2025 </p> <hr> </div>
