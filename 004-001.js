@@ -18,9 +18,10 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-<div class="link-item"><a href="https://web.archive.org/web/20250724091728/https://3asyice.github.io/Spck-Test/FinalDest3_Christ.epub"/>bk final dest.. 3/</a><p class="date">jul 24, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250724091327/https://3asyice.github.io/Spck-Test//FinalDest2_Nancy.epub"/>bk final dest.. 2/</a><p class="date">jul 24, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250724090638/https://3asyice.github.io/Spck-Test/FinalDestination_Natasha.epub"/>bk final dest.. 1/</a><p class="date">jul 24, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250724092532if_/https://3asyice.github.io/Spck-Test/FinalDestinationDeathof.pdf"/>bk death of the sen./</a><p class="date">jul 24, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250724091728if_/https://3asyice.github.io/Spck-Test/FinalDest3_Christ.epub"/>bk final dest.. 3/</a><p class="date">jul 24, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250724091327if_/https://3asyice.github.io/Spck-Test//FinalDest2_Nancy.epub"/>bk final dest.. 2/</a><p class="date">jul 24, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250724090638if_/https://3asyice.github.io/Spck-Test/FinalDestination_Natasha.epub"/>bk final dest.. 1/</a><p class="date">jul 24, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250724015258if_/https://3asyice.github.io/Spck-Test/curriculum.pdf"/>guilherme currículo/</a><p class="date">jul 23, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://emojipedia.org/"/>emojipedia/</a><p class="date">jul 23, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/channel-zero"/>Channel Zero tv serie/</a><p class="date">jul 23, 2025 </p> <hr> </div>
