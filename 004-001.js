@@ -18,6 +18,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20250724095727if_/https://3asyice.github.io/Spck-Test/EndOfTheLine.epub"/>End Of The Line/</a><p class="date">jul 24, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250724095114if_/https://3asyice.github.io/Spck-Test/FinalDestination0.epub"/>Destination Zero/</a><p class="date">jul 24, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250724094507if_/https://3asyice.github.io/Spck-Test/LooksCouldKill.epub"/>looks could kill/</a><p class="date">jul 24, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250724092532if_/https://3asyice.github.io/Spck-Test/FinalDestinationDeathof.pdf"/>death of the senses/</a><p class="date">jul 24, 2025 </p> <hr> </div>
