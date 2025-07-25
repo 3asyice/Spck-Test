@@ -1,7 +1,7 @@
 {
   "name": "Radio FM 609",
   "short_name": "Radio 609",
-  "start_url": ".",
+  "start_url": "https://3asyice.github.io/Spck-Test/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#317EFB",
