@@ -36,6 +36,7 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One:ital@0;1&family=Archivo+Black&family=Geostar+Fill&family=Jacquard+24&family=Jacquard+24+Charted&family=Jacquarda+Bastarda+9+Charted&family=Jersey+10+Charted&family=Jersey+15+Charted&family=Jersey+20+Charted&family=Micro+5&family=Rubik+Broken+Fax&family=Rubik+Glitch&family=Rubik+Lines&family=Sixtyfour&family=Vollkorn+SC:wght@400;600;700;900&family=Workbench&display=swap">
   <link rel="stylesheet" href="https://www.big-loser.site/Caso/OCRA Alt.otf">
   <link rel="stylesheet" href="004.css">
+  <link rel="manifest" href="assets/script/manifest.json">
 </head>
 
 <body>
@@ -48,6 +49,9 @@
     <section class="logo">
       <a href="https://www.facebook.com/profile.php?id=61563357581792"><img width="50px" height="50px" src="https://web.archive.org/web/20250427015833im_if_/https://www.big-loser.site/M/May/facebook_logo.png" alt="facebook" /></a>
       <a href="mailto: big.loser.site@gmail.com"><img width="50px" height="50px" src="https://web.archive.org/web/20250427015833im_if_/https://www.big-loser.site/M/May/email_logo.png" alt="email" /></a>
+      <a id="add-button">
+      <img width="50px" height="50px" src="assets/img/logo/download.png" alt="download">
+      </a>
     </section>
 <h2>Recent Additions: 439</h2>
     <section id="all_links">
@@ -135,6 +139,33 @@
     </section>
   </main>
   <footer>&copy; 2024 - 2025: 004rquives</footer>
+<script type="text/javascript" charset="utf-8">
+let deferredPrompt;
+const installBtn = document.getElementById("add-button");
+
+window.addEventListener("beforeinstallprompt", (e) => {
+  e.preventDefault();
+  deferredPrompt = e;
+  installBtn.style.display = "block";
+});
+
+installBtn.addEventListener("click", () => {
+  if (deferredPrompt) {
+    deferredPrompt.prompt();
+    deferredPrompt.userChoice.then((choiceResult) => {
+      if (choiceResult.outcome === "accepted") {
+        console.log("Usuário aceitou instalar");
+      } else {
+        console.log("Usuário recusou");
+      }
+      deferredPrompt = null;
+    });
+  }
+});
+
+</script>
+<script defer async crossorigin="anonymous" src="assets/script/sw.js">
+</script>
   <script defer src="004-001.js" crossorigin="anonymous"></script>
 </body>
 
