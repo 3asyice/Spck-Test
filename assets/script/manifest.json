@@ -1,10 +1,10 @@
 {
-  "name": "Radio FM 609",
-  "short_name": "Radio 609",
+  "name": "ARCHIVED 004",
+  "short_name": "Archived🔥Media",
   "start_url": "https://3asyice.github.io/Spck-Test/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#317EFB",
+  "theme_color": "#00ff00",
   "icons": [
     {
       "src": "../assets/img/logo/download.png",
