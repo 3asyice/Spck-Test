@@ -19,6 +19,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://3asyice.github.io/SixOhNine/script/instrucao/pesquisa.html"/>Pesquisa Inteligente/</a><p class="date">jul 25, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://chatgpt.com/"/>Chatgpt/</a><p class="date">jul 25, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250724180414if_/https://g1.globo.com/tecnologia/noticia/2024/05/21/stalking-saiba-quando-a-perseguicao-na-internet-se-torna-crime.ghtml"/>perseguição Stalking/</a><p class="date">jul 24, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/the-end-line/"/>The End Line/</a><p class="date">jul 24, 2025 </p> <hr> </div>
