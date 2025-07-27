@@ -26,8 +26,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 <div class="link-item"><a href="https://chatgpt.com/"/>chatgpt.com/</a><p class="date">jul 25, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250724180414if_/https://g1.globo.com/tecnologia/noticia/2024/05/21/stalking-saiba-quando-a-perseguicao-na-internet-se-torna-crime.ghtml"/>perseguição Stalking/</a><p class="date">jul 24, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/the-end-line/"/>The End Line/</a><p class="date">jul 24, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250724133401if_/https://3asyice.github.io/Spck-Test/instagram_stalking.mp4"/>4lex_fl - INSTAGRAM/</a><p class="date">jul 24, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250724133154if_/https://3asyice.github.io/Spck-Test/4lex_fl.mp4"/>4lex_fl/</a><p class="date">jul 24, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250724133401/https://3asyice.github.io/Spck-Test/instagram_stalking.mp4"/>4lex_fl - INSTAGRAM/</a><p class="date">jul 24, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250724133154/https://3asyice.github.io/Spck-Test/4lex_fl.mp4"/>4lex_fl/</a><p class="date">jul 24, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250724115247if_/https://3asyice.github.io/Spck-Test/boatekiss_trecho.mp4"/>boate kiss.mp4/</a><p class="date">jul 24, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250724100443if_/https://3asyice.github.io/Spck-Test/DeadMansHand.epub"/>Dead Man's Hand/</a><p class="date">jul 24, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250724095727if_/https://3asyice.github.io/Spck-Test/EndOfTheLine.epub"/>End Of The Line/</a><p class="date">jul 24, 2025 </p> <hr> </div>
