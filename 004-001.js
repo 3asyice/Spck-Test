@@ -19,7 +19,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-<div class="link-item"><a href="https://3asyice.github.io/Spck-Test/quem_sou_eu?.txt"/>quem sou eu?/</a><p class="date">jul 27, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://3asyice.github.io/Spck-Test/quem_sou_eu?.txt"/>quem_sou_eu?.txt/</a><p class="date">jul 27, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.dogpile.com/serp?q=Gay+porn&sc=atYiKf3ziGhg10"/>dogpile.com gayporn/</a><p class="date">jul 27, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.wolframalpha.com"/>Wolframalpha.com/</a><p class="date">jul 27, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/SixOhNine/script/instrucao/pesquisa.html"/>Pesquisa Inteligente/</a><p class="date">jul 25, 2025 </p> <hr> </div>
