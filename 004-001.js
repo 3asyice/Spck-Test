@@ -19,6 +19,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://pwa2apk.com/"/>apk maker/</a><p class="date">jul 27, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://cdaudiobook.com/13-reasons-why-audiobook/"/>13 r. w. audiobook/</a><p class="date">jul 27, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://famous.ai"/>famous.ai/</a><p class="date">jul 27, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/Spck-Test/quem_sou_eu?.txt"/>quem_sou_eu?.txt/</a><p class="date">jul 27, 2025 </p> <hr> </div>
