@@ -164,7 +164,10 @@ a {
   width: 100%;
   border-radius: 10px;
   background: url('https://web.archive.org/web/20250721112836if_/https://3asyice.github.io/Spck-Test/newspaper_final_destination.jpg') center/cover no-repeat fixed;
+  
   /*
+  assets/img/bg/pc_bg.jpg
+  
   background: url('https://web.archive.org/web/20250718104915/https://3asyice.github.io/Spck-Test/the_glitched_bg.png') center/cover no-repeat fixed;
   
   background: url('assets/img/bg/coded.jpg') center/cover no-repeat fixed;
@@ -295,6 +298,13 @@ section.logo {
 }
 
 @media (min-width:1025px) {
+  #links {
+  margin-left: 0%;
+  margin-right: 0%;
+  width: 100%;
+  border-radius: 10px;
+  background: url('assets/img/bg/pc_bg.jpg') center/cover no-repeat fixed;
+  }
   a {
     color: #61ea53;
     font-size: 18px;
