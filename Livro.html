@@ -140,14 +140,14 @@ text-shadow: black .7px .7px .7px;
 }
 </style>
 <header>
-<!-- o atributo loading="lazy" carrega imagens lentamente ao rolar a tela, é melhor do que loading="eager" que é o padrão para imagens... portanto usarei o valor eager -->
-<h1><img loading="eager" fetchpriority="high" src="https://files.catbox.moe/5aket4.png" alt="Símbolo ADM GU SM" width="50" height="50" />
+<!-- o atributo loading="lazy" carrega imagens lentamente ao rolar a tela, é melhor do que loading="eager" que é o padrão para imagens-->
+<h1><img fetchpriority="high" src="https://files.catbox.moe/5aket4.png" alt="Símbolo ADM GU SM" width="50" height="50" />
 SD 609 CARVALHO</h1>
 </header>
 <section id="card">
 <h2>HISTÓRIA DE UM RECRUTA</h2>
 <center>
-<img loading="eager" fetchpriority="high" src="https://files.catbox.moe/7pbm3k.jpg" alt="Book Cover" width="370" height="auto" />
+<img loading="lazy" fetchpriority="high" src="https://files.catbox.moe/7pbm3k.jpg" alt="Book Cover" width="370" height="auto" />
 </center>
 <p>
 Uma história única com um dos finais mais inesperados de todos os livros já feitos.
@@ -162,15 +162,12 @@ Uma história única com um dos finais mais inesperados de todos os livros já f
   <a href="mailto:big.loser.site@gmail.com">big.loser.site@gmail.com</a></p>
 </footer>
 <script type="text/javascript" charset="utf-8" async="false" defer>
-
-
+// a variável downloadButton contém o id download que ao ser clicado direcionará o usuário para a página de download
 var downloadButton = document.getElementById('download');
 
 downloadButton.addEventListener('click', function() {
 window.location.href = 'https://www.mediafire.com/file/w04x609v6sqpa52/historia_de_um_recruta.pdf/file';
 });
-
-
 
 </script>
 </body>
