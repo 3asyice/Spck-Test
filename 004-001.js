@@ -18,6 +18,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+
 <div class="link-item"><a href="https://3asyice.github.io/Spck-Test/Livro.html"/>livro do recruta/</a><p class="date">ago 02, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/a-historia-de-um-recruta-o-filme"/>história do recruta/</a><p class="date">ago 02, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250731031109if_/https://3asyice.github.io/SixOhNine/script/sd/609.html"/>609 Carvalho/</a><p class="date">jul 29, 2025 </p> <hr> </div>
