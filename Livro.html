@@ -138,10 +138,24 @@ margin-bottom: 15px;
 color:#333;
 text-shadow: black .7px .7px .7px;
 }
+section#profile{
+
+}
+section#profile div{
+display:flex;
+margin:0 20px 0 20px;
+}
+section#profile div img{
+outline:3px solid #C8544F;
+border: 3px solid #354E9A;
+width: 100px;
+height: 100px;
+margin:15px;
+}
 </style>
 <header>
 <!-- o atributo loading="lazy" carrega imagens lentamente ao rolar a tela, é melhor do que loading="eager" que é o padrão para imagens-->
-<h1><img fetchpriority="high" src="https://files.catbox.moe/5aket4.png" alt="Símbolo ADM GU SM" width="50" height="50" />
+<h1><img loading="eager" fetchpriority="high" src="https://files.catbox.moe/5aket4.png" alt="Símbolo ADM GU SM" width="50" height="50" />
 SD 609 CARVALHO</h1>
 </header>
 <section id="card">
@@ -156,6 +170,22 @@ Uma história única com um dos finais mais inesperados de todos os livros já f
 <button id="download" onclick="initiateDownload()">DOWNLOAD 1.18MB</button>
 </center>
 </section>
+
+<section id="profile">
+<div>
+<img loading="lazy" fetchpriority="low" src="https://web.archive.org/web/20250312130355im_/https://badmgusm.eb.mil.br/images/comando/COMANDANTE.jpg" alt="Soares" />
+<img loading="lazy" fetchpriority="low" src="https://3asyice.github.io/SixOhNine/assets/img/sgt/azevedo.jpg" alt="Azevedo" />
+<img loading="lazy" fetchpriority="low" src="https://3asyice.github.io/SixOhNine/assets/img/sgt/capisani.jpg" alt="Capisani" />
+</div>
+<div>
+<img loading="lazy" fetchpriority="low" src="https://3asyice.github.io/SixOhNine/assets/img/sgt/bergmann.jpg" alt="Bergmann" />
+<img loading="lazy" fetchpriority="low" src="https://3asyice.github.io/SixOhNine/assets/img/sgt/forge.jpg" alt="Forgerini" />
+<img loading="lazy" fetchpriority="low" src="assets/img/sgt/moraes.webp" alt="Capisani" />
+</div>
+
+
+</section>
+
 <footer>
 <p>&copy; Recruta 609 <br>Todos os Direitos Reservados • 2024 - 2025</p>
 <p>Author: 609 Carvalho<br>
