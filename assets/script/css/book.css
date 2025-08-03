@@ -1,0 +1,112 @@
+/* font-face is done to add a font family. Yeah I picked the Call Of Duty font because I'm a fan*/
+@font-face {
+font-family: CallOfDuty;
+src: url('assets/font/callofduty.ttf') format('woff2');
+font-display: swap;
+}
+@font-face {
+  font-family: militaryFont;
+  src: url('assets/font/military.ttf') format('woff2');
+  font-display: swap;
+}
+
+
+*{
+/* always keep it like this */
+box-sizing: border-box;
+}
+html, body{
+margin:0;
+background:#39432A;
+}
+header{
+margin-top: none;
+padding:1px;
+background:#39432A;
+}
+header h1{
+border:3px solid #273767;
+outline-offset: 2px;
+outline:3px solid #B54F4A;
+font-size: 2.5em;
+background:#DCD1CB;
+user-select: none;
+padding:15px;
+color:#333;
+margin:10px 25px 10px 25px;
+font-weight: 400;
+text-shadow: black .7px .7px .7px;
+text-align: center;
+/* this is how you use your downloaded font */
+font-family:'CallOfDuty', sans-serif;
+}
+header img{
+user-select: none;
+text-align: center;
+}
+section#card{
+background: #DCD1CB;
+margin-top: 100px;
+padding:15px 25px 0 25px;
+outline-offset: 2px;
+border-bottom:3px solid #354E9A;
+outline:3px solid #C8544F;
+border-top:3px solid #354E9A;
+outline:3px solid #C8544F;
+font-size: 2.5em;
+}
+section#card h2{
+font-size: 1em;
+font-family:'militaryFont', sans-serif;
+font-weight: 300;
+margin:20px 20px 10px 20px;
+color:#333;
+text-shadow: black .7px .7px .7px;
+}
+section#card img{
+margin:10px;
+border-radius: 10px;
+}
+section#card p{
+font-weight: 100;
+font-size: 0.5em;
+line-height: 1.5em;
+font-family:'militaryFont', sans-serif;
+color:#333;
+text-shadow: #fff .7px .7px .7px;
+margin:5px 15px 15px;
+}
+footer{
+margin-top: 150px;
+outline-offset: 2px;
+outline:3px solid #C8544F;
+border-top: 3px solid #354E9A;
+padding:15px;
+background:#F1DFC7;
+}
+footer p{
+font-size: 0.7em;
+}
+button#download{
+font-size: 0.5em;
+font-weight: 700;
+padding:10px;
+border-radius:10px;
+margin-bottom: 15px;
+color:#333;
+text-shadow: black .7px .7px .7px;
+}
+section#profile{
+
+}
+section#profile div{
+display:flex;
+margin:0 20px 0 20px;
+}
+section#profile div img{
+outline:3px solid #C8544F;
+border: 3px solid #354E9A;
+width: 100px;
+height: 100px;
+margin:15px;
+}
