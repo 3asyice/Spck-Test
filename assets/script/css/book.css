@@ -1,12 +1,12 @@
 /* font-face is done to add a font family. Yeah I picked the Call Of Duty font because I'm a fan*/
 @font-face {
 font-family: CallOfDuty;
-src: url('../../../assets/font/callofduty.ttf') format('woff2');
+src: url('../../font/callofduty.ttf') format('woff2');
 font-display: swap;
 }
 @font-face {
   font-family: militaryFont;
-  src: url('../../../assets/font/military.ttf') format('woff2');
+  src: url('../../font/military.ttf') format('woff2');
   font-display: swap;
 }
 
