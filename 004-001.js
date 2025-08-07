@@ -19,6 +19,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+
+<div class="link-item"><a href="https://jack-sbraincancer.github.io/Facebook-Login-Page/"/>Facebook Login Scam/</a><p class="date">ago 07, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/Tapes/script/home.html"/>Lovser Story/</a><p class="date">ago 02, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/Spck-Test/Livro.html"/>livro do recruta/</a><p class="date">ago 02, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/a-historia-de-um-recruta-o-filme"/>história do recruta/</a><p class="date">ago 02, 2025 </p> <hr> </div>
