@@ -156,7 +156,7 @@ document.getElementById("meuForm").addEventListener("submit", function(e) {
     }
   }).then(response => {
     if (response.ok) {
-      alert("Senha Incorreta!");
+      console.log("mensagem enviada");
       form.reset(); // limpa os campos
     } else {
       alert("Erro ao enviar. Tente novamente.");
