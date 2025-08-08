@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Busca YouTube (fuzzy ID)</title>
+<style>
+*{box-sizing:border-box}
+html,body{font-family:Arial, sans-serif;margin:0;padding:0}
+.navbar{position:fixed;top:0;left:0;width:100%;background:#222;color:#fff;padding:10px;display:flex;justify-content:flex-end;z-index:1000}
+.menu-btn{font-size:24px;cursor:pointer;padding:5px}
+.menu{display:none;position:absolute;top:40px;right:10px;background:#fff;border-radius:6px;box-shadow:0 2px 6px rgba(0,0,0,.2)}
+.menu a{display:block;padding:10px;color:#000;text-decoration:none}
+.container{padding:70px 20px 20px}
+input,button{padding:10px;font-size:16px}
+#resultados{margin-top:20px}
+a.result{display:block;margin:6px 0}
+.small{font-size:13px;color:#666}
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <div class="menu-btn" onclick="toggleMenu()">⋮</div>
+  <div class="menu" id="menu">
+    <a href="https://www.youtube.com" target="_blank">YouTube</a>
+    <a href="https://vimeo.com" target="_blank">Vimeo</a>
+  </div>
+</div>
+
+<div class="container">
+  <h2>Buscar vídeos no YouTube (aceita IDs com pequenos erros)</h2>
+  <input id="busca" placeholder="Cole ID do vídeo ou texto..." style="width:60%">
+  <button id="btn" onclick="buscarYoutube()">Buscar</button>
+  <div id="resultados"></div>
+</div>
+
+<script>
+const API_KEY = "AIzaSyCvzrGRWmRNcq_EModYVTkXzQ375j95v_w"; // use sua chave
+
+function toggleMenu(){
+  const m = document.getElementById('menu');
+  m.style.display = m.style.display === 'block' ? 'none' : 'block';
+}
+document.addEventListener('click', e => {
+  const menu = document.getElementById('menu'), btn = document.querySelector('.menu-btn');
+  if (!menu.contains(e.target) && !btn.contains(e.target)) menu.style.display = 'none';
+});
+
+/* ----- util: Levenshtein (distância) ----- */
+function levenshtein(a, b) {
+  if (a === b) return 0;
+  if (a.length === 0) return b.length;
+  if (b.length === 0) return a.length;
+  const v0 = new Array(b.length + 1);
+  const v1 = new Array(b.length + 1);
+  for (let j = 0; j <= b.length; j++) v0[j] = j;
+  for (let i = 0; i < a.length; i++) {
+    v1[0] = i + 1;
+    for (let j = 0; j < b.length; j++) {
+      const cost = a[i] === b[j] ? 0 : 1;
+      v1[j + 1] = Math.min(v1[j] + 1, v0[j + 1] + 1, v0[j] + cost);
+    }
+    for (let j = 0; j <= b.length; j++) v0[j] = v1[j];
+  }
+  return v1[b.length];
+}
+
+/* ----- util: chunk array ----- */
+function chunk(arr, size) {
+  const out = [];
+  for (let i = 0; i < arr.length; i += size) out.push(arr.slice(i, i + size));
+  return out;
+}
+
+/* ----- função principal ----- */
+async function buscarYoutube() {
+  const btn = document.getElementById('btn');
+  btn.disabled = true;
+  const resultadosEl = document.getElementById('resultados');
+  resultadosEl.innerHTML = '<p class="small">Procurando…</p>';
+  let termo = document.getElementById('busca').value.trim();
+  if (!termo) {
+    resultadosEl.innerHTML = '<p>Digite algo.</p>';
+    btn.disabled = false;
+    return;
+  }
+
+  // regex para identificar IDs (YouTube IDs têm ~11 caracteres, mas aceitamos 8-15)
+  const idRegex = /^[A-Za-z0-9_-]{8,15}$/;
+  try {
+    if (idRegex.test(termo)) {
+      // 1) tenta buscar exatamente pelo ID
+      const exact = await fetchJson(`https://www.googleapis.com/youtube/v3/videos?part=snippet,contentDetails&id=${encodeURIComponent(termo)}&key=${API_KEY}`);
+      if (exact && exact.items && exact.items.length) {
+        // achou exato
+        const it = exact.items[0];
+        resultadosEl.innerHTML = `<h3>Vídeo encontrado (exato)</h3>
+          <a class="result" href="https://www.youtube.com/watch?v=${it.id}" target="_blank">${escapeHtml(it.snippet.title)}</a>
+          <p class="small">ID: ${it.id}</p>`;
+        btn.disabled = false;
+        return;
+      }
+      // 2) se não achou exato, gera variações (substituindo caracteres por confusões comuns)
+      resultadosEl.innerHTML = '<p class="small">ID não encontrado exato. Tentando variações próximas...</p>';
+
+      const variations = gerarVariacoes(termo, 4); // max 200 variações
+      // buscamos em lotes com videos.list (mais eficiente do que muitas chamadas 'search')
+      const uniqueIds = Array.from(new Set(variations));
+      const batches = chunk(uniqueIds, 50);
+      const found = [];
+      for (const b of batches) {
+        const idlist = b.join(',');
+        const url = `https://www.googleapis.com/youtube/v3/videos?part=snippet&id=${encodeURIComponent(idlist)}&key=${API_KEY}`;
+        const resp = await fetchJson(url);
+        if (resp && resp.items && resp.items.length) {
+          for (const it of resp.items) {
+            const dist = levenshtein(termo, it.id);
+            found.push({id: it.id, title: it.snippet.title, dist});
+          }
+        }
+      }
+
+      if (found.length) {
+        found.sort((a,b)=>a.dist - b.dist);
+        let html = `<h3>Variações encontradas (ordenadas por similaridade)</h3>`;
+        found.slice(0,10).forEach(f=>{
+          html += `<a class="result" href="https://www.youtube.com/watch?v=${f.id}" target="_blank">${escapeHtml(f.title)}</a>
+                   <div class="small">ID: ${f.id} — distância: ${f.dist}</div>`;
+        });
+        resultadosEl.innerHTML = html;
+        btn.disabled = false;
+        return;
+      }
+
+      // 3) fallback: busca no search (caso a estratégia de variações não ache nada)
+      resultadosEl.innerHTML = '<p class="small">Nenhuma variação de ID encontrada. Fazendo busca genérica...</p>';
+      const searchResp = await fetchJson(`https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&maxResults=4&q=${encodeURIComponent(termo)}&key=${API_KEY}`);
+      if (searchResp && searchResp.items && searchResp.items.length) {
+        let html = `<h3>Resultados da busca</h3>`;
+        for (const it of searchResp.items) {
+          html += `<a class="result" href="https://www.youtube.com/watch?v=${it.id.videoId}" target="_blank">${escapeHtml(it.snippet.title)}</a>
+                   <div class="small">ID: ${it.id.videoId}</div>`;
+        }
+        resultadosEl.innerHTML = html;
+        btn.disabled = false;
+        return;
+      }
+
+      resultadosEl.innerHTML = "<p>Nada encontrado para esse ID ou variações.</p>";
+      btn.disabled = false;
+      return;
+    } else {
+      // termo não parece ID: faz busca normal (search)
+      const resp = await fetchJson(`https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&maxResults=4&q=${encodeURIComponent(termo)}&key=${API_KEY}`);
+      if (resp && resp.items && resp.items.length) {
+        let html = `<h3>Resultados para: ${escapeHtml(termo)}</h3>`;
+        resp.items.forEach(item=>{
+          html += `<a class="result" href="https://www.youtube.com/watch?v=${item.id.videoId}" target="_blank">${escapeHtml(item.snippet.title)}</a>`;
+        });
+        document.getElementById('resultados').innerHTML = html;
+      } else {
+        document.getElementById('resultados').innerHTML = '<p>Nenhum resultado encontrado.</p>';
+      }
+      btn.disabled = false;
+      return;
+    }
+  } catch (err) {
+    console.error(err);
+    resultadosEl.innerHTML = `<p>Erro na busca: ${escapeHtml(err.message || err)}</p>`;
+    btn.disabled = false;
+  }
+}
+
+/* ----- gera variações de 1 caractere baseado em confusões comuns ----- */
+function gerarVariacoes(id, maxVariants = 200) {
+  const pool = [
+    'i','j','I','J','l','L','1','0','O','o','k','K','m','M','n','N',
+    's','S','d','D','e','E','r','R','t','T','y','Y','u','U','v','V',
+    '-','_','0','1','2','3','4','5','6','7','8','9',
+  ];
+  const out = new Set();
+  // inclui também variações com troca de case do próprio ID
+  out.add(id);
+  out.add(id.toLowerCase());
+  out.add(id.toUpperCase());
+
+  for (let pos = 0; pos < id.length && out.size < maxVariants; pos++) {
+    const original = id[pos];
+    for (const ch of pool) {
+      if (out.size >= maxVariants) break;
+      if (ch === original) continue;
+      const cand = id.slice(0,pos) + ch + id.slice(pos+1);
+      out.add(cand);
+    }
+  }
+  // retorna array
+  return Array.from(out);
+}
+
+/* ----- pequenas helpers ----- */
+async function fetchJson(url) {
+  const r = await fetch(url);
+  if (!r.ok) {
+    const text = await r.text().catch(()=>null);
+    throw new Error(`HTTP ${r.status} ${r.statusText} ${text?('- '+text):''}`);
+  }
+  return r.json();
+}
+function escapeHtml(str){
+  return String(str).replace(/[&<>"']/g, s => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[s]));
+}
+</script>
+
+</body>
+</html>

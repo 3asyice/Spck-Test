@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="description" content="Uma busca inteligente por vídeos e urls de vídeos do YouTube."/>
+<title>Busca vídeos do YouTube</title>
+<meta name="robots" content="index, follow"/>
+<meta property="og:description" content="Uma busca inteligente por vídeos do YouTube."/>
+
+<style>
+*{
+box-sizing: border-box;
+}
+html, body{ 
+font-family: Arial, sans-serif;
+margin: 20px;}
+input, button{
+padding: 10px; 
+font-size: 16px;}
+#resultados{ 
+margin-top: 20px;}
+a { 
+display: block; 
+margin-bottom: 10px;}
+</style>
+</head>
+<body>
+
+<h2>Buscar vídeos no YouTube</h2>
+<input type="text" id="busca" placeholder="Digite o que quer pesquisar">
+<button onclick="buscarYoutube()">Buscar</button>
+
+<div id="resultados"></div>
+
+<script>
+const API_KEY = "AIzaSyDnwqoQyUtayeZaYfw9K7Y7-L80I7Ip6CA"; 
+
+function buscarYoutube() {
+    let termo = document.getElementById("busca").value.trim();
+    if (termo === "") {
+        console.log("Digite algo para pesquisar!");
+        return;
+    }
+
+    fetch(`https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&maxResults=1000&q=${encodeURIComponent(termo)}&key=${API_KEY}`)
+        .then(response => response.json())
+        .then(data => {
+            let html = `<h3>Resultados para: ${termo}</h3>`;
+            if (data.items) {
+                data.items.forEach(item => {
+                    let videoId = item.id.videoId;
+                    let titulo = item.snippet.title;
+                    html += `<a href="https://www.youtube.com/watch?v=${videoId}" target="_blank">${titulo}</a>`;
+                });
+            } else {
+                html += "<p>Nenhum resultado encontrado.</p>";
+            }
+            document.getElementById("resultados").innerHTML = html;
+        })
+        .catch(error => {
+            console.error("Erro na busca:", error);
+            document.getElementById("resultados").innerHTML = "<p>Erro ao buscar vídeos.</p>";
+        });
+}
+</script>
+
+</body>
+</html>
