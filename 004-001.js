@@ -20,6 +20,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20250712004921if_/https://www.inf.ufpr.br/albini/apostila/Apostila_Redes1_Beta.pdf"/>Apostila de Redes²/</a><p class="date">ago 14, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20240618004528if_/https://www1.univap.br/bruno.pera/uploads/INFORMATICA/REDES/Apostila_de_Redes_V3.pdf"/>Apostila de Redes/</a><p class="date">ago 14, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://appmaker.xyz/webapp"/>Apk maker2/</a><p class="date">ago 09, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://jack-sbraincancer.github.io/Facebook-Login-Page/"/>Facebook Login Scam/</a><p class="date">ago 07, 2025 </p> <hr> </div>
