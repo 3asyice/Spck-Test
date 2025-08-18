@@ -20,6 +20,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://www.reddit.com/r/nosurf/"/>no social medias/</a><p class="date">ago 18, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250815082454if_/https://3asyice.github.io/Spck-Test/Terminator2_JudgmentDay.zip"/>Terminator 2 HQ/</a><p class="date">ago 15, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250814190852if_/https://3asyice.github.io/Spck-Test/"/>Archived Media/</a><p class="date">ago 14, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250814051240if_/https://3asyice.github.io/Tech-Info/script/turma/124/Davi_Pereira.html"/>Davi Pereira/</a><p class="date">ago 14, 2025 </p> <hr> </div>
