@@ -20,7 +20,21 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-<div class="link-item"><a href="https://tools.oktopus.cloud/tool/js-obfuscator"/>ofuscador js/</a><p class="date">ago 19, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https: //ia904603.us.archive.org/13/items/Popcornarchive-theBlairWitchProject1999/Popcornarchive-theBlairWitchProject1999.mp4"/>the Blair Witch Project.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://dn720004.ca.archive.org/0/items/movies_202211/Hacked.mp4"/>hacked.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://ia801508.us.archive.org/35/items/movies_202211/Hacker%27s%20Game%20Redux.ia.mp4"/>hacker's game.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://dn720004.ca.archive.org/0/items/movies_202211/Hacker.mp4"/>hacker.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://ia601508.us.archive.org/35/items/movies_202211/Hackers.ia.mp4"/>hackers.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://dn720004.ca.archive.org/0/items/movies_202211/Fight%20Club.ia.mp4"/>fight club.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://dn721504.ca.archive.org/0/items/fd_movies_all/Final.Destination.2000.720p.BrRip.x264.YIFY.mp4"/>final destination.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://ia801002.us.archive.org/3/items/fd_movies_all/Final.Destination.2.2003.720p.BrRip.x264.YIFY.mp4"/>final destination2.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://dn721504.ca.archive.org/0/items/fd_movies_all/Final.Destination.3.2006.BrRip.x264.YIFY.mp4"/>final destination3.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://ia801002.us.archive.org/3/items/fd_movies_all/The.Final.Destination.2009.720p.BrRip.x264.YIFY.mp4"/>final destination4.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://dn721504.ca.archive.org/0/items/fd_movies_all/Final.Destination.5%20.2011.720p.BrRip.x264.YIFY.mp4"/>final destination5.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://ia801508.us.archive.org/35/items/movies_202211/Halloween%20%281978%29.mp4"/>Halloween.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://dn720004.ca.archive.org/0/items/movies_202211/Coraline.ia.mp4"/>coraline.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://ia801508.us.archive.org/35/items/movies_202211/Evil%20Dead.mp4"/>evil dead.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://tools.oktopus.cloud/tool/js-obfuscator"/>ofuscador js/</a><p class="date">ago 21, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250819201616if_/https://3asyice.github.io/Spck-Test/"/>Archived Media/</a><p class="date">ago 19, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/004-archived-media/004%20Archived%20Media%20%281%29.apk"/>Archived Media.apk!!!/</a><p class="date">ago 19, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/station-609"/>Station 609.apk!!!/</a><p class="date">ago 19, 2025 </p> <hr> </div>
