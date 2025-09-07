@@ -20,10 +20,12 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://pesquise.yay.boo/"/>pesquise.yay.boo/</a><p class="date">set 7, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250827205517if_/https://3asyice.github.io/SixOhNine/script/sd/39.html"/>39 Grégori Forgerini/</a><p class="date">ago 25, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://imagecolorpicker.com/"/>Color Picker/</a><p class="date">ago 25, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://gossip-fm-base.lovable.app/"/>609 gravações/</a><p class="date">ago 21, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://jam-audio-player.lovable.app/"/>Terminal Militar 609/</a><p class="date">ago 21, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://ia904603.us.archive.org/13/items/Popcornarchive-theBlairWitchProject1999/Popcornarchive-theBlairWitchProject1999.mp4"/>the Blair Witch Project.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://ia904603.us.archive.org/13/items/Popcornarchive-theBlairWitchProject1999/Popcornarchive-theBlairWitchProject1999.mp4"/>the Blair Witch.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://dn720004.ca.archive.org/0/items/movies_202211/Hacked.mp4"/>hacked.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://ia801508.us.archive.org/35/items/movies_202211/Hacker%27s%20Game%20Redux.ia.mp4"/>hacker's game.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://dn720004.ca.archive.org/0/items/movies_202211/Hacker.mp4"/>hacker.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
