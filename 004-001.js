@@ -20,7 +20,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-<div class="link-item"><a href="https://archive.org/download/Dublagens"/>dvd files/</a><p class="date">set 13, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/download/Dublagens"/>dublagens files/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/anoitedosmortosvivos1968dublado"/>noite dos mortos/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/shakma-a-furia-assassina-1990/"/>filmes de terror/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/rio-2-public-domain-movie-english-translation"/>Rio 2 (2014)/</a><p class="date">set 13, 2025 </p> <hr> </div>
