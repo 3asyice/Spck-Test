@@ -20,6 +20,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20250913155807if_/https://mundodosanimes.com/curiosidades/a-frequencia-kirlian-o-horror-intimo-que-se-esconde-nos-detalhes/"/>Frequência kirlian/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/Dublagens"/>dublagens files/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/anoitedosmortosvivos1968dublado"/>noite dos mortos/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/shakma-a-furia-assassina-1990/"/>filmes de terror/</a><p class="date">set 13, 2025 </p> <hr> </div>
