@@ -20,6 +20,10 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/the-twilight-zone-1959-s-04-e-16-on-thursday-we-leave-for-home"/>the twilight zone s4/</a><p class="date">set 13, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/the-twilight-zone-1959-s-03-e-15-a-quality-of-mercy"/>the twilight zone s3/</a><p class="date">set 13, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/the-twilight-zone-1959-s-02-e-11-the-night-of-the-meek"/>the twilight zone s2/</a><p class="date">set 13, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/the-twilight-zone-1959-s-01-e-00-original-pilot"/>the twilight zone s1/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/APossessoDoMalAPossessoDeMichaelKing"/>A possessão do mal/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250913155807if_/https://mundodosanimes.com/curiosidades/a-frequencia-kirlian-o-horror-intimo-que-se-esconde-nos-detalhes/"/>Frequência kirlian/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/Dublagens"/>dublagens files/</a><p class="date">set 13, 2025 </p> <hr> </div>
