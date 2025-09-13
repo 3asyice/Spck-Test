@@ -18,6 +18,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://m.ok.ru/video/1102587366007"/>Animal 2014 dublado/</a><p class="date">set 13, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://youtube.com/playlist?list=PLUcKUyr6iH6TMwH_n0VutJ-l2ybNPbS4l&si=r1CoHTpFdTS22rpk"/>A frequência Kirlian/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/anime-inu-yasha-dublado-portugues-brasil-spanish-japanese/"/>anime inu yasha ptbr/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/anime_20220908/"/>dragon ball gt/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/ModMouse_2021-08-17/2021-08-17+Anthem%2C+Washington%2C+District+of+Columbia/mm2021-08-17.vwmule.t08.flac"/>more of modest mouse/</a><p class="date">set 13, 2025 </p> <hr> </div>
