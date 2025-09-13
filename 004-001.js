@@ -21,6 +21,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://www.tokyvideo.com/br/video/interestelar-filme-completo-dublado"/>interestelar dublado/</a><p class="date">set 13, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/the.-twilight.-zone.-2002.-s-01.480p.-dvd-rip.-x-264.-will-1869/The.Twilight.Zone.2002.S01.480p.DvdRip.X264.Will1869/S01E01-E02.mp4"/>the twili..(2002) s1/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/the-twilight-zone-1959-s-05-e-22-an-occurrence-at-owl-creek-bridge"/>the twilight zone s5/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/the-twilight-zone-1959-s-04-e-16-on-thursday-we-leave-for-home"/>the twilight zone s4/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/the-twilight-zone-1959-s-03-e-15-a-quality-of-mercy"/>the twilight zone s3/</a><p class="date">set 13, 2025 </p> <hr> </div>
