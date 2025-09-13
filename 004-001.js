@@ -20,6 +20,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/101-dalmatians-1996-uk-vhs_202404"/>Desenhos em VHS UK/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://pesquise.yay.boo/"/>pesquise.yay.boo/</a><p class="date">set 7, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250827205517if_/https://3asyice.github.io/SixOhNine/script/sd/39.html"/>39 Grégori Forgerini/</a><p class="date">ago 25, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://imagecolorpicker.com/"/>Color Picker/</a><p class="date">ago 25, 2025 </p> <hr> </div>
