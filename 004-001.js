@@ -22,6 +22,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/personal-playlist/"/>personal playlist/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/goodnewslive/08+-+Bukowski+(2006-11-05+Los+Angeles%2C+CA).flac"/>good news for peo.../</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/modest-mouse-the-lonesome-crowded-west-flac-24-bits-96000khz/01+-+Teeth+Like+God's+Shoeshine.flac"/>modest mouse.flac/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/ModMouse_1996-09-01/1996-09-01+Fletcher's%2C+Baltimore%2C+Maryland/07+Dramamine.flac"/>modest mouse (1996)/</a><p class="date">set 13, 2025 </p> <hr> </div>
