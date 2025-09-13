@@ -20,6 +20,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/o.-corcunda.de.-notre.-dame.-1996.720p.-blu-ray.x-264.-dublado-www.-bludv.-tv/"/>A família do futuro/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/a-era-do-gelo-1-2-3-4/"/>Coleção Desenhos/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/TesourosDaDisney19351951720P"/>Pato Donald/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/a-bela-adormecida-webrip-pt-pt-gc-tv"/>Desenhos Disney PtBr/</a><p class="date">set 13, 2025 </p> <hr> </div>
