@@ -17,6 +17,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/CollectCinequar1/"/>collect cinequar1/</a><p class="date">set 15, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/chavsd8"/>chaves serie/</a><p class="date">set 15, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/kgpyswibxohohdkb/"/>filmes e series ia/</a><p class="date">set 15, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/x-men-evolution"/>x-men evolution en/</a><p class="date">set 15, 2025 </p> <hr> </div>
