@@ -18,6 +18,12 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/05-temporada"/>x-men t5/</a><p class="date">set 15, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/04-temporada"/>x-men t4/</a><p class="date">set 15, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/03-temporada"/>x-men t3/</a><p class="date">set 15, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/02-temporada"/>x-men t2/</a><p class="date">set 15, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/08-o-indestrutivel-juggernaut_202309"/>x-men t1/</a><p class="date">set 15, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/planetadosmacacos/"/>Planeta dos Macaco/</a><p class="date">set 15, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/pacotefunkagosto2019/"/>funk brasilerio/</a><p class="date">set 15, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://m.ok.ru/video/1102587366007"/>Animal 2014 dublado/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://youtube.com/playlist?list=PLUcKUyr6iH6TMwH_n0VutJ-l2ybNPbS4l&si=r1CoHTpFdTS22rpk"/>A frequência Kirlian/</a><p class="date">set 13, 2025 </p> <hr> </div>
