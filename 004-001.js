@@ -16,8 +16,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
-<div class="link-item"><a href="https://archive.org/details/desenhos-x-men-evolution-20002003_202501"/>x-men evolution/</a><p class="date">set 15, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/x-men-evolution"/>x-men evolution en/</a><p class="date">set 15, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/desenhos-x-men-evolution-20002003_202501"/>x-men evolution pt/</a><p class="date">set 15, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/thetwilightzone_20240918"/>além da imaginação t3/</a><p class="date">set 15, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/thetwilightzone_20240917"/>além da imaginação t2/</a><p class="date">set 15, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/thetwilightzone_202409"/>além da imaginação t1/</a><p class="date">set 15, 2025 </p> <hr> </div>
