@@ -18,6 +18,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/pacotefunkagosto2019/"/>funk brasilerio/</a><p class="date">set 15, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://m.ok.ru/video/1102587366007"/>Animal 2014 dublado/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://youtube.com/playlist?list=PLUcKUyr6iH6TMwH_n0VutJ-l2ybNPbS4l&si=r1CoHTpFdTS22rpk"/>A frequência Kirlian/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/anime-inu-yasha-dublado-portugues-brasil-spanish-japanese/"/>anime inu yasha ptbr/</a><p class="date">set 13, 2025 </p> <hr> </div>
