@@ -18,6 +18,20 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+
+
+<div class="link-item"><a href="https://archive.org/details/albuns-de-musica"/>álbuns sertanejos e rap/</a><p class="date">set 25, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250926042717/https://bancodedadosfeb.com.br/?soldiers=30"/>ANID ABIB/</a><p class="date">set 25, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250926042432/https://bancodedadosfeb.com.br/?soldiers=29"/>ANTÔNIO LENI ABI/</a><p class="date">set 25, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250926042244if_/https://bancodedadosfeb.com.br/?soldiers=28"/>Elias Abdo/</a><p class="date">set 25, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250926042116/https://bancodedadosfeb.com.br/?soldiers=27"/>FRID ABDNOR/</a><p class="date">set 25, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250926041906/https://bancodedadosfeb.com.br/?soldiers=26"/>Pedro Abdalla/</a><p class="date">set 25, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250926041646if_/https://bancodedadosfeb.com.br/?soldiers=25"/>Pedro Abdalla/</a><p class="date">set 25, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250926041455if_/https://bancodedadosfeb.com.br/?soldiers=24"/>JOÃO ANGÊLO ABATAYGUARA/</a><p class="date">set 25, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250926041329if_/https://bancodedadosfeb.com.br/?soldiers=23"/>crispim abalô/</a><p class="date">set 25, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250926041010if_/https://bancodedadosfeb.com.br/?soldiers=22"/>aranhão abait/</a><p class="date">set 25, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250926040808if_/https://bancodedadosfeb.com.br/?soldiers=21"/>ricardo abadi/</a><p class="date">set 25, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250926040222if_/https://bancodedadosfeb.com.br/?soldiers=5692"/>guilherme coutinho/</a><p class="date">set 25, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/12-monkeys-season-1"/>twelve monkeys s1/</a><p class="date">set 19, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/Spck-Test/camila_curriculo.pdf"/>Camila Currículo/</a><p class="date">set 19, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/CollectCinequar5/Cabana+do+Inferno+2.MP4.DUB.BaixarSeriesMP4.Com.mp4"/>Cabana do inferno/</a><p class="date">set 15, 2025 </p> <hr> </div>
