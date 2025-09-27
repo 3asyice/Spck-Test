@@ -20,8 +20,9 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-<div class="link-item"><a href="https://archive.org/details/BBC4-Part3-tva/"/>documentários britânicos/</a><p class="date">set 27, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/albuns-de-musica"/>álbuns sertanejos e rap/</a><p class="date">set 25, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/01-blondell-picture_202509/"/>Filmes dos 30s e 40s/</a><p class="date">set 27, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/BBC4-Part3-tva/"/>docs britânicos/</a><p class="date">set 27, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/albuns-de-musica"/>sertanejos e rap/</a><p class="date">set 25, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250926042717/https://bancodedadosfeb.com.br/?soldiers=30"/>ANID ABIB/</a><p class="date">set 25, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250926042432/https://bancodedadosfeb.com.br/?soldiers=29"/>ANTÔNIO LENI ABI/</a><p class="date">set 25, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250926042244if_/https://bancodedadosfeb.com.br/?soldiers=28"/>Elias Abdo/</a><p class="date">set 25, 2025 </p> <hr> </div>
