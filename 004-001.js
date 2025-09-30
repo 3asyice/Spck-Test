@@ -20,9 +20,11 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
+<div class="link-item"><a href="https://web.archive.org/web/20250930072718if_/https://3asyice.github.io/SixOhNine/script/sidebar/militares.html"/>militares e civis/</a><p class="date">set 27, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://dn721906.ca.archive.org/0/items/the-coming-wave-by-mustafa-suleyman-michael-bhaskar-pdfread.net/The Coming Wave By Mustafa SuleymanMichael Bhaskar-pdfread.net.pdf"/>the coming wave/</a><p class="date">set 27, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/DaddyOFive-youtube/"/>yt DaddyOFive/</a><p class="date">set 27, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/documentary-fullhd-10/"/>docs britânicos²/</a><p class="date">set 27, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/Leafyisherearchive/"/>Leafyisherearchive/</a><p class="date">set 27, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/yt Leafyisherearchive/"/>Leafyisherearchive/</a><p class="date">set 27, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/Linguagem_Corporal_Comunicac_a_o_Na_o_Verbal.mp4"/>linguagem corporal/</a><p class="date">set 27, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/ITV4-Part3-tva/00083CC0-Terminator-2-Judgement-Day-2019-10-21T200000Z-ITV4.mp4"/>terminator 2.mp4/</a><p class="date">set 27, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/Channel-5-Part9/"/>channel 5/</a><p class="date">set 27, 2025 </p> <hr> </div>
