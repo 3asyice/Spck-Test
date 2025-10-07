@@ -20,6 +20,20 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/naked-city-s-01-e-01-meridian/"/>Naked City/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/01-cheyenne-season-1-episodes-1-2-3_202402/"/>Cheyenne season 1/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/Coronet-Blue-1967-Series/"/>Coronet Blue series/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/ElleryQueenSeries/"/>Ellery Queen series/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/dark-shadows_202210/"/>Dark Shadows series/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/the-time-tunnel/"/>The Time Tunnel/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/Alias-Smith-And-Jones-1973/"/>Alias Smith and Jones/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/TheBobNewhartShow/Extras"/>The bob newhart Show series/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/bewitchedcomplete_202310/"/>Bewitched series/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/GreenAcresCompleteSeries/"/>Green Acres series/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/The-Monkees-Complete/"/>The Monkees series/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/get-smart/"/>Get Smart series/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/The_Fugitive_Series/"/>The Fugitive Series/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/s20191114"/>77 Sunset Strip/</a><p class="date">out 07, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/black-mirror-br"/>Black Mirror dublado/</a><p class="date">out 03, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251002155001if_/https://eter9.com/files/c556a73d-5bb0-4822-93b2-5068cb5aab98"/>eter9
 com json file/</a><p class="date">out 02, 2025 </p> <hr> </div>
