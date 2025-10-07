@@ -19,7 +19,13 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
+<div class="link-item"><a href="http://pdtv.live/"/>pdtv.live all old series/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/search-1972/"/>UFO Search (1972)/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/UFO.complete/"/>UFO Complete/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/leave-it-to-beaver-the-complete-series-1957-1963/Leave+It+to+Beaver+(The+Complete+Series)+%5B1957+-+1963%5D/"/>Leave it to Beaver/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/s-01.-e-17-ella-west.ia"/>Have a gun will travel/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/Dragnet1951"/>Dragnet (1951)/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/The-Cat-1966-Series/"/>T.H.E .Cat/</a><p class="date">out 07, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/sea-hunt/"/>sea hunt/</a><p class="date">out 07, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/s-01e-02.-point-blank/"/>Maverick/</a><p class="date">out 07, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/s-01-e-26-papa-benjamin/"/>Thriller 1960s/</a><p class="date">out 07, 2025 </p> <hr> </div>
