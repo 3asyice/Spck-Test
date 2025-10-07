@@ -20,6 +20,12 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/sea-hunt/"/>sea hunt/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/s-01e-02.-point-blank/"/>Maverick/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/s-01-e-26-papa-benjamin/"/>Thriller 1960s/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/sctv-season-1"/>SCTV season 1/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/harry-o-s-01-/"/>Harry O/</a><p class="date">out 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/wanted-dead-or-alive-s-01-e-01-ep-1-the-martin-poster"/>Wanted Dead or Alive/</a><p class="date">out 07, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/naked-city-s-01-e-01-meridian/"/>Naked City/</a><p class="date">out 07, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/01-cheyenne-season-1-episodes-1-2-3_202402/"/>Cheyenne season 1/</a><p class="date">out 07, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/Coronet-Blue-1967-Series/"/>Coronet Blue series/</a><p class="date">out 07, 2025 </p> <hr> </div>
