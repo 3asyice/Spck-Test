@@ -19,6 +19,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20251011004010/https://www.terra.com.br/noticias/soldado-de-19-anos-e-encontrado-morto-em-unidade-militar-do-exercito-em-sao-borja,cc35c285d85b1b34019075772ef69214287jpiyk.html"/>soldado morre em São Borja/</a><p class="date">out 10, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/american-horror-story-br"/>american horror story/</a><p class="date">out 10, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/dan.-vs./"/>Dan Vs/</a><p class="date">out 09, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/paprika-jolli"/>Paprika Jolli (2006)/</a><p class="date">out 09, 2025 </p> <hr> </div>
