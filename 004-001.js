@@ -19,6 +19,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/american-horror-story-br"/>american horror story/</a><p class="date">out 10, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/dan.-vs./"/>Dan Vs/</a><p class="date">out 09, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/paprika-jolli"/>Paprika Jolli (2006)/</a><p class="date">out 09, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/studio-60-on-the-sunset-strip/"/>the sunset strip/</a><p class="date">out 09, 2025 </p> <hr> </div>
