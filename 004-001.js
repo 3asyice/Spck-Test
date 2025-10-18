@@ -19,6 +19,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20251018183035/https://cybereality.com/the-matrix-is-real-but-its-not-what-you-think/"/>Matrix is Real/</a><p class="date">out 18, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251018181912if_/https://www.metropoles.com/distrito-federal/na-mira/misterio-dentista-do-exercito-e-encontrado-morto-dentro-de-quartel"/>Felipe Borsa Lago/</a><p class="date">out 18, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/DC6yfy0w-Gw"/>café of the seven sinners/</a><p class="date">out 15, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251011004010if/https://www.terra.com.br/noticias/soldado-de-19-anos-e-encontrado-morto-em-unidade-militar-do-exercito-em-sao-borja,cc35c285d85b1b34019075772ef69214287jpiyk.html"/>soldado morre em São Borja/</a><p class="date">out 10, 2025 </p> <hr> </div>
