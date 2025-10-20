@@ -19,7 +19,9 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-<div class="link-item"><a href="https://web.archive.org/web/20251020043427/https://g1.globo.com/sc/santa-catarina/noticia/2025/10/19/aluno-do-exercito-morre-ao-sofrer-parada-cardiaca-apos-corrida-em-joinville.ghtml"/>Edson Macedo Júnior/</a><p class="date">out 20, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://www.facebook.com/edson.macedo.79274089"/>Edson Macedo Júnior - fb/</a><p class="date">out 20, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://www.instagram.com/edsonm_jr"/>Edson Macedo Júnior - ig/</a><p class="date">out 20, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20251020043427if_/https://g1.globo.com/sc/santa-catarina/noticia/2025/10/19/aluno-do-exercito-morre-ao-sofrer-parada-cardiaca-apos-corrida-em-joinville.ghtml"/>Edson Macedo Júnior/</a><p class="date">out 20, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251018183035/https://cybereality.com/the-matrix-is-real-but-its-not-what-you-think/"/>Matrix is Real/</a><p class="date">out 18, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251018181912if_/https://www.metropoles.com/distrito-federal/na-mira/misterio-dentista-do-exercito-e-encontrado-morto-dentro-de-quartel"/>Felipe Borsa Lago/</a><p class="date">out 18, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/DC6yfy0w-Gw"/>café of the seven sinners/</a><p class="date">out 15, 2025 </p> <hr> </div>
