@@ -19,6 +19,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20251022035529if_/https://www.bbc.com/portuguese/internacional-39625619"/>o que é eugenia?/</a><p class="date">out 22, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.facebook.com/edson.macedo.79274089"/>Edson Macedo Júnior - fb/</a><p class="date">out 20, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.instagram.com/edsonm_jr"/>Edson Macedo Júnior - ig/</a><p class="date">out 20, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251020043427if_/https://g1.globo.com/sc/santa-catarina/noticia/2025/10/19/aluno-do-exercito-morre-ao-sofrer-parada-cardiaca-apos-corrida-em-joinville.ghtml"/>Edson Macedo Júnior/</a><p class="date">out 20, 2025 </p> <hr> </div>
