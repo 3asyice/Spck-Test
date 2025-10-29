@@ -19,6 +19,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20251029011107if_/https://3asyice.github.io/Spck-Test/meandthedevil.mp4"/>me and the devil/</a><p class="date">out 28, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20251029010753if_/https://expresso.pt/geracao-e/2025-10-23-pentagono-acusa-netflix-de-produzir-lixo-woke-depois-de-lancamento-da-serie-lgbt--boots-6604215d"/>pentágono crítica a série boots/</a><p class="date">out 28, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251025063145if_/https://3asyice.github.io/Spck-Test/meandthedevil.mp4"/>me and the devil/</a><p class="date">out 25, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251024194951if_/https://www.brasilparalelo.com.br/noticias/a-historia-por-tras-de-o-exorcismo-de-emily-rose-o-caso-anneliese-michel"/>Anneliese Michael/</a><p class="date">out 24, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251022035529if_/https://www.bbc.com/portuguese/internacional-39625619"/>o que é eugenia?/</a><p class="date">out 22, 2025 </p> <hr> </div>
