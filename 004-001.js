@@ -19,6 +19,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20251030161354/https://3asyice.github.io/Spck-Test/"/>004 atualizado/</a><p class="date">out 30, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20251030125915if_/https://www.historiadomundo.com.br/curiosidades/hallowee.htm"/>o que é o Halloween? 🎃/</a><p class="date">out 30, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.clipsave.com.br/"/>clipsave.com.br/</a><p class="date">out 30, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://ia801508.us.archive.org/30/items/spin-soldier/T1_E1_-_27_de_janeiro_de_2013_-_Boate_Kiss_-_A_Trag%C3%A9dia_de_Santa_Maria_online_no_Globoplay_2.mp4"/>27 de Janeiro de 2013/</a><p class="date">out 30, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://ia601508.us.archive.org/30/items/spin-soldier/rodrigo.ia.mp4"/>rodrigo moura boate kiss/</a><p class="date">out 28, 2025 </p> <hr> </div>
