@@ -19,6 +19,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20240224081445if_/https://gruporeporter.com.br/historia/"/>rádio repórter Ijuí/</a><p class="date">nov 01, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251030161354if_/https://3asyice.github.io/Spck-Test/"/>004 atualizado/</a><p class="date">out 30, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251030125915if_/https://www.historiadomundo.com.br/curiosidades/hallowee.htm"/>o que é o Halloween? 🎃/</a><p class="date">out 30, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.clipsave.com.br/"/>clipsave.com.br/</a><p class="date">out 30, 2025 </p> <hr> </div>
