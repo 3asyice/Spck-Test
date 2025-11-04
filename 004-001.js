@@ -1,3 +1,17 @@
+if (window.location.href.includes("web.archive.org")) {
+  document.querySelectorAll("a").forEach(a => {
+    const href = a.getAttribute("href");
+    if (href && href.startsWith("https://web.archive.org/web/")) {
+      // Extrai o link original após o timestamp
+      const originalUrl = href.replace(/^https:\/\/web\.archive\.org\/web\/\d+\//, "");
+      a.setAttribute("href", originalUrl);
+      a.setAttribute("target", "_blank"); // opcional, abre em nova aba
+    }
+  });
+}
+
+// new code up there
+
 function saveToWayback() {
   var e = document.getElementById("urlInput").value;
   e ? (e = "https://web.archive.org/save/" + encodeURIComponent(e), window.open(e, "_blank")) : alert("Por favor, insira uma URL válida.")
