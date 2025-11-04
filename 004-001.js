@@ -1,13 +1,15 @@
-if (window.location.href.includes("web.archive.org")) {
-  document.querySelectorAll("a").forEach(a => {
-    const href = a.getAttribute("href");
-    if (href && href.startsWith("https://web.archive.org/web/")) {
-      // Extrai o link original após o timestamp
-      const originalUrl = href.replace(/^https:\/\/web\.archive\.org\/web\/\d+\//, "");
-      a.setAttribute("href", originalUrl);
-      a.setAttribute("target", "_blank"); // opcional, abre em nova aba
+if (window.location.hostname.includes("web.archive.org")) {
+  document.querySelectorAll("a[href*='web.archive.org/web/']").forEach(a => {
+    let href = a.getAttribute("href");
+    
+    // ignora se já contém "if_" (modo de exibição)
+    if (/^https:\/\/web\.archive\.org\/web\/\d+\//.test(href) && !/if_/.test(href)) {
+      // adiciona "if_" após o timestamp
+      href = href.replace(/(https:\/\/web\.archive\.org\/web\/\d+)\//, "$1if_/");
+      a.setAttribute("href", href);
     }
   });
+  console.log("✅ Links ajustados para modo de exibição (if_).");
 }
 
 // new code up there
