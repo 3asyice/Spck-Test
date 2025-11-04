@@ -19,6 +19,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20251104074354/https://3asyice.github.io/Spck-Test/arquivo/Analise_de_sistemas_Henriq_Z-Library.epub"/>Análise de sistemas.epub/</a><p class="date">nov 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://meta.wikimedia.org/w/index.php?title=User%3AOriginalDarkLotus&redlink=1"/>wikipedia remove it's page/</a><p class="date">nov 03, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20240224081445if_/https://gruporeporter.com.br/historia/"/>rádio repórter Ijuí/</a><p class="date">nov 01, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251030161354if_/https://3asyice.github.io/Spck-Test/"/>004 atualizado/</a><p class="date">out 30, 2025 </p> <hr> </div>
