@@ -35,6 +35,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20251112031129id_/https://www.bbc.com/portuguese/internacional-53800200"/>Julia Butterfly Hill/</a><p class="date">nov 12, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251104111205id_/https://3asyice.github.io/Spck-Test/"/>004 links/</a><p class="date">nov 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251104074354/https://3asyice.github.io/Spck-Test/arquivo/Analise_de_sistemas_Henriq_Z-Library.epub"/>Análise de sistemas.epub/</a><p class="date">nov 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://meta.wikimedia.org/w/index.php?title=User%3AOriginalDarkLotus&redlink=1"/>wikipedia remove it's page/</a><p class="date">nov 03, 2025 </p> <hr> </div>
