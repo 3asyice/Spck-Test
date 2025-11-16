@@ -34,7 +34,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
+<div class="link-item"><a href="https://web.archive.org/web/20251116144928/https://3asyice.github.io/SixOhNine/script/tree/Josiane.html"/>Josiane Braga de Abreu/</a><p class="date">nov 16, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20251116142505id_/https://3asyice.github.io/SixOhNine/script/tree/Marisa.html"/>Marisa Fernandes Braga/</a><p class="date">nov 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251116142012id_/https://3asyice.github.io/SixOhNine/script/tree/Orides.html"/>Orides Fernandes Braga/</a><p class="date">nov 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251116141735if_/https://3asyice.github.io/SixOhNine/script/tree/Sebastiana.html"/>Sebastiana Cavalheiro Fernandes/</a><p class="date">nov 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.visioncine-1.com.br/watch/vikings"/>Vikings/</a><p class="date">nov 14, 2025 </p> <hr> </div>
