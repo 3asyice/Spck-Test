@@ -34,7 +34,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-<div class="link-item"><a href="https://web.archive.org/web/20251116144928/https://3asyice.github.io/SixOhNine/script/tree/Josiane.html"/>Josiane Braga de Abreu/</a><p class="date">nov 16, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20251116144928id_/https://3asyice.github.io/SixOhNine/script/tree/Josiane.html"/>Josiane Braga de Abreu/</a><p class="date">nov 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251116142505id_/https://3asyice.github.io/SixOhNine/script/tree/Marisa.html"/>Marisa Fernandes Braga/</a><p class="date">nov 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251116142012id_/https://3asyice.github.io/SixOhNine/script/tree/Orides.html"/>Orides Fernandes Braga/</a><p class="date">nov 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251116141735if_/https://3asyice.github.io/SixOhNine/script/tree/Sebastiana.html"/>Sebastiana Cavalheiro Fernandes/</a><p class="date">nov 16, 2025 </p> <hr> </div>
@@ -170,7 +170,7 @@ com json file/</a><p class="date">out 02, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/disney-anthology-television-series/1954-1958+Disneyland/Disneyland+-+S00E01+-+One+Hour+In+Wonderland+(December+25%2C+1950).mp4"/>Programas da Disney/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/101-dalmatians-1996-uk-vhs_202404"/>Desenhos em VHS UK/</a><p class="date">set 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://pesquise.yay.boo/"/>pesquise.yay.boo/</a><p class="date">set 7, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250827205517if_/https://3asyice.github.io/SixOhNine/script/sd/39.html"/>39 Grégori Forgerini/</a><p class="date">ago 25, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250827205517id_/https://3asyice.github.io/SixOhNine/script/sd/39.html"/>39 Grégori Forgerini/</a><p class="date">ago 25, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://imagecolorpicker.com/"/>Color Picker/</a><p class="date">ago 25, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://gossip-fm-base.lovable.app/"/>609 gravações/</a><p class="date">ago 21, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://jam-audio-player.lovable.app/"/>Terminal Militar 609/</a><p class="date">ago 21, 2025 </p> <hr> </div>
@@ -189,16 +189,16 @@ com json file/</a><p class="date">out 02, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://dn720004.ca.archive.org/0/items/movies_202211/Coraline.ia.mp4"/>coraline.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://ia801508.us.archive.org/35/items/movies_202211/Evil%20Dead.mp4"/>evil dead.mp4/</a><p class="date">ago 21, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://tools.oktopus.cloud/tool/js-obfuscator"/>ofuscador js/</a><p class="date">ago 21, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250819201616if_/https://3asyice.github.io/Spck-Test/"/>Archived Media/</a><p class="date">ago 19, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250819201616id_/https://3asyice.github.io/Spck-Test/"/>Archived Media/</a><p class="date">ago 19, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/004-archived-media/004%20Archived%20Media%20%281%29.apk"/>Archived Media.apk!!!/</a><p class="date">ago 19, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/station-609"/>Station 609.apk!!!/</a><p class="date">ago 19, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.reddit.com/r/nosurf/"/>no social medias/</a><p class="date">ago 18, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250815082454if_/https://3asyice.github.io/Spck-Test/Terminator2_JudgmentDay.zip"/>Terminator 2 HQ/</a><p class="date">ago 15, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250814190852if_/https://3asyice.github.io/Spck-Test/"/>Archived Media/</a><p class="date">ago 14, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250814051240if_/https://3asyice.github.io/Tech-Info/script/turma/124/Davi_Pereira.html"/>Davi Pereira/</a><p class="date">ago 14, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250814050509if_/https://3asyice.github.io/Tech-Info/script/turma/224/Andre_Oling.html"/>André Oling/</a><p class="date">ago 14, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250814045935if_/https://3asyice.github.io/Tech-Info/script/turma/124/Ana_Julia.html"/>Ana Julia Pessoa/</a><p class="date">ago 14, 2025 </p> <hr> </div>
-<div class="link-item"><a style="text-transform:uppercase;" href="https://web.archive.org/web/20250814045202if_/https://3asyice.github.io/Tech-Info/script/turma/424/Guilherme_Goetz.html"/>Guilherme Goetz/</a><p class="date">ago 14, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250814190852id_/https://3asyice.github.io/Spck-Test/"/>Archived Media/</a><p class="date">ago 14, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250814051240id_/https://3asyice.github.io/Tech-Info/script/turma/124/Davi_Pereira.html"/>Davi Pereira/</a><p class="date">ago 14, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250814050509id_/https://3asyice.github.io/Tech-Info/script/turma/224/Andre_Oling.html"/>André Oling/</a><p class="date">ago 14, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250814045935id_/https://3asyice.github.io/Tech-Info/script/turma/124/Ana_Julia.html"/>Ana Julia Pessoa/</a><p class="date">ago 14, 2025 </p> <hr> </div>
+<div class="link-item"><a style="text-transform:uppercase;" href="https://web.archive.org/web/20250814045202id_/https://3asyice.github.io/Tech-Info/script/turma/424/Guilherme_Goetz.html"/>Guilherme Goetz/</a><p class="date">ago 14, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250712004921if_/https://www.inf.ufpr.br/albini/apostila/Apostila_Redes1_Beta.pdf"/>Apostila de Redes²/</a><p class="date">ago 14, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20240618004528if_/https://www1.univap.br/bruno.pera/uploads/INFORMATICA/REDES/Apostila_de_Redes_V3.pdf"/>Apostila de Redes/</a><p class="date">ago 14, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://appmaker.xyz/webapp"/>Apk maker2/</a><p class="date">ago 09, 2025 </p> <hr> </div>
@@ -242,7 +242,7 @@ com json file/</a><p class="date">out 02, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250716103755if_/https://oglobo.globo.com/brasil/noticia/2025/07/16/o-que-se-sabe-sobre-brasileiro-que-morreu-afogado-ao-salvar-parente-em-reservatorio-nos-eua.ghtml"/>Daniel Braga fig.../</a><p class="date">jul 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250711014438if_/https://3asyice.github.io/SixOhNine/script/black-news/Soldado-atropelado-por-advogada-enfrenta-sindic%C3%A2ncia.html"/>Sindicância carvalho/</a><p class="date">jul 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250718094453if_/https://3asyice.github.io/BlackMirrorwiki/script/season-1/the-national-anthem.html"/>Hino Nacional S1E1/</a><p class="date">jul 16, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250716141328if_/https://3asyice.github.io/SixOhNine/script/sd/Miguel.html"/># Miguel Flores/</a><p class="date">jul 16, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250716141328id_/https://3asyice.github.io/SixOhNine/script/sd/Miguel.html"/># Miguel Flores/</a><p class="date">jul 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.mediafire.com/file/e71ymeroxe9d5rn/Lista_de_PDF.zip/file"/>pdf em zip/</a><p class="date">jul 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://heartive.pages.dev/"/>filmes&series piratas/</a><p class="date">jul 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://fakeupdate.net"/>fakeupdate.net/</a><p class="date">jul 16, 2025 </p> <hr> </div>
@@ -253,23 +253,23 @@ com json file/</a><p class="date">out 02, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250712034839if_/https://www.ijuinews.com.br/index.php?m=news&a=detail&id=6798"/>João Gabriel Domin.../</a><p class="date">jul 12, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250711060406if_/https://ijuinews.com.br/index.php?m=news&a=detail&id=9976"/>Andrei Cossetin Ijuí/</a><p class="date">jul 11, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.quora.com/Is-it-true-that-in-1977-we-received-a-radio-signal-from-space-that-lasted-72-seconds-and-up-till-this-day-we-don-t-know-where-it-came-from"/>Outer Space signal/</a><p class="date">jul 11, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250711025225if_/https://www.livescience.com/20718-computer-history.html"/>computer history/</a><p class="date">jul 11, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250711014417if_/https://3asyice.github.io/Spck-Test/"/>004 Archives/</a><p class="date">jul 10, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250710111728if_/https://www.otempo.com.br/mundo/2025/7/3/gerente-mata-funcionaria-ao-sentar-sobre-ela-durante-briga-no-trabalho.amp"/>Jessica McLaughlin/</a><p class="date">jul 10, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250710031000if_/https://3asyice.github.io/SixOhNine/script/sd/603.html"/>603 Guilherme Maidana/</a><p class="date">jul 10, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250710030136if_/https://3asyice.github.io/Tech-Info/script/turma/124/Alexis_Barnaski.html"/>Alexis Barnaski/</a><p class="date">jul 10, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250710025459if_/https://3asyice.github.io/SixOhNine/script/home.html"/>SixOhNine wiki diary/</a><p class="date">jul 10, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250708211225if_/https://3asyice.github.io/Spck-Test/chatgpt.txt"/>chatgpt prompts.txt/</a><p class="date">jul 08, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250708170506if_/https://3asyice.github.io/SixOhNine/script/sd/602.html"/>602 Samuel Weber/</a><p class="date">jul 08, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250708170145if_/https://3asyice.github.io/SixOhNine/script/sd/601.html"/>601 Gabriel Tassinari/</a><p class="date">jul 08, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250708165740if_/https://3asyice.github.io/SixOhNine/script/sd/Isaias.html"/># Jessé Isaias/</a><p class="date">jul 08, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250708165354if_/https://3asyice.github.io/SixOhNine/script/sd/ziguinatti.html"/># Vitor Ziquinatti/</a><p class="date">jul 08, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250708165001if_/https://3asyice.github.io/SixOhNine/script/sd/069.html"/>069 Kawã Lorentz/</a><p class="date">jul 08, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250708164642if_/https://3asyice.github.io/SixOhNine/script/sd/39.html"/>39 Grégori Forgerini/</a><p class="date">jul 08, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250708164313if_/https://3asyice.github.io/SixOhNine/script/sd/37.html"/>37 Augusto Bergmann/</a><p class="date">jul 08, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250708164029if_/https://3asyice.github.io/SixOhNine/script/sd/31.html"/>31 Antônio Capisani/</a><p class="date">jul 08, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250708163734if_/https://3asyice.github.io/SixOhNine/script/sd/03.html"/>03 gabriel azevedo/</a><p class="date">jul 08, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20250708163417if_/https://3asyice.github.io/SixOhNine/script/cel/soares.html"/>coronel soares/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250711025225id_/https://www.livescience.com/20718-computer-history.html"/>computer history/</a><p class="date">jul 11, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250711014417id_/https://3asyice.github.io/Spck-Test/"/>004 Archives/</a><p class="date">jul 10, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250710111728id_/https://www.otempo.com.br/mundo/2025/7/3/gerente-mata-funcionaria-ao-sentar-sobre-ela-durante-briga-no-trabalho.amp"/>Jessica McLaughlin/</a><p class="date">jul 10, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250710031000id_/https://3asyice.github.io/SixOhNine/script/sd/603.html"/>603 Guilherme Maidana/</a><p class="date">jul 10, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250710030136id_/https://3asyice.github.io/Tech-Info/script/turma/124/Alexis_Barnaski.html"/>Alexis Barnaski/</a><p class="date">jul 10, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250710025459id_/https://3asyice.github.io/SixOhNine/script/home.html"/>SixOhNine wiki diary/</a><p class="date">jul 10, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708211225id_/https://3asyice.github.io/Spck-Test/chatgpt.txt"/>chatgpt prompts.txt/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708170506id_/https://3asyice.github.io/SixOhNine/script/sd/602.html"/>602 Samuel Weber/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708170145id_/https://3asyice.github.io/SixOhNine/script/sd/601.html"/>601 Gabriel Tassinari/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708165740id_/https://3asyice.github.io/SixOhNine/script/sd/Isaias.html"/># Jessé Isaias/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708165354id_/https://3asyice.github.io/SixOhNine/script/sd/ziguinatti.html"/># Vitor Ziquinatti/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708165001id_/https://3asyice.github.io/SixOhNine/script/sd/069.html"/>069 Kawã Lorentz/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708164642id_/https://3asyice.github.io/SixOhNine/script/sd/39.html"/>39 Grégori Forgerini/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708164313id_/https://3asyice.github.io/SixOhNine/script/sd/37.html"/>37 Augusto Bergmann/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708164029id_/https://3asyice.github.io/SixOhNine/script/sd/31.html"/>31 Antônio Capisani/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708163734id_/https://3asyice.github.io/SixOhNine/script/sd/03.html"/>03 gabriel azevedo/</a><p class="date">jul 08, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20250708163417id_/https://3asyice.github.io/SixOhNine/script/cel/soares.html"/>coronel soares/</a><p class="date">jul 08, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250708101157if_/https://3asyice.github.io/Spck-Test/Voce_Me_Ama_Caroline_Kepnes.pdf"/>Você Me Ama - Kepnes/</a><p class="date">jul 08, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250708104852if_/https://3asyice.github.io/Spck-Test/Corpos_Ocultos_Caroline_Kepnes.pdf"/>Corpos Ocultos - kepn/</a><p class="date">jul 08, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250708104629if_/https://3asyice.github.io/Spck-Test/Voce_Caroline_Kepnes.pdf"/>você - Caroline K.../</a><p class="date">jul 08, 2025 </p> <hr> </div>
