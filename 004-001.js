@@ -35,6 +35,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20251116141735/https://3asyice.github.io/SixOhNine/script/tree/Sebastiana.html"/>Sebastiana cavalheiro Fernandes/</a><p class="date">nov 16, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.visioncine-1.com.br/watch/vikings"/>Vikings/</a><p class="date">nov 14, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251112031129id_/https://www.bbc.com/portuguese/internacional-53800200"/>Julia Butterfly Hill/</a><p class="date">nov 12, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251104111205id_/https://3asyice.github.io/Spck-Test/"/>004 links/</a><p class="date">nov 04, 2025 </p> <hr> </div>
