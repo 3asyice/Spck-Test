@@ -35,7 +35,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-<div class="link-item"><a href="https://archive.org/details/filmes-tyler"/>Filmes de Tyler/</a><p class="date">nov 25, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://lelinhtinh.github.io/de4js/"/>de4js desofuscar/</a><p class="date">nov 29, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/filmes-test"/>Filmes teste/</a><p class="date">nov 24, 2025 </p> <hr> </div>
 <div class="link-item"><a href="http://www.playcinevs.info/m/2881"/>Jogo da Imitação/</a><p class="date">nov 17, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/faces-da-morte-1978"/>Faces da Morte (1978)/</a><p class="date">nov 17, 2025 </p> <hr> </div>
