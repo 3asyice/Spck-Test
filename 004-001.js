@@ -37,6 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20251205050640if_/https://www.radiotapejara.com.br/noticia/95470/soldado-de-19-anos-morre-apos-ser-atingido-por-arvore-durante-atividade-militar-no-rs"/>soldado de 19 anos morre/</a><p class="date">dec 05, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251202010043if_/https://3asyice.github.io/Spck-Test/assets/video/Odair.mp4"/>Karma Odair José/</a><p class="date">dec 01, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://ia800507.us.archive.org/20/items/Historia-de-um-Recruta/Hashtag%EF%BC%9A609%20-%20Gritos%20na%20Avenida%20Liberdade.mp3"/>Áudios Originais de 609 Carvalho/</a><p class="date">nov 30, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://yout.com/video/?url=https://youtu.be/c-8v5buOeJc"/>Baixar gritos da liberdade/</a><p class="date">nov 30, 2025 </p> <hr> </div>
