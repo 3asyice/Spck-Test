@@ -37,6 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://www.tokyvideo.com/video/mommy-2014"/>Mommy (2014)/</a><p class="date">dec 06, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/1899-serie-br"/>1899/</a><p class="date">dec 05, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/silo-dublado"/>Silo (2023)/</a><p class="date">dec 05, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251205050640if_/https://www.radiotapejara.com.br/noticia/95470/soldado-de-19-anos-morre-apos-ser-atingido-por-arvore-durante-atividade-militar-no-rs"/>soldado de 19 anos morre/</a><p class="date">dec 05, 2025 </p> <hr> </div>
