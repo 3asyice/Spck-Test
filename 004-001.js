@@ -35,6 +35,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/love.-death.and.-robots.-s-01-e-18.-the.-secret.-war.-1080p.-nf.-web-dl.-ddp-5.1.x-264-ntg/"/>Love, Death + Robots/</a><p class="date">dec 11, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://youtube.com/playlist?list=PLLN5GPLKgoiRZXZYgbi0C92me4GVTkMfU&si=7uVRV73rt5aqDn2j"/>Skins Dublado/</a><p class="date">dec 09, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://youtube.com/playlist?list=PLNFfhWJpF1uictB9GAag8O2UVE5uKbNdf&si=VWTyTnX9mwM3VPXR"/>Skins UK English/</a><p class="date">dec 09, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/video/mommy-2014"/>Mommy (2014)/</a><p class="date">dec 06, 2025 </p> <hr> </div>
