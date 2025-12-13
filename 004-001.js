@@ -35,7 +35,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-<div class="link-item"><a href="https://archive.org/details/dark_serie_br"/>Dark (2017)/a><p class="date">dec 12, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/dark_serie_br"/>Dark (2017)</a><p class="date">dec 12, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/my-vhs-saga-part-66/"/>The blair witch project/</a><p class="date">dec 11, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/love.-death.and.-robots.-s-01-e-18.-the.-secret.-war.-1080p.-nf.-web-dl.-ddp-5.1.x-264-ntg/"/>Love, Death + Robots/</a><p class="date">dec 11, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://youtube.com/playlist?list=PLLN5GPLKgoiRZXZYgbi0C92me4GVTkMfU&si=7uVRV73rt5aqDn2j"/>Skins Dublado/</a><p class="date">dec 09, 2025 </p> <hr> </div>
