@@ -35,6 +35,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/bugs_20240315"/>Rabbit Tales </a><p class="date">dec 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/looney-tunes-1994-tbs"/>Looney Tunes (1994)</a><p class="date">dec 13, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/dark_serie_br"/>Dark (2017)</a><p class="date">dec 12, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/my-vhs-saga-part-66/"/>The blair witch project/</a><p class="date">dec 11, 2025 </p> <hr> </div>
