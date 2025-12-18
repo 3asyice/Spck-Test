@@ -35,6 +35,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20251218121238if_/https://colaborae.com.br/blog/2023/07/14/imaginacao-e-visualizacao/"/>Imaginação e visualização</a><p class="date">dec 18, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251216014854id_/https://rad609.bar/Feed.html"/>Rádio 609 Feed</a><p class="date">dec 15, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251216014502id_/https://rad609.bar"/>Rádio 609 </a><p class="date">dec 15, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/bugs_20240315"/>Rabbit Tales </a><p class="date">dec 13, 2025 </p> <hr> </div>
