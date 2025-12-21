@@ -35,6 +35,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/filmes-de-tyler-2"/>Filmes teste 2</a><p class="date">dec 21, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/Om8v3lJXQZ8"/>Vídeos Motivacionais YT</a><p class="date">dec 20, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251218121238if_/https://colaborae.com.br/blog/2023/07/14/imaginacao-e-visualizacao/"/>imaginação e visualização</a><p class="date">dec 15, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251216014854id_/https://rad609.bar/Feed.html"/>Rádio 609 Feed</a><p class="date">dec 15, 2025 </p> <hr> </div>
