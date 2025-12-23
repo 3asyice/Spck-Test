@@ -35,6 +35,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20251223115956id_/https://rad609.bar/arquivos"/>rad609.bar arquivos</a><p class="date">dec 23, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.dailymotion.com/video/x9um5s0"/>Heated Rivalry</a><p class="date">dec 23, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://m.ok.ru/video/8766871112212"/>Arrival (2016)</a><p class="date">dec 23, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/filmes-de-tyler-2"/>Filmes teste 2</a><p class="date">dec 21, 2025 </p> <hr> </div>
