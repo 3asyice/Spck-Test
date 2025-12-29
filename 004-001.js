@@ -35,6 +35,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://youtu.be/H2WqfX-WJj4?si=ekDOpczn3BPsNXto"/>Trailer de Filmes</a><p class="date">dec 29, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www13.redecanais.in/episodio/stranger-things-5x5-5a-temporada-episodio-5/"/>stranger things volume 2</a><p class="date">dec 25, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251223115956id_/https://rad609.bar/arquivos"/>rad609.bar arquivos</a><p class="date">dec 23, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://www.dailymotion.com/video/x9um5s0"/>Heated Rivalry</a><p class="date">dec 23, 2025 </p> <hr> </div>
