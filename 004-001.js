@@ -35,6 +35,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://youtu.be/vqBXh4ltga0?si=q2Mn0SxDNIj3BbBO"/>série cosmos viagem no tempo</a><p class="date">jan 11, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://november61987.com/"/>vecna lives</a><p class="date">jan 07, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://dn720006.ca.archive.org/0/items/baudrillard.-1970.-the-consumer-society/Baudrillard.1981.Simulacra-and-Simulation.pdf"/>simulacra and simulation</a><p class="date">jan 06, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/sertanejo-universitario"/>sertanejos universitários</a><p class="date">jan 04, 2026 </p> <hr> </div>
