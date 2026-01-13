@@ -35,6 +35,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://youtu.be/JKLVmvMF_9k?si=4PGx0yw28NFCG8td"/>white rabbit cover</a><p class="date">jan 13, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/windows-11_202106"/>Windows 11.iso</a><p class="date">jan 12, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://tubeflix.barramaisbaratovitrine.com/video/62/n%C3%A3o-adianta-fugir-2009-dublado-hd-imdb-4.6?channelName=Tubeflix"/>Não adianta fugir (2009)</a><p class="date">jan 12, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/linkin-park-storage"/>Linkin Park Álbuns</a><p class="date">jan 12, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://redecanaistv.fm/assistir-rede-globo-rj-online-24-horas-ao-vivo_89f2ea726.html"/>globo rj</a><p class="date">jan 11, 2026 </p> <hr> </div>
