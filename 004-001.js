@@ -35,6 +35,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://www.tokyvideo.com/br/video/a-maquina-de-lembrancas-2018-dublado"/>a máquina de lembranças</a><p class="date">jan 18, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://dn721500.ca.archive.org/0/items/spin-soldier/Screenrecorder-2026-01-17-00-33-37-639.ia.mp4"/>motivações volume off</a><p class="date">jan 18, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://dn721500.ca.archive.org/0/items/spin-soldier/evento-do-vini.ia.mp4"/>evento do vxni.mp4</a><p class="date">jan 18, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/amnesia"/>amnésia mp4</a><p class="date">jan 18, 2026 </p> <hr> </div>
