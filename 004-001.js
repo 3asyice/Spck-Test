@@ -35,6 +35,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/o-grilo-mp3"/>o grilo mp3</a><p class="date">jan 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/BlackMirrorwiki/page/season-3/nosedive.html"/>nosedive 03x01</a><p class="date">jan 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/arsenalg-page-2"/>Arsenal G p2</a><p class="date">jan 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/arsenalg"/>Arsenal G p1</a><p class="date">jan 16, 2026 </p> <hr> </div>
