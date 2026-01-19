@@ -41,6 +41,10 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 <div class="link-item"><a href="https://dn721500.ca.archive.org/0/items/spin-soldier/Screenrecorder-2026-01-17-00-33-37-639.ia.mp4"/>motivações volume off</a><p class="date">jan 18, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://dn721500.ca.archive.org/0/items/spin-soldier/evento-do-vini.ia.mp4"/>evento do vxni.mp4</a><p class="date">jan 18, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/amnesia"/>amnésia mp4</a><p class="date">jan 18, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://ia601508.us.archive.org/30/items/spin-soldier/o_grilo_live_17012026_4.ia.mp4"/>o grilo live ig 4</a><p class="date">jan 17, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://ia601508.us.archive.org/30/items/spin-soldier/o_grilo_live_17012026_3.ia.mp4"/>o grilo live ig 3</a><p class="date">jan 17, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://ia601508.us.archive.org/30/items/spin-soldier/o_grilo_live_17012026_2.ia.mp4"/>o grilo live ig 2</a><p class="date">jan 17, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://ia601508.us.archive.org/30/items/spin-soldier/o_grilo_live_17012026.ia.mp4"/>o grilo live ig</a><p class="date">jan 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/o-grilo-mp3"/>o grilo mp3</a><p class="date">jan 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/BlackMirrorwiki/page/season-3/nosedive.html"/>nosedive 03x01</a><p class="date">jan 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/arsenalg-page-2"/>Arsenal G p2</a><p class="date">jan 16, 2026 </p> <hr> </div>
