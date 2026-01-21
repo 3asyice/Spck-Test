@@ -35,6 +35,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20251224070230/https://rad609.bar/page/2025/dez/dreams.html"/>Sonhos de Guilherme</a><p class="date">jan 21, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/caminhos-da-memoria-2021-dublado"/>caminhos da memória.mp4</a><p class="date">jan 18, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.dailymotion.com/video/x8bliyj"/>Expresso do amanhã.mp4</a><p class="date">jan 18, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/a-maquina-de-lembrancas-2018-dublado"/>a máquina de lembranças</a><p class="date">jan 18, 2026 </p> <hr> </div>
