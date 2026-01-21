@@ -34,8 +34,10 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
-<div class="link-item"><a href="https://www.tokyvideo.com/br/video/pulp-fiction-tempo-de-violencia"/>pulp fiction </a><p class="date">jan 21, 2026 </p> <hr> </div>
+ 
+ <div class="link-item"><a href="https://www.tokyvideo.com/fr/video/blue-valentine-2010"/>blue valentine</a><p class="date">jan 21, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://www.tokyvideo.com/br/video/cisne-negro"/>cisne negro</a><p class="date">jan 21, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://www.tokyvideo.com/br/video/pulp-fiction-tempo-de-violencia"/>pulp fiction</a><p class="date">jan 21, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/o-predador-1987-2"/>o predador (1987)</a><p class="date">jan 21, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/o-enigma-de-outro-mundo-1982"/>a coisa (1983)</a><p class="date">jan 21, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/nada-de-novo-no-front-2022-todos"/>nada de novo no front</a><p class="date">jan 21, 2026 </p> <hr> </div>
