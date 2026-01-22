@@ -35,6 +35,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://m.vk.com/video696059331_456239358"/>the last straight man</a><p class="date">jan 22, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/official-arctic-monkeys"/>arctic monkeys releases</a><p class="date">jan 21, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://nuforc.org/map/"/>relatórios de ufos</a><p class="date">jan 21, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/video/bastardos-inglorios-2009-2h-33m"/>bastardos inglórios</a><p class="date">jan 21, 2026 </p> <hr> </div>
