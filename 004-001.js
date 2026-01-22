@@ -34,8 +34,11 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
- 
- <div class="link-item"><a href="https://www.tokyvideo.com/fr/video/blue-valentine-2010"/>blue valentine</a><p class="date">jan 21, 2026 </p> <hr> </div>
+
+<div class="link-item"><a href="https://archive.org/details/official-arctic-monkeys"/>arctic monkeys releases</a><p class="date">jan 21, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://nuforc.org/map/"/>relatórios de ufos</a><p class="date">jan 21, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://www.tokyvideo.com/video/bastardos-inglorios-2009-2h-33m"/>bastardos inglórios</a><p class="date">jan 21, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://www.tokyvideo.com/fr/video/blue-valentine-2010"/>blue valentine</a><p class="date">jan 21, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/cisne-negro"/>cisne negro</a><p class="date">jan 21, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/pulp-fiction-tempo-de-violencia"/>pulp fiction</a><p class="date">jan 21, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/o-predador-1987-2"/>o predador (1987)</a><p class="date">jan 21, 2026 </p> <hr> </div>
