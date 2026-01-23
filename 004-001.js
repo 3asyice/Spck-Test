@@ -32,9 +32,12 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+ 
 
-
-
+<div class="link-item"><a href="https://archive.org/details/the-strain"/>the strain series</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/alien-1979._202103/Alien+Resurrection(1997).mp4"/>alien 1,2,3</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/deep-purple-videobiography-disk-1-and-2-kut"/>page's music video</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/lady-death-the-motion-picture-anime-o-1-h-16-min"/>x-men collection</a><p class="date">jan 23, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/twilight-zone-3_202510"/>the twilight zone 85 s3</a><p class="date">jan 23, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/twilight-zone-6"/>the twilight zone 85 s2</a><p class="date">jan 23, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/twilight-zone-3"/>the twilight zone 85 s1</a><p class="date">jan 23, 2026 </p> <hr> </div>
