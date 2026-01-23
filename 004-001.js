@@ -32,8 +32,32 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
- 
 
+
+
+
+
+
+<div class="link-item"><a href="https://archive.org/details/black-mirror-bandersnatch_480"/>bandersnatch movie</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/monsters-inc-2002-vhs-1of-21/"/>spongebob vhs</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/fun-and-fancy-free-1997-vhs"/>vhs animated movies</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/page-chronicles-vol-9-flicks"/>movies collection 7</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/boys_20251027_20251027_1851"/>movies collection 6</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/boys_20251027_20251027_1851"/>the boys season 4</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/boys_20251027_20251027"/>the boys season 3</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/boys_20251027_202510"/>the boys season 2</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/boys_20251027"/>the boys season 1</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/spartacus-gods-of-the-arena"/>spartacus gods of the arena</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/spartacus-war-of-the-damned"/>spartacus season 3</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/spartacus-vengeance"/>spartacus season 2</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/spartacus-blood-and-sand"/>spartacus season 1</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/the-end-of-the-fucking-world_202512"/>teotfw series</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/bsi-template#review-1767709635"/>movies collection en 5</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/1-pc-flicks-title#review-1768146701"/>movies collection en 4</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/page-chonicles-2025-violet/"/>movies collection en 3</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/1-pc-flick-title_202601/"/>movies collection en 2</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/1-pc-flick-title/"/>movies collection en</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-viking-valhalla"/>vikings valhalla series</a><p class="date">jan 23, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/the-strain"/>the strain series</a><p class="date">jan 23, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/alien-1979._202103/Alien+Resurrection(1997).mp4"/>alien 1,2,3</a><p class="date">jan 23, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/deep-purple-videobiography-disk-1-and-2-kut"/>page's music video</a><p class="date">jan 23, 2026 </p> <hr> </div>
