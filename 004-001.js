@@ -35,6 +35,46 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/twilight-zone-3_202510"/>the twilight zone 85 s3</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/twilight-zone-6"/>the twilight zone 85 s2</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/twilight-zone-3"/>the twilight zone 85 s1</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/severance-season-2-reportedly-facing-delays-due-to-concerning-reason"/>severance season 2</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/severance-spoiler-magazine"/>severance season 1</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/tru-det-4"/>true detective season 4</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/true-det-3"/>true detective season 3</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/true-detective-season-2-overview"/>true detective season 2</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/rbw-1"/>true detective season 1</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/american-horror-stories_202511/"/>ahs season 1</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/american-horror-stories-season-02"/>ahs season 2</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/matrix-collection-misc."/>the matrix collection</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/the-last-of-us-season-01"/>the last of us</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/titans-s-01"/>titans tv series</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/x-files_202511"/>x-files series</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/the-umbrella-academy-tv-series"/>the umbrella academy</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/legion-tv-series"/>legion tv series</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/wandavision-s-01"/>wandavision series</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/peacemaker_202512"/>peacemaker</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/the-terminal-list"/>the terminal list</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/love-death-and-robots"/>love death and robots</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/pc-tba_202512"/>dark series en</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/superman-returns-man-of-steel-superman-christopher-reeve_202601"/>superman collection</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/1-b-c-s"/>better call saul series</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/1-b-b"/>breaking bad series</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/1-dex"/>Dexter series</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/1-starwars-coll"/>star war collection</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/1-dex-new-bld"/>dexter new blood</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/1-dex-res"/>dexter resurrection</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/1-dex-or-sin_202601"/>dexter original sin</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-sprntrl_202601"/>Supernatural series</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-it-welcone"/>It - welcome to derry</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/grimm-2"/>Grim Series</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-vikings"/>Vikings Series</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-the-twilight-zone"/>The Twilight Zone</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-star-trek-animated"/>Star Trek animated series</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/dos_20251021"/>Black Mirror EN</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/azofcoolcomputer0000rail/page/n141/mode/1up"/>book a-z games</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://www.retrogames.cz/play_171-Genesis.php"/>outrun sega</a><p class="date">jan 23, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://play.highscoregamearcade.com/thegames/e4faa109-6743-11ee-9879-16d64b27c4cb/index.html"/>break invaders</a><p class="date">jan 23, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/greys-anatomy-all-seasons"/>grey's anatomy</a><p class="date">jan 23, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://m.vk.com/video696059331_456239358"/>the last straight man</a><p class="date">jan 22, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/official-arctic-monkeys"/>arctic monkeys releases</a><p class="date">jan 21, 2026 </p> <hr> </div>
