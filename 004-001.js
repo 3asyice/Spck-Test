@@ -38,6 +38,15 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
   
 
+<div class="link-item"><a href="https://archive.org/details/0-parks-and-recreation"/>parks and recreation/</a><p class="date">feb 03, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-indiana-jones-collection"/>indiana jones collection/</a><p class="date">feb 01, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-pc-flick_20260131"/>movies vol. 7/</a><p class="date">feb 01, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-american-horror"/>american horror story series/</a><p class="date">feb 01, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/stranger-things-3_202601"/>Stranger Things series/</a><p class="date">feb 01, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/all-of-us-are-dead_202512"/>all of us are dead series/</a><p class="date">jan 30, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/futu-4"/>futurama series/</a><p class="date">jan 30, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-twin-peaks"/>twin peaks series/</a><p class="date">jan 30, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/office-1_20260127"/>the office series/</a><p class="date">jan 30, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://ia601508.us.archive.org/30/items/spin-soldier/Mully%20-%20BRUSH%EF%BC%9A%20the%20movie.%20%28og%20subscriber%20nostalgia%29.mp4"/>the boys brush: movie/</a><p class="date">jan 30, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/the-end-line/"/>the end line/</a><p class="date">jan 28, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/trtn-rzn-w"/>os 13 porquês/</a><p class="date">jan 28, 2026 </p> <hr> </div>
