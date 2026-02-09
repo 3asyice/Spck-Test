@@ -37,6 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://www.google.com/search?q=quando+aconteceu+a+trag%C3%A9dia+de+Brumadinho%3F&udm=50&mtid=0X6JaYONAcCp1sQP7euy0Aw&mstk=AUtExfAmhIKhrfYFupEXTyK1HrfZmOaEVJNrZHOixRQG7XKYt33s0Q7lr0bEMhP0Q2kVrrEKMPDh66aLlOYU2dSKra86wvwi4kOPCR5DZfarW7cirPoEqY26s4JP0YGW8BiagvAKLymoht_6f6jhqXZhnUHO697vCBA-p5CB1Dr55MDb8GAlNvXFIR57CuKS4CZkLAoFTHkvsr1qtBSqCCBIgFBarKLZ3ARsAKICNLJv6Pc_82Dpo6_DhNBHAV24uOfhchhCIrCIWKIKfaNpJSqjrW9tuRxan8YoymKxYQY9e5SiNoBYAJyTGkHL&csuir=1"/>tragédias pesquisa/</a><p class="date">feb 09, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.sonhorealonline.com.br/"/>sonho real online - loja/</a><p class="date">feb 09, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/sel-01x-01ia_202602"/>Serial Experimental Lain/</a><p class="date">feb 09, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/cK-Vem7WsdA"/>formatura técnico enfermagem 2025/</a><p class="date">feb 08, 2026 </p> <hr> </div>
