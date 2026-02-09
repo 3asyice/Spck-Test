@@ -36,8 +36,9 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-  
+   
 
+<div class="link-item"><a href="https://archive.org/details/sel-01x-01ia_202602"/>Serial Experimental Lain/</a><p class="date">feb 09, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/cK-Vem7WsdA"/>formatura técnico enfermagem 2025/</a><p class="date">feb 08, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/rcrdng-prnonline-p"/>alex hens model/</a><p class="date">feb 08, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.google.com/search?q=fortes+ind%C3%ADcios+de+que+a+vida+%C3%A9+uma+simula%C3%A7%C3%A3o+impar%C3%A1vel...+e+Se+tudo+isso+fosse+uma+simula%C3%A7%C3%A3o%3F+Quem+seria+o+criador+da+simula%C3%A7%C3%A3o%3F+E+por+que+simular+vidas%3F&udm=50&mstk=AUtExfAScLAgyKZ4s_NurxW90SQjALr28KYuuZlYf1VkAhWxpS1YjY7pPaKTXCBRYOJCcmi-ZvdsaGSuDCftCOZj4tDwqHWy3Ovgk173Vk6OZqzof1EteCx5_y2Jib2efSTiKgW0UTCgugFlHt0Oe2cT6toy6USrRblOOJnBnpiMleJFE-8asu4ynUV0QLUK0IRBEJZ5D0lAsnUjkcS_LhnyQg8pqnOMOZvLkSYBAupKkyf5tnWwicq1d8BwaA0Fsc1TTSQzr5ieNgedv7TvkP25Io9N9JQ2M13icajUIENexN_gGEvCg1mKxHub5-GHXrNf7QrzZTdn8p0QVQ&csuir=1&mtid=p5uGadbIOuyl1sQP16TAuAE"/>discussão realidade/</a><p class="date">feb 06, 2026 </p> <hr> </div>
