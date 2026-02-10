@@ -35,8 +35,16 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+ 
 
-
+<div class="link-item"><a href="https://archive.org/details/0-the-cleveland-show"/>the cleveland show/</a><p class="date">feb 10, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-reacher"/>reacher series/</a><p class="date">feb 10, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-family-guy-4"/>family guy s11 - s20/</a><p class="date">feb 10, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-family-guy-n"/>family guy s1 - s10/</a><p class="date">feb 10, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-psych/"/>Psych series/</a><p class="date">feb 10, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-sarah-conner-chronicles"/>Terminator sarah connor chronic/</a><p class="date">feb 10, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20260210042040id_/https://rad609.bar/page/2026/jan/caso/0009.html"/>relatório 0009/</a><p class="date">feb 10, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20260210041344id_/https://rad609.bar/"/>radio fm 609/</a><p class="date">feb 10, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/LChVn_4KaZc?si=OJM5FSuSaqQsUFjD"/>masculine whitegirl playlist/</a><p class="date">feb 09, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.google.com/search?q=quando+aconteceu+a+trag%C3%A9dia+de+Brumadinho%3F&udm=50&mtid=0X6JaYONAcCp1sQP7euy0Aw&mstk=AUtExfAmhIKhrfYFupEXTyK1HrfZmOaEVJNrZHOixRQG7XKYt33s0Q7lr0bEMhP0Q2kVrrEKMPDh66aLlOYU2dSKra86wvwi4kOPCR5DZfarW7cirPoEqY26s4JP0YGW8BiagvAKLymoht_6f6jhqXZhnUHO697vCBA-p5CB1Dr55MDb8GAlNvXFIR57CuKS4CZkLAoFTHkvsr1qtBSqCCBIgFBarKLZ3ARsAKICNLJv6Pc_82Dpo6_DhNBHAV24uOfhchhCIrCIWKIKfaNpJSqjrW9tuRxan8YoymKxYQY9e5SiNoBYAJyTGkHL&csuir=1"/>tragédias pesquisa/</a><p class="date">feb 09, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.sonhorealonline.com.br/"/>sonho real online - loja/</a><p class="date">feb 09, 2026 </p> <hr> </div>
