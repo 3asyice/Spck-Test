@@ -34,9 +34,12 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
- 
-
+<div class="link-item"><a href="https://archive.org/details/0-simpsons"/>The Simpsons 1989/</a><p class="date">feb 12, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-american-dad"/>American Dad series/</a><p class="date">feb 12, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-the-mentalist"/>the Mentalist series/</a><p class="date">feb 12, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-alien-earth"/>alien earth series/</a><p class="date">feb 12, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-green-lantern-the-animated-series"/>the green lantern/</a><p class="date">feb 12, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-mission-impossible"/>mission impossible collection/</a><p class="date">feb 12, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-the-cleveland-show"/>the cleveland show/</a><p class="date">feb 10, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-reacher"/>reacher series/</a><p class="date">feb 10, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-family-guy-4"/>family guy s11 - s20/</a><p class="date">feb 10, 2026 </p> <hr> </div>
