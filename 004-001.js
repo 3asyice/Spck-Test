@@ -34,6 +34,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://www.tokyvideo.com/br/video/o-substituto-the-substitute-dublado-1996"/>substituto (1996)/</a><p class="date">feb 19, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-peripheral-15"/>Peripheral série Ptbr/</a><p class="date">feb 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-perry-mason-1"/>Perry Mason series/</a><p class="date">feb 15, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.google.com/search?q=fortes+ind%C3%ADcios+de+que+a+vida+%C3%A9+uma+simula%C3%A7%C3%A3o+impar%C3%A1vel...+e+Se+tudo+isso+fosse+uma+simula%C3%A7%C3%A3o%3F+Quem+seria+o+criador+da+simula%C3%A7%C3%A3o%3F+E+por+que+simular+vidas%3F&udm=50&mstk=AUtExfApfQ7cNY4J7Fc_CE3UPiwqL0nqH7r_Rz2GaBVQaTWDpg8oixaEkleyI9xOcvvj3_uG9vpewZgMp4dewYk3ijVa25B1SpxpozbMGLE2_xOse8U7DGcdR9qEbtBnpZiPxJ4co9aZavKIS6qO1tPJSiTvYc9d3xDgMsilD5SUd4XNGK14djT7t2f3eJ_IzlN3TFN9OxklgetcZDV1sj7EWsfQF0HxSzLkWfA9s1BgaXbZ-MxejRMkaCBUrmV-b72jOOs6AuK31byoVE1MGUO9jc7tm6WkASLPgggO4tr_6Jalgz4GBh0dGqVQaYq2fjbiGtGJWUbUAChvAw&csuir=1&mtid=p5uGadbIOuyl1sQP16TAuAE"/>humano-anomalia/</a><p class="date">feb 14, 2026 </p> <hr> </div>
