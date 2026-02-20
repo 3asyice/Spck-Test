@@ -33,7 +33,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
+ 
+ <div class="link-item"><a href="https://archive.org/details/0-peaky-blinders"/>peaky blinders series/</a><p class="date">feb 20, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/SRvJrxsrtsE"/>o substituto (2011)/</a><p class="date">feb 19, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-peripheral-15"/>Peripheral série Ptbr/</a><p class="date">feb 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-perry-mason-1"/>Perry Mason series/</a><p class="date">feb 15, 2026 </p> <hr> </div>
