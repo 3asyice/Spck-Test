@@ -34,6 +34,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
  
+ <div class="link-item"><a href="https://web.archive.org/web/20260301022742/https://www.brasil247.com/mundo/a-terceira-guerra-mundial-comecou"/>3ª guerra mundial?/</a><p class="date">feb 28, 2026 </p> <hr> </div>
  <div class="link-item"><a href="https://archive.org/details/0-the-100"/>the 100 series/</a><p class="date">feb 23, 2026 </p> <hr> </div>
  <div class="link-item"><a href="https://alexamogus.com/custom-server"/>alex among us custom server/</a><p class="date">feb 23, 2026 </p> <hr> </div>
  <div class="link-item"><a href="https://www.tokyvideo.com/br/video/a-experiencia-4-o-despertar-2007-terror-ficcao-cientifica-thriller"/>a experiência 4/</a><p class="date">feb 23, 2026 </p> <hr> </div>
