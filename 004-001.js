@@ -34,6 +34,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
  
+ <div class="link-item"><a href="https://3asyice.github.io/SixOhNine/script/emporionossacasa/JonasBarrachini.html"/>Jonas Tiago Dudar Barrachini/</a><p class="date">mar 01, 2026 </p> <hr> </div>
  <div class="link-item"><a href="https://3asyice.github.io/SixOhNine/script/sidebar/restaurante.html"/>steakhouse funcionários/</a><p class="date">mar 01, 2026 </p> <hr> </div>
  <div class="link-item"><a href="https://rad609.bar/page/2026/fev/job_tauan.html#"/>tauan do job joke/</a><p class="date">mar 01, 2026 </p> <hr> </div>
  <div class="link-item"><a href="https://web.archive.org/web/20260301032155id_/https://www.cartacapital.com.br/mundo/ataque-israelense-mata-mais-de-50-alunas-de-escola-feminina-no-ira/"/>ataque insraelense/</a><p class="date">feb 28, 2026 </p> <hr> </div>
