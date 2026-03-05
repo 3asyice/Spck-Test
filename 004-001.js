@@ -34,6 +34,9 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
  
+ <div class="link-item"><a href="https://archive.org/details/0-rick-and-marty-a"/>rick and morty series/</a><p class="date">mar 04, 2026 </p> <hr> </div>
+ <div class="link-item"><a href="https://archive.org/details/0-south-park-1"/>south park series/</a><p class="date">mar 04, 2026 </p> <hr> </div>
+ <div class="link-item"><a href="https://archive.org/details/0-its-always-sunny-in-philly"/>it's always sunny in Philadelphia/</a><p class="date">mar 04, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://ia600403.us.archive.org/4/items/0-filmow0987654321/Interstellar_%282008%29_br.ia.mp4"/>Interestelar (2008)/</a><p class="date">mar 03, 2026 </p> <hr> </div>
  <div class="link-item"><a href="https://ia600403.us.archive.org/4/items/0-filmow0987654321/As_Ru%C3%ADnas_%282008%29_.ia.mp4"/>As Ruínas (2008)/</a><p class="date">mar 02, 2026 </p> <hr> </div>
  <div class="link-item"><a href="https://startflix.vip/series/american-horror-stories/"/>american horror stories/</a><p class="date">mar 02, 2026 </p> <hr> </div>
