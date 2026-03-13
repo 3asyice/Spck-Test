@@ -35,6 +35,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+
+<div class="link-item"><a href="https://web.archive.org/web/20260313035314id_/https://3asyice.github.io/Spck-Test/assets/img/bg/0-deadly-a.jpg"/>real-final-destination.jpg/</a><p class="date">mar 13, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-house-of-cards"/>house of cards series/</a><p class="date">mar 12, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-the-flash"/>the flash series/</a><p class="date">mar 12, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-the-war-between-the-land-and-the-sea"/>twbtlats series/</a><p class="date">mar 12, 2026 </p> <hr> </div>
