@@ -35,6 +35,15 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/0-house-of-cards"/>house of cards series/</a><p class="date">mar 12, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-the-flash"/>the flash series/</a><p class="date">mar 12, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-the-war-between-the-land-and-the-sea"/>twbtlats series/</a><p class="date">mar 12, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-the-defenders"/>the defenders series/</a><p class="date">mar 12, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-jessica-jones"/>jessica jones series/</a><p class="date">mar 12, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/the-borgias-2a"/>the borgias series/</a><p class="date">mar 12, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-teen-titans"/>teen titans series/</a><p class="date">mar 12, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-teen-titans"/>teen titans series/</a><p class="date">mar 12, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-teen-wolf-a"/>teen wolf series/</a><p class="date">mar 12, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/filmes-tyler"/>filmes de Tyler/</a><p class="date">mar 11, 2026 </p> <hr> </div>
  <div class="link-item"><a href="https://archive.org/details/0-love-rlcstr/"/>ramdom videos mp4/</a><p class="date">mar 07, 2026 </p> <hr> </div>
  <div class="link-item"><a href="https://ia600605.us.archive.org/35/items/0-love-rlcstr/Lola%20Day%20-%20Ohio%20Players%20-%20Love%20Rollercoaster.mp4"/>ohio players love rollercoaster/</a><p class="date">mar 06, 2026 </p> <hr> </div>
