@@ -38,6 +38,12 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/0-hellraiser-collection"/>hellraiser collection/</a><p class="date">mar 31, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-harry-potter-flicks"/>harry potter collection/</a><p class="date">mar 31, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-everybody-hates-chris"/>everybody hates chris series/</a><p class="date">mar 31, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-silo"/>silo series/</a><p class="date">mar 31, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-succession"/>succession series/</a><p class="date">mar 31, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-hannibal"/>hannibal series/</a><p class="date">mar 31, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-somewhere-between"/>somewhere between series/</a><p class="date">mar 31, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-a-knight-of-the-seven-kingdoms"/>a knight of the seven kingdoms/</a><p class="date">mar 31, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-arrow"/>arrow series/</a><p class="date">mar 31, 2026 </p> <hr> </div>
