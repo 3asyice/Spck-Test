@@ -38,6 +38,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/0-nightmare-on-elm-street"/>A Nightmare on Elm Street/</a><p class="date">mar 31, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://ia801704.us.archive.org/13/items/filmes-de-tyler-2/all%20steakhouse%20songs.ia.mp4"/>steakhouse classics pt 2/</a><p class="date">mar 30, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://docs.google.com/document/d/1G5UB5WvnKGRvIqDEqdZYolAbq1QDPdCtKlviD-VPeIU/edit?usp=sharing"/>aula de redes/</a><p class="date">mar 30, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20260330053005if_/https://diariosm.com.br/noticias/policia-seguranca/apaixonado-por-animais-e-motocicletas-quem-era-o-militar-do-exercito-morto-em-acidente-na-avenida-liberdade-em-santa-maria.15425156"/>Nicolas Matheus Machado/</a><p class="date">mar 30, 2026 </p> <hr> </div>
