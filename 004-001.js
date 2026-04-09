@@ -38,6 +38,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://dn711505.ca.archive.org/0/items/TOP-MOVIES-ENG-1080P/Fight.Club.1999.REPACK.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4"/>fight club (1999)/</a><p class="date">apr 09, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/TOP-MOVIES-ENG-1080P/MARVEL/MOVIES/"/>marvel movies/</a><p class="date">apr 09, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://ia600903.us.archive.org/34/items/TOP-MOVIES-ENG-1080P/FINAL%20DESTINATION/Final.Destination.Bloodlines.2025.1080p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4"/>final destination bloodlines/</a><p class="date">apr 09, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://dn711505.ca.archive.org/0/items/TOP-MOVIES-ENG-1080P/FINAL%20DESTINATION/Final.Destination.5.2011.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4"/>final destination 5/</a><p class="date">apr 09, 2026 </p> <hr> </div>
