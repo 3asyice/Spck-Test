@@ -38,6 +38,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/0-the-jigsaw-collection_202604"/>the jigsaw collection/</a><p class="date">apr 08, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-alien-collection"/>alien collection/</a><p class="date">apr 01, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-shameless"/>Shameless drama series/</a><p class="date">apr 01, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-the-grudge-collection"/>the grudge collection/</a><p class="date">mar 31, 2026 </p> <hr> </div>
