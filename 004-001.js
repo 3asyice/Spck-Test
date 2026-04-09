@@ -36,7 +36,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
+<div class="link-item"><a href="https://archive.org/details/01-1950s-rock-n-roll"/>1950s rock n roll/</a><p class="date">apr 09, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/01-rod-serling/"/>rod serling/</a><p class="date">apr 09, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/01-marlon-brando"/>marlon brando/</a><p class="date">apr 09, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/alice-in-wonderland-1933_202408/"/>226 movies/</a><p class="date">apr 09, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/in-search-of...-s-03-e-07-the-siberian-fireball"/>documentaies collection/</a><p class="date">apr 09, 2026 </p> <hr> </div>
