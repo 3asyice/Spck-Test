@@ -2,16 +2,14 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>NC Steakhouse</title>
 
-  <!-- Fonte premium -->
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
 
   <style>
     :root {
       --gold: #c8a96a;
-      --dark: #0f0f0f;
       --card: #1a1a1a;
       --accent: #8b0000;
     }
@@ -30,14 +28,12 @@
       padding: 20px 40px;
       background: rgba(0,0,0,0.7);
       backdrop-filter: blur(10px);
-      border-bottom: 1px solid rgba(255,255,255,0.05);
     }
 
     .logo {
       font-family: 'Playfair Display', serif;
       font-size: 28px;
       color: var(--gold);
-      letter-spacing: 1px;
     }
 
     .menu-btn {
@@ -55,7 +51,6 @@
       flex-direction: column;
       padding: 10px;
       width: 230px;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.6);
     }
 
     .menu button {
@@ -65,23 +60,12 @@
       padding: 12px;
       text-align: left;
       cursor: pointer;
-      border-radius: 8px;
-      transition: 0.2s;
-    }
-
-    .menu button:hover {
-      background: rgba(255,255,255,0.05);
     }
 
     .container {
       text-align: center;
       margin-top: 120px;
       padding: 20px;
-    }
-
-    h1 {
-      font-weight: 300;
-      margin-bottom: 20px;
     }
 
     .login-box {
@@ -91,7 +75,6 @@
       border-radius: 12px;
       width: 320px;
       margin: 20px auto;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.6);
     }
 
     .playlists {
@@ -109,13 +92,6 @@
       background: linear-gradient(45deg, var(--accent), #b22222);
       color: white;
       cursor: pointer;
-      font-size: 16px;
-      transition: 0.2s;
-    }
-
-    .playlist-btn:hover {
-      transform: scale(1.05);
-      box-shadow: 0 5px 15px rgba(0,0,0,0.5);
     }
 
     input {
@@ -136,61 +112,19 @@
       color: black;
       cursor: pointer;
       border-radius: 6px;
-      font-weight: 500;
     }
 
-    /* RESPONSIVIDADE */
-
-    /* Notebooks e desktops */
-    @media (min-width: 768px) {
-      .container {
-        margin-top: 150px;
-      }
-
-      .playlist-btn {
-        width: 400px;
-        font-size: 18px;
-      }
-
-      .login-box {
-        width: 360px;
-      }
+    .div-bem-vindo {
+      display: none;
+      text-align: center;
+      margin-top: 20px;
     }
 
-    /* Telas grandes (PCs maiores) */
-    @media (min-width: 1200px) {
-      .container {
-        max-width: 900px;
-        margin: 180px auto;
-      }
-
-      .playlist-btn {
-        width: 500px;
-      }
-
-      .logo {
-        font-size: 34px;
-      }
-    }
-
-    /* Mobile */
-    @media (max-width: 480px) {
-      header {
-        padding: 15px 20px;
-      }
-
-      .logo {
-        font-size: 22px;
-      }
-
-      .menu {
-        right: 20px;
-        width: 90%;
-      }
-
-      .playlist-btn {
-        width: 90%;
-      }
+    .div-bem-vindo p {
+      background: var(--accent);
+      padding: 10px;
+      border-radius: 8px;
+      display: inline-block;
     }
   </style>
 </head>
@@ -220,77 +154,102 @@
   <div class="playlists" id="playlistBox">
     <h2>Playlists NC Steakhouse</h2>
 
-    <button class="playlist-btn" onclick="openPlaylist('https://archive.org/details/0-stkhs-playlist-a')">
+    <button class="playlist-btn" onclick="openPlaylist('https://archive.org/embed/0-stkhs-playlist-a')">
       Steakhouse Classics Pt 1
     </button>
 
     <button class="playlist-btn" onclick="openPlaylist('https://archive.org/details/0-skhs-bc')">
       Steakhouse Classics Pt 2
     </button>
-
   </div>
+
 </div>
-
+<div id="playerContainer" style="display:none; margin-top:20px;">
+  <iframe 
+    id="playlistFrame"
+    width="100%" 
+    height="400" 
+    style="border-radius:10px; border:none;">
+  </iframe>
+</div>
 <script>
-  let currentRole = '';
+let currentRole = '';
 
-  function toggleMenu() {
-    const menu = document.getElementById('menu');
-    menu.style.display = menu.style.display === 'flex' ? 'none' : 'flex';
+function toggleMenu() {
+  const menu = document.getElementById('menu');
+  menu.style.display = menu.style.display === 'flex' ? 'none' : 'flex';
+}
+
+function openLogin(role) {
+  currentRole = role;
+  document.getElementById('loginBox').style.display = 'block';
+  document.getElementById('playlistBox').style.display = 'none';
+
+  if (role === 'gerente') {
+    document.getElementById('loginTitle').innerText = 'Gerente - Jonas';
+  } else {
+    document.getElementById('loginTitle').innerText = 'Garçom - Théo';
   }
+}
 
-  function openLogin(role) {
-    currentRole = role;
-    document.getElementById('loginBox').style.display = 'block';
-    document.getElementById('playlistBox').style.display = 'none';
+function showPlaylists() {
+  document.getElementById('playlistBox').style.display = 'block';
+  document.getElementById('loginBox').style.display = 'none';
+}
 
-    if (role === 'gerente') {
-      document.getElementById('loginTitle').innerText = 'Gerente - Jonas Tiago Dudar Barrachini';
-    } else {
-      document.getElementById('loginTitle').innerText = 'Garçom - Théo Ruver Rubin';
-    }
-  }
+function login() {
+  const user = document.getElementById('user').value;
+  const pass = document.getElementById('pass').value;
+  const menu = document.getElementById('menu');
+  const bemVindo = document.getElementById('div-bem-vindo');
 
-  function showPlaylists() {
-    document.getElementById('playlistBox').style.display = 'block';
-    document.getElementById('loginBox').style.display = 'none';
-  }
+  if (user === 'admin' && pass === 'admin') {
+    showPlaylists();
+    menu.style.display = 'none';
 
-  function login() {
-    const user = document.getElementById('user').value;
-    const pass = document.getElementById('pass').value;
-
-    if (currentRole === 'gerente' && user === 'admin' && pass === 'admin') {
-      alert('Bem-vindo Gerente!');
-      showPlaylists();
-    } else if (currentRole === 'garcom' && user === 'admin' && pass === 'admin123') {
-      alert('Bem-vindo Garçom!');
-      showPlaylists();
-    } else {
-      alert('Login inválido!');
-    }
-  }
-
-  function openPlaylist(url) {
-    window.open(url, '_blank');
-  }
-
-  function setGreeting() {
-    const hour = new Date().getHours();
-    let greeting = '';
-
-    if (hour >= 5 && hour < 12) {
-      greeting = 'Bom dia!';
-    } else if (hour >= 12 && hour < 18) {
-      greeting = 'Boa tarde!';
-    } else {
-      greeting = 'Boa noite!';
+    if (currentRole === 'gerente') {
+      bemVindo.style.display = 'block';
     }
 
-    document.getElementById('greeting').innerText = greeting;
+    setGreeting();
+  } else {
+    alert('Login inválido!');
+  }
+}
+
+function openPlaylist(url) {
+  const iframe = document.getElementById('playlistFrame');
+  const container = document.getElementById('playerContainer');
+  
+  iframe.src = url;
+  container.style.display = 'block';
+  
+  // rolar suavemente até o player
+  container.scrollIntoView({ behavior: 'smooth' });
+}
+
+function setGreeting() {
+  const hour = new Date().getHours();
+  let nome = '';
+
+  if (currentRole === 'gerente') nome = 'Jonas';
+  else if (currentRole === 'garcom') nome = 'Théo';
+
+  let greeting = '';
+
+  if (hour >= 5 && hour < 12) {
+    greeting = 'Bom dia';
+  } else if (hour >= 12 && hour < 18) {
+    greeting = 'Boa tarde';
+  } else {
+    greeting = 'Boa noite';
   }
 
-  setGreeting();
+  document.getElementById('greeting').innerText =
+    nome ? `${greeting} ${nome}!` : `${greeting}!`;
+}
+
+setGreeting();
 </script>
 
 </body>
