@@ -36,6 +36,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/download/0-love-rlcstr/Somente%20Bandinhas%20pendrive%20Felipe.zip"/>bandinhas felipe.zip/</a><p class="date">apr 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/01-1950s-rock-n-roll"/>1950s rock n roll/</a><p class="date">apr 09, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/01-rod-serling/"/>rod serling/</a><p class="date">apr 09, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/01-marlon-brando"/>marlon brando/</a><p class="date">apr 09, 2026 </p> <hr> </div>
