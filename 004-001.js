@@ -36,6 +36,9 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive004.site/steakhouse"/>nc Steakhouse music/</a><p class="date">apr 17, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/Mr987654321Ro"/>mr. robot/</a><p class="date">apr 17, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/ds-store_202207"/>jackass original show/</a><p class="date">apr 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/116thoroughlymixedupmousetheoldmanofthemountainfoodfighterdvdripxvidphz"/>garfield & friends s7/</a><p class="date">apr 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/098dr.jekyllandmr.mousepaydaymaydayhowtodrivehumanscrazydvdripxvidphz"/>garfield & friends s6/</a><p class="date">apr 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/088ghostofachanceroygetssackedrevengeofthelivinglunchdvdripxvidphz"/>garfield & friends s5/</a><p class="date">apr 17, 2026 </p> <hr> </div>
