@@ -36,6 +36,14 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/116thoroughlymixedupmousetheoldmanofthemountainfoodfighterdvdripxvidphz"/>garfield & friends s7/</a><p class="date">apr 17, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/098dr.jekyllandmr.mousepaydaymaydayhowtodrivehumanscrazydvdripxvidphz"/>garfield & friends s6/</a><p class="date">apr 17, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/088ghostofachanceroygetssackedrevengeofthelivinglunchdvdripxvidphz"/>garfield & friends s5/</a><p class="date">apr 17, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/068bouncingbabybluestheuglyducklinglearninglessonsdvdripxvidphz"/>garfield & friends s4/</a><p class="date">apr 17, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/056mistakeswillhappenthewelldwellerthewisemandvdripxvidphz"/>garfield & friends s3/</a><p class="date">apr 17, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/036mysticmanorflopgoestheweaselthelegendoflongjondvdripxvidphz"/>garfield & friends s2/</a><p class="date">apr 17, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/garfield-and-friends.-the-complete-first-season"/>garfield & friends s1/</a><p class="date">apr 17, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/da-vincis-demons-complete"/>da vinci's demons/</a><p class="date">apr 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/big-brother-complete-series/"/>big brother us/</a><p class="date">apr 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-archive-list-on-air"/>archive list on air/</a><p class="date">apr 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/0-love-rlcstr/Somente%20Bandinhas%20pendrive%20Felipe.zip"/>bandinhas felipe.zip/</a><p class="date">apr 16, 2026 </p> <hr> </div>
