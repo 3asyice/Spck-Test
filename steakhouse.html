@@ -113,19 +113,6 @@
       cursor: pointer;
       border-radius: 6px;
     }
-
-    .div-bem-vindo {
-      display: none;
-      text-align: center;
-      margin-top: 20px;
-    }
-
-    .div-bem-vindo p {
-      background: var(--accent);
-      padding: 10px;
-      border-radius: 8px;
-      display: inline-block;
-    }
   </style>
 </head>
 <body>
@@ -162,12 +149,12 @@
       Steakhouse Classics Pt 2
     </button>
     
-     <button class="playlist-btn" onclick="openPlaylist('https://archive.org/embed/filmes-de-tyler-2/all+steakhouse+songs.mp4')">
-   Steakhouse Classics Pt 2.0
- </button>
+    <button class="playlist-btn" onclick="openPlaylist('https://archive.org/embed/filmes-de-tyler-2/all+steakhouse+songs.mp4')">
+      Steakhouse Classics Pt 2.0
+    </button>
   </div>
-
 </div>
+
 <div id="playerContainer" style="display:none; margin-top:20px;">
   <iframe 
     id="playlistFrame"
@@ -176,6 +163,7 @@
     style="border-radius:10px; border:none;">
   </iframe>
 </div>
+
 <script>
 let currentRole = '';
 
@@ -190,9 +178,9 @@ function openLogin(role) {
   document.getElementById('playlistBox').style.display = 'none';
 
   if (role === 'gerente') {
-    document.getElementById('loginTitle').innerText = 'Gerente - Jonas';
+    document.getElementById('loginTitle').innerText = 'Gerente - Jonas Tiago Dudar Barrachini';
   } else {
-    document.getElementById('loginTitle').innerText = 'Garçom - Théo';
+    document.getElementById('loginTitle').innerText = 'Garçom - Théo Ruver Rubim';
   }
 }
 
@@ -205,16 +193,10 @@ function login() {
   const user = document.getElementById('user').value;
   const pass = document.getElementById('pass').value;
   const menu = document.getElementById('menu');
-  const bemVindo = document.getElementById('div-bem-vindo');
 
   if (user === 'admin' && pass === 'admin') {
     showPlaylists();
     menu.style.display = 'none';
-
-    if (currentRole === 'gerente') {
-      bemVindo.style.display = 'block';
-    }
-
     setGreeting();
   } else {
     alert('Login inválido!');
@@ -227,8 +209,6 @@ function openPlaylist(url) {
   
   iframe.src = url;
   container.style.display = 'block';
-  
-  // rolar suavemente até o player
   container.scrollIntoView({ behavior: 'smooth' });
 }
 
@@ -236,8 +216,8 @@ function setGreeting() {
   const hour = new Date().getHours();
   let nome = '';
 
-  if (currentRole === 'gerente') nome = 'Jonas';
-  else if (currentRole === 'garcom') nome = 'Théo';
+  if (currentRole === 'gerente') nome = 'gerente Jonas';
+  else if (currentRole === 'garcom') nome = 'garçom Théo';
 
   let greeting = '';
 
