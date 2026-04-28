@@ -36,6 +36,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://pagespeed.web.dev"/>page speed web.dev/</a><p class="date">apr 28, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20260418035535if_/https://www.somostodosum.com.br/artigos/autoconhecimento/contrato-com-a-morte-17560.html"/>albert François Cevert/</a><p class="date">apr 18, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive004.site/steakhouse"/>nc Steakhouse music/</a><p class="date">apr 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/Mr987654321Ro"/>mr. robot/</a><p class="date">apr 17, 2026 </p> <hr> </div>
