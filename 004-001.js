@@ -36,6 +36,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://ia600605.us.archive.org/35/items/0-love-rlcstr/teufelslied_hymn_%28old_historical_song%29_.ia.mp4"/>teufelslied historical song.mp4/</a><p class="date">apr 29, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://pagespeed.web.dev"/>page speed web.dev/</a><p class="date">apr 28, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20260418035535if_/https://www.somostodosum.com.br/artigos/autoconhecimento/contrato-com-a-morte-17560.html"/>albert François Cevert/</a><p class="date">apr 18, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive004.site/steakhouse"/>nc Steakhouse music/</a><p class="date">apr 17, 2026 </p> <hr> </div>
