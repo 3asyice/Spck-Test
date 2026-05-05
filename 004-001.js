@@ -36,6 +36,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20260505051651if_/https://veja.abril.com.br/saude/chupao-no-pescoco-causa-morte-de-adolescente/"/>pumped up kicks - columbine/</a><p class="date">may 05, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://ia600605.us.archive.org/35/items/0-love-rlcstr/Nicole%20-%20Columbine%20shooting%20-%20Pumped%20up%20kicks.mp4"/>pumped up kicks - columbine/</a><p class="date">apr 30, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://ia600605.us.archive.org/35/items/0-love-rlcstr/teufelslied_hymn_%28old_historical_song%29_.ia.mp4"/>teufelslied historical song.mp4/</a><p class="date">apr 29, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://pagespeed.web.dev"/>page speed web.dev/</a><p class="date">apr 28, 2026 </p> <hr> </div>
