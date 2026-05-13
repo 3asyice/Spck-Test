@@ -36,6 +36,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://fofocalivre-f2nxuliw.manus.space/"/>Fofoca Livre/</a><p class="date">may 12, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20260505052806if_/https://rad609.bar/page/2026/mai/morte-em-aniversario.html"/>o efeito aniversário/</a><p class="date">may 05, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20260505051651if_/https://veja.abril.com.br/saude/chupao-no-pescoco-causa-morte-de-adolescente/"/>Chupão no pescoço causa morte/</a><p class="date">may 05, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://ia600605.us.archive.org/35/items/0-love-rlcstr/Nicole%20-%20Columbine%20shooting%20-%20Pumped%20up%20kicks.mp4"/>pumped up kicks - columbine/</a><p class="date">apr 30, 2026 </p> <hr> </div>
