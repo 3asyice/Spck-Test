@@ -36,6 +36,11 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+
+<div class="link-item"><a href="https://jack-sbraincancer.github.io/CHAT-ONLINE/frontend/"/>CHAT-ONLINE/</a><p class="date">may 17, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://github.com/3asyice"/>3asyice/</a><p class="date">may 17, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://github.com/Jack-sBrainCancer"/>Jack-sBrainCancer/</a><p class="date">may 17, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://jack-sbraincancer.github.io/Jack-sBrainCancer"/>história de um recruta.html/</a><p class="date">may 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://fofocalivre-f2nxuliw.manus.space/"/>Fofoca Livre/</a><p class="date">may 12, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20260505052806if_/https://rad609.bar/page/2026/mai/morte-em-aniversario.html"/>o efeito aniversário/</a><p class="date">may 05, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20260505051651if_/https://veja.abril.com.br/saude/chupao-no-pescoco-causa-morte-de-adolescente/"/>Chupão no pescoço causa morte/</a><p class="date">may 05, 2026 </p> <hr> </div>
