@@ -37,6 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20260522063026/https://archive004.site/assets/img/bg/good_characters.jpg"/>movies character's photo/</a><p class="date">may 22, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://jack-sbraincancer.github.io/CHAT-ONLINE/frontend/"/>CHAT-ONLINE/</a><p class="date">may 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://github.com/3asyice"/>3asyice/</a><p class="date">may 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://github.com/Jack-sBrainCancer"/>Jack-sBrainCancer/</a><p class="date">may 17, 2026 </p> <hr> </div>
