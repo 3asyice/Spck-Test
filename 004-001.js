@@ -37,6 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://youtube.com/playlist?list=PLVAh-MgDVqvDUEq6qDXqORBioE4Yhol_z&si=XmcdAiVjnnDMSq07"/>backrooms series 2022/</a><p class="date">may 30, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://chatapp-zg8gfd6c.manus.space/"/>chat online tempo real/</a><p class="date">may 30, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-hashtag-k6arv0alho9"/>hashtag 609 Carvalho/</a><p class="date">may 25, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20260523212332if_/https://g1.globo.com/sp/sao-paulo/noticia/2026/05/23/morre-gabriel-ganley-fisiculturista-e-influenciador-aos-22-anos.ghtml"/>ganley fisiculturista morre/</a><p class="date">may 23, 2026 </p> <hr> </div>
