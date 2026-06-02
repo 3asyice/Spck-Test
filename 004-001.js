@@ -37,6 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://www.invertexto.com/guilhermelindo"/>notepad online texto/</a><p class="date">jun 01, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-found-footage-backrooms9387468383"/>the backrooms (2022)/</a><p class="date">may 30, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://youtube.com/playlist?list=PLVAh-MgDVqvDUEq6qDXqORBioE4Yhol_z&si=XmcdAiVjnnDMSq07"/>backrooms series 2022/</a><p class="date">may 30, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://chatapp-zg8gfd6c.manus.space/"/>chat online tempo real/</a><p class="date">may 30, 2026 </p> <hr> </div>
