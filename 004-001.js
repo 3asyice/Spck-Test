@@ -37,6 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/0-a6mo0ngu9s2026"/>Among us 2026 series/</a><p class="date">jun 02, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-g6rey0lock9"/>Greylock series/</a><p class="date">jun 02, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.invertexto.com/letras-diferentes"/>invertexto letras diferentes/</a><p class="date">jun 01, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.invertexto.com/guilhermelindo"/>notepad online texto/</a><p class="date">jun 01, 2026 </p> <hr> </div>
