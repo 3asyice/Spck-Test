@@ -37,6 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/o-diabo-veste-prada-2006-the-devil-wears-parda-dvd-14-12-2006"/>O Diabo Veste Prada 2006/</a><p class="date">jun 22, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/todo-mundo-em-panico-6"/>todo mundo em pânico 6/</a><p class="date">jun 18, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/0-duartt-hub-a/E-COMMERCE_ENTREGAR-06102025.zip"/>e-commerce.zip/</a><p class="date">jun 10, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-a6mo0ngu9s2026"/>Among us 2026 series/</a><p class="date">jun 08, 2026 </p> <hr> </div>
