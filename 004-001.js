@@ -36,7 +36,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
+<div class="link-item"><a href="https://rad609.bar/"/>www.rad609.bar/</a><p class="date">jul 03, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20260703043308/https://rad609.bar/"/>radio 609a/</a><p class="date">jul 03, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://estoqueapp-erloelnc.manus.space/add-product"/>sistema de controle/</a><p class="date">jul 03, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/o-diabo-veste-prada-2006-the-devil-wears-parda-dvd-14-12-2006"/>O Diabo Veste Prada 2006/</a><p class="date">jun 22, 2026 </p> <hr> </div>
