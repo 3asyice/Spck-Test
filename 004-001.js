@@ -36,6 +36,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://rad609.bar/page/2026/among/configuracao_sala.txt"/>configurações sala among atlas/</a><p class="date">jul 11, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/cS8-iux7F5k"/>every reality glitch youtube/</a><p class="date">jul 08, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/lgOdyJyQv7w"/>nc steakhouse playlist 2/</a><p class="date">jul 03, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://rad609.bar/"/>www.rad609.bar/</a><p class="date">jul 03, 2026 </p> <hr> </div>
