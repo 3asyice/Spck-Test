@@ -36,6 +36,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://3asyice.github.io/Tech-Info/index.html"/>Alunos e Professores/</a><p class="date">jul 15, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/SixOhNine/script/sidebar/militares.html"/>militares e civis book of redemption/</a><p class="date">jul 14, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://discord.gg/GZf66euPh"/>Servidor do Treco Discord/</a><p class="date">jul 12, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://rad609.bar/page/2026/among/configuracao_sala.txt"/>configurações sala among atlas/</a><p class="date">jul 11, 2026 </p> <hr> </div>
