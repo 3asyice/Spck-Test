@@ -36,6 +36,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/0-e2s7t0u1d2o0s0d5etgruaiglehdeiram09e"/>motivação e estudos/</a><p class="date">jul 21, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/donate?"/>donate to internet archive/</a><p class="date">jul 21, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://ia601801.us.archive.org/12/items/do-me-evil-1975/DoMeEvil.ia.mp4"/>Do me evil.mp4/</a><p class="date">jul 21, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://piratatvs.com/sexy-hot-ao-vivo-online/"/>sexy hot canal porno pirata/</a><p class="date">jul 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/Tech-Info/index.html"/>Alunos e Professores/</a><p class="date">jul 15, 2026 </p> <hr> </div>
