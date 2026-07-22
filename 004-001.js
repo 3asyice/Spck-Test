@@ -36,6 +36,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://ia600102.us.archive.org/20/items/filmes-de-tyler-2/Greatest%20whitegirl%20playlist%20to%20listen%20to%20when%20alone%20.mp4"/>whitegirl playlist to listen when alone/</a><p class="date">jul 21, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-e2s7t0u1d2o0s0d5etgruaiglehdeiram09e"/>motivação e estudos/</a><p class="date">jul 21, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/donate?"/>donate to internet archive/</a><p class="date">jul 21, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://ia601801.us.archive.org/12/items/do-me-evil-1975/DoMeEvil.ia.mp4"/>Do me evil.mp4/</a><p class="date">jul 21, 2026 </p> <hr> </div>
