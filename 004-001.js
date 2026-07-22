@@ -37,6 +37,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/terminator_202403"/>terminator.mp4/</a><p class="date">jul 22, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/the-blair-witch-project-1999-vhs-rip"/>the blair witch (1999) vhs/</a><p class="date">jul 22, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/scent-of-rain"/>scent of rain/</a><p class="date">jul 22, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/evildeadfullscreenanchorbayuncutmono"/>evil dead full uncut movie/</a><p class="date">jul 22, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/ginger-snaps-2-unleashed"/>ginger snaps 2 vhs unleashed/</a><p class="date">jul 22, 2026 </p> <hr> </div>
