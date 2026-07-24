@@ -38,6 +38,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://oclubritual-4vgabgbv.manus.space/"/>clube dos fumantes - entrar/</a><p class="date">jul 23, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/terminator_202403"/>terminator.mp4/</a><p class="date">jul 22, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/the-blair-witch-project-1999-vhs-rip"/>the blair witch (1999) vhs/</a><p class="date">jul 22, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/scent-of-rain"/>scent of rain/</a><p class="date">jul 22, 2026 </p> <hr> </div>
