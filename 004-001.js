@@ -38,6 +38,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://3asyice.github.io/SixOhNine/script/instrucao/hinos-e-cancoes.html#TOP"/>hinos e canções das forças armadas/</a><p class="date">jul 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/devoradores-de-estrelas-2026"/>devoradores de estrelas 2026/</a><p class="date">jul 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/user/tvmofo/videos?order=popular"/>tv mofo (acervo de filmes)/</a><p class="date">jul 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://oclubritual-4vgabgbv.manus.space/"/>clube dos fumantes - entrar/</a><p class="date">jul 23, 2026 </p> <hr> </div>
