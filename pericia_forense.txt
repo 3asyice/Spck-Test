@@ -689,3 +689,47 @@ O trabalho do perito é formalizado por meio de documentos oficiais enviados ao 
 Gostaria de aprofundar em algum desses tópicos? Se quiser, podemos fazer um exercício prático guiado para simular como um perito analisa os quatro tipos fundamentais do Sistema Vucetich.
 
 https://futemax.cologne/
+Aqui está a aula teórica focada nos quatro pilares da Informática Forense listados no conteúdo programático:
+------------------------------
+## Aula Teórica: Fundamentos de Informática Forense
+A informática forense é a disciplina que aplica técnicas científicas e analíticas em mídias digitais para identificar, preservar, recuperar, analisar e apresentar fatos ou evidências sobre atividades digitais em processos judiciais.
+------------------------------
+## 1. Legislação Aplicada aos Crimes de Informática no Código Penal Brasileiro
+A atuação do perito de informática está estritamente vinculada ao princípio da legalidade. No Brasil, o Código Penal (CP) foi modernizado por leis específicas para tipificar condutas ilícitas no ambiente digital. Os principais marcos e artigos incluem:
+
+* Invasão de Dispositivo Informático (Artigo 154-A do CP): Introduzido originalmente pela Lei Carolina Dieckmann (Lei nº 12.737/2012) e endurecido posteriormente. Pune o ato de invadir dispositivo informático alheio, conectado ou não à rede, mediante violação indevida de mecanismo de segurança, com o fim de obter, adulterar ou destruir dados/informações sem autorização do titular.
+* Furto Qualificado por Meio Eletrônico (Artigo 155, § 4º-B do CP): Alterado pela Lei nº 14.155/2021, prevê penas severas para furtos cometidos com a utilização de fraudes eletrônicas, como links falsos (phishing) e engenharia social para desviar dinheiro de contas bancárias.
+* Estelionato Eletrônico (Artigo 171, § 2º-A do CP): Aplica-se quando a fraude é cometida nas redes sociais, contatos telefônicos ou e-mails para enganar a vítima e obter vantagem ilícita (como o golpe do falso perfil de WhatsApp).
+* Interceção Telemática Ilegal (Lei nº 9.296/1996): Realizar a interceptação de fluxos de comunicações em sistemas de informática ou telemática sem autorização judicial é crime e anula qualquer prova obtida.
+
+------------------------------
+## 2. Características Básicas de um Local de Crime de Informática
+Diferente de um cenário físico tradicional de homicídio, o local de crime digital apresenta alta volatilidade e exige isolamento lógico e físico simultâneos.
+
+* Tipos de Local: Pode ser um ambiente físico fixo (um escritório com computadores), um ambiente móvel (um suspeito portando um celular na rua) ou um ambiente virtual/em nuvem (servidores remotos fora do país).
+* Estado dos Dispositivos:
+* Dispositivo Ligado: Se o computador estiver ligado, o desligamento imediato pode causar a perda de dados cruciais armazenados na memória RAM (como senhas criptografadas, conexões de rede ativas e processos em execução). A regra atual prioriza a coleta da memória RAM (Live Forensics) antes de desligar a máquina.
+   * Dispositivo Desligado: Deve permanecer desligado para evitar que o processo de boot altere a data e hora dos últimos arquivos modificados no sistema operacional.
+* Isolamento de Sinais (Gaiola de Faraday): Dispositivos móveis (smartphones e tablets) devem ser colocados imediatamente em modo avião ou armazenados em embalagens blindadas contra ondas de rádio (sacos de Faraday). Isso impede que o investigado apague os dados remotamente ou que o aparelho receba novas informações que alterem a integridade da prova.
+
+------------------------------
+## 3. Cadeia de Custódia em Mídias Digitais
+A cadeia de custódia é o conjunto de procedimentos que garante a integridade e a autenticidade da prova digital, demonstrando que o item analisado em juízo é exatamente o mesmo coletado na cena do crime. Devido à facilidade de alteração de arquivos digitais sem deixar rastros físicos, o rigor aqui é extremo:
+
+* Etapas Fundamentais (Art. 158-A ao 158-F do CPP): Abrange o Reconhecimento, Isolamento, Fixação, Coleta, Acondicionamento, Transporte, Recebimento, Processamento (análise), Armazenamento e Descarte.
+* Função Hash (A Identidade Digital da Prova): Para provar que os dados não foram modificados, o perito utiliza algoritmos matemáticos (como SHA-256 ou MD5) para gerar uma assinatura digital única (o "Hash") do arquivo ou do disco copiado. Se um único bit for alterado no arquivo, o código Hash muda completamente. O Hash calculado no momento da apreensão deve ser idêntico ao calculado no tribunal.
+
+------------------------------
+## 4. Extração de Dados e Softwares Utilizados
+A fase de extração consiste em recuperar as informações do dispositivo sem alterar o conteúdo original de forma alguma.
+
+* Cópia Bit a Bit (Imagem Forense): O perito nunca trabalha diretamente na mídia original (HD ou celular do suspeito). É realizada uma duplicagem integral de cada setor físico do disco para um arquivo de imagem forense.
+* Bloqueadores de Escrita (Write Blockers): Hardware ou software conectado entre o computador do perito e a mídia do suspeito. Ele permite apenas a leitura dos dados, bloqueando de forma absoluta qualquer tentativa do sistema operacional de gravar ou modificar informações na mídia original durante o processo de cópia.
+* Ferramentas e Softwares Renomados:
+* FTK Imager: Software amplamente utilizado para realizar a cópia bit a bit e gerar os códigos Hash de verificação.
+   * Autopsy / Sleuth Kit: Plataforma de código aberto para análise forense digital de discos, permitindo recuperar arquivos deletados, analisar histórico de navegação e extrair metadados.
+   * Cellebrite UFED: Ferramenta líder mundial para a extração e quebra de segurança de dados em dispositivos móveis (smartphones), extraindo mensagens apagadas de aplicativos, registros de localização e logs de sistema.
+
+------------------------------
+Para aprofundarmos esse plano de estudos, diga-me qual o seu objetivo: você deseja ver um exemplo prático de cálculo de função hash, entender como funciona o mercado de perito assistente na área de informática ou focar em questões de concursos públicos sobre esse tema?
+
