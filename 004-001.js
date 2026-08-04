@@ -39,6 +39,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://ia800507.us.archive.org/20/items/Historia-de-um-Recruta/Hashtag%EF%BC%9A609%20-%20Gritos%20na%20Avenida%20Liberdade.mp3"/>Soldado 609 Carvalho.mp3/</a><p class="date">ago 04, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://ia601502.us.archive.org/27/items/sel-01x-01ia/311_-_Prisoner_%28legendado%29_ptbr_.ia.mp4"/>311 - prisoner (legendado)/</a><p class="date">ago 02, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/PUNK-ROCK-BRAZIL"/>punk rock brasil/</a><p class="date">ago 01, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/MONSTER-RADIO/"/>punk rock jukebox/</a><p class="date">ago 01, 2026 </p> <hr> </div>
