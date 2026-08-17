@@ -37,7 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
+<div class="link-item"><a href="https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fclassroom.google.com&passive=true"/>google classroom entrar/</a><p class="date">ago 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/SixOhNine/script/sidebar/tree.html"/>família de guilherme de a. carvalho/</a><p class="date">ago 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://bipolarhub-8mebimsi.manus.space/"/>comunidade para pessoas bipolares/</a><p class="date">ago 08, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://rad609.bar/page/2026/ago/por_que_me_atrasei.txt"/>fase da depressão bipolar começou/</a><p class="date">ago 08, 2026 </p> <hr> </div>
