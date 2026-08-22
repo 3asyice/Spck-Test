@@ -36,6 +36,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://youtube.com/playlist?list=PL7Rr_OMj-DOYXP7j3tpAyUKfM5Lv5lf8q"/>рок плайылыст русский rock russo/</a><p class="date">ago 21, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/0-609e-commerce-entregar/E-COMMERCE_ENTREGAR.zip"/>E-Commerce Revisar php/</a><p class="date">ago 20, 2026 </p> <hr> </div>
 <div class="link-item"><a href="assets/pdf/aula/manutencao/manutencao_apostila.html"/>apostila de manutenção por Ricardo Andrade/</a><p class="date">ago 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://dn720207.ca.archive.org/0/items/0-apostila-sistemas-de-arquivos/Apostila_Sistemas_de_Arquivos.pdf"/>apostila sistemas de arquivos por Ricardo Andrade/</a><p class="date">ago 17, 2026 </p> <hr> </div>
