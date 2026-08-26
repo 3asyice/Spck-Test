@@ -36,10 +36,12 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-<div class="link-item"><a href="https://archive.org/download/grand-theft-auto-san-andreas-usa-v-3.00_202209/Grand%20Theft%20Auto%20-%20San%20Andreas%20%28USA%29%20%28v3.00%29.iso"/>grad theft auto - san andreas.iso/a><p class="date">ago 25, 2026 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/download/winbox_3.41/winbox.exe"/>winbox v3.41.exe/a><p class="date">ago 25, 2026 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/download/winbox_3.41/winbox64.exe"/>winbox64 v3.41.exe/a><p class="date">ago 25, 2026 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/download/Winbox3.11/WinBox.7z"/>winbox v3.11/a><p class="date">ago 25, 2026 </p> <hr> </div>
+
+
+<div class="link-item"><a href="https://archive.org/download/grand-theft-auto-san-andreas-usa-v-3.00_202209/Grand%20Theft%20Auto%20-%20San%20Andreas%20%28USA%29%20%28v3.00%29.iso"/>grad theft auto - san andreas.iso/</a><p class="date">ago 25, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/download/winbox_3.41/winbox.exe"/>winbox v3.41.exe/</a><p class="date">ago 25, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/download/winbox_3.41/winbox64.exe"/>winbox64 v3.41.exe/</a><p class="date">ago 25, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/download/Winbox3.11/WinBox.7z"/>winbox v3.11/</a><p class="date">ago 25, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/@swizzley"/>swizzley old games page/</a><p class="date">ago 25, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://youtube.com/playlist?list=PL7Rr_OMj-DOYXP7j3tpAyUKfM5Lv5lf8q"/>рок плайылыст русский rock russo/</a><p class="date">ago 21, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/0-609e-commerce-entregar/E-COMMERCE_ENTREGAR.zip"/>E-Commerce Revisar php/</a><p class="date">ago 20, 2026 </p> <hr> </div>
