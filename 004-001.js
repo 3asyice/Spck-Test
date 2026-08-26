@@ -38,6 +38,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+
+<div class="link-item"><a href="https://3asyice.github.io/SixOhNine/script/emporionossacasa/Vanderlea.html"/>vanderlea michael schimanoski/</a><p class="date">ago 26, 2026 </p> <hr> </div>
 <div class="link-item"><a href="assets/audio/atlas/atlas.among.mp3"/>atlas.among.mp3/</a><p class="date">ago 26, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/call-of-duty-world-at-war_202111/CODWAW.ISO"/>call of duty world at war for pc/</a><p class="date">ago 26, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/icarly-idream-in-toons/My%20Disc.iso"/>iCarly I dream in toons.iso/</a><p class="date">ago 26, 2026 </p> <hr> </div>
