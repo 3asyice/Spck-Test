@@ -36,6 +36,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/download/winbox_3.41/winbox64.exe"/>winbox v3.41.exe/a><p class="date">ago 25, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/Winbox3.11/WinBox.7z"/>winbox v3.11/a><p class="date">ago 25, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/@swizzley"/>swizzley old games page/</a><p class="date">ago 25, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://youtube.com/playlist?list=PL7Rr_OMj-DOYXP7j3tpAyUKfM5Lv5lf8q"/>рок плайылыст русский rock russo/</a><p class="date">ago 21, 2026 </p> <hr> </div>
