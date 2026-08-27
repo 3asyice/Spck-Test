@@ -39,6 +39,9 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/turma-da-monica-temporada-3-completo"/>turma da Mônica temporada 3/</a><p class="date">ago 27, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/turma-da-monica-temporada-2-completo"/>turma da Mônica temporada 2/</a><p class="date">ago 27, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/turma-da-monica-temporada-1-completo"/>turma da Mônica temporada 1/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/SixOhNine/script/emporionossacasa/Vanderlea.html"/>vanderlea michael schimanoski/</a><p class="date">ago 26, 2026 </p> <hr> </div>
 <div class="link-item"><a href="assets/audio/atlas/atlas.among.mp3"/>atlas.among.mp3/</a><p class="date">ago 26, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/call-of-duty-world-at-war_202111/CODWAW.ISO"/>call of duty world at war for pc/</a><p class="date">ago 26, 2026 </p> <hr> </div>
