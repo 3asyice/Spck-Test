@@ -38,7 +38,15 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
+<div class="link-item"><a href="https://archive.org/details/chavesCompletodublado"/>chaves completo dublado/</a><p class="date">ago 27, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/tom-jerry-completo"/>tom & jerry/</a><p class="date">ago 27, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/X-MenTheAnimatedSeriesDublado"/>X-Men série animada/</a><p class="date">ago 27, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/carrossel-dubl"/>carrossel (1991)/</a><p class="date">ago 27, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/AturmadaPanteraCor-de-Rosa2010"/>pantera cor de rosa (2010)/</a><p class="date">ago 27, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/frajola-um-rato-diferente-1953"/>looney tunes (1931-1969)/</a><p class="date">ago 27, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/turmadokiko/"/>turma do kiko/</a><p class="date">ago 27, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/chavesanimado1temp"/>chaves animado /</a><p class="date">ago 27, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/pingu1986.-com"/>pingu (1986)/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/pinkecerebro"/>pinky e cérebro desenho (1995-1998)/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/soldados-de-hitler-2008-legendado"/>os soldados de hitler - documentário/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/picapauesuaturma"/>pica-pau e sua turma/</a><p class="date">ago 27, 2026 </p> <hr> </div>
