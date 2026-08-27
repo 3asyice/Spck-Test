@@ -37,7 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
+<div class="link-item"><a href="https://archive.org/details/coragemocaocovardedublado"/>coragem - o cão covarde (2000-2002)/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/jonny-quest-dublado_202602"/>jonny quest dublado/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/disneymickeypatetadonaldplutoclassicos"/>mickey pateta donald pluto/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/chavesCompletodublado"/>chaves completo dublado/</a><p class="date">ago 27, 2026 </p> <hr> </div>
