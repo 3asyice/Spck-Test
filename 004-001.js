@@ -39,6 +39,11 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/pinkecerebro"/>pinky e cérebro desenho (1995-1998)/</a><p class="date">ago 27, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/soldados-de-hitler-2008-legendado"/>os soldados de hitler - documentário/</a><p class="date">ago 27, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/picapauesuaturma"/>pica-pau e sua turma/</a><p class="date">ago 27, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/OnovoShowoPicaPau"/>pica-pau (1999-2002)/</a><p class="date">ago 27, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/novaseriedepica-pau"/>pica-pau (2018-2022)/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="assets/video/jamilly/atlas_among.mp4"/>atlas.among.mp4/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/turma-da-monica-cinegibi-4-5"/>turma da Mônica cinegibi/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/turma-da-monica-temporada-3-completo"/>turma da Mônica temporada 3/</a><p class="date">ago 27, 2026 </p> <hr> </div>
