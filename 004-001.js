@@ -39,6 +39,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/turma-da-monica-cinegibi-4-5"/>turma da Mônica cinegibi/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/turma-da-monica-temporada-3-completo"/>turma da Mônica temporada 3/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/turma-da-monica-temporada-2-completo"/>turma da Mônica temporada 2/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/turma-da-monica-temporada-1-completo"/>turma da Mônica temporada 1/</a><p class="date">ago 27, 2026 </p> <hr> </div>
