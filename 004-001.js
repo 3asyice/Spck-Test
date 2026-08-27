@@ -37,6 +37,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://dn721805.ca.archive.org/0/items/24-todo-dia-a-mesma-noite.-a-historia-nao-contada-da-boate-kiss-daniela-arbex_202508/24-%20Todo%20dia%20a%20mesma%20noite.%20A%20Hist%C3%B3ria%20n%C3%A3o%20contada%20da%20Boate%20Kiss%20-%20Daniela%20Arbex.pdf"/>todo dia a mesma noite.pdf/</a><p class="date">ago 27, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://dn710000.ca.archive.org/0/items/youtube-YnBOkxteO0A/YnBOkxteO0A.mp4"/>boate kiss cobertura tv/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/documentario_20220916"/>jornal nacional 11/09/2001/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/coragemocaocovardedublado"/>coragem - o cão covarde (2000-2002)/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/jonny-quest-dublado_202602"/>jonny quest dublado/</a><p class="date">ago 27, 2026 </p> <hr> </div>
