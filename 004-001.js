@@ -38,6 +38,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/disneymickeypatetadonaldplutoclassicos"/>mickey pateta donald pluto/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/chavesCompletodublado"/>chaves completo dublado/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/tom-jerry-completo"/>tom & jerry/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/X-MenTheAnimatedSeriesDublado"/>X-Men série animada/</a><p class="date">ago 27, 2026 </p> <hr> </div>
