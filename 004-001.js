@@ -37,6 +37,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+
+<div class="link-item"><a href="https://ia801502.us.archive.org/27/items/sel-01x-01ia/KEEFER%20-%20My%20Life%20Be%20Like%20%28Keefer%20Remix%29%20ft.Kendrick%20Lamar%2C%2050%20Cent%2C%202Pac%2C%20Eazy%20E%2C%20Eminem%2C%202Pac%2C%20Notorious%20Big.mp4"/> my life be like (remix)/</a><p class="date">ago 28, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/0-609e-commerce-entregar/ecommerce.zip"/> entregar e-commerce.zip/</a><p class="date">ago 28, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://dn721805.ca.archive.org/0/items/24-todo-dia-a-mesma-noite.-a-historia-nao-contada-da-boate-kiss-daniela-arbex_202508/24-%20Todo%20dia%20a%20mesma%20noite.%20A%20Hist%C3%B3ria%20n%C3%A3o%20contada%20da%20Boate%20Kiss%20-%20Daniela%20Arbex.pdf"/>todo dia a mesma noite.pdf/</a><p class="date">ago 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://dn710000.ca.archive.org/0/items/youtube-YnBOkxteO0A/YnBOkxteO0A.mp4"/>boate kiss cobertura tv/</a><p class="date">ago 27, 2026 </p> <hr> </div>
