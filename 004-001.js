@@ -28,7 +28,9 @@ function filterItems() {
     s.includes(t) || a.includes(t) ? (e.style.display = "", i.style.display = "") : (e.style.display = "none", i.style.display = "none")
   })
 }
+
 const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML = `<div id="links">
+
 
 
 
@@ -1065,3 +1067,7 @@ com json file/</a><p class="date">out 02, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20240418171838if_/https://www.malditonatal.online/">malditonatal.online/</a><p class="date">Apr 18, 2024</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20240418171838if_/https://www.malditonatal.online">malditonatal.online/</a><p class="date">Apr 18, 2024</p><hr></div>
 <div class="link-item"><a href="https://web.archive.org/web/20230321002209if_/https://www.avesderapinabrasil.com/materias/corujas_crendices.htm"/>superstição corujas/</a><p class="date">Mar 21, 2023 </p> <hr> </div>`;
+const recentAdditions = document.querySelector("h2");
+const totalLinks = document.querySelectorAll("#linksScripted .link-item").length;
+
+recentAdditions.textContent = `Recent Additions: ${totalLinks}`;
