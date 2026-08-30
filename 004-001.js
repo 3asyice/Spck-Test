@@ -40,6 +40,9 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/dan.-vs."/>dan vs series/</a><p class="date">ago 30, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/law-order-1990-s-01-e-09-indifference-720p-web-dl-x-265-im-e_202401"/>law & order series/</a><p class="date">ago 30, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/episode-1_20250917"/>ash vs evil dead season 1/</a><p class="date">ago 30, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/death-note-complete-2006-2007/E01+-+Rebirth.mkv"/>death note animated series/</a><p class="date">ago 30, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/OsxLeopardInstall/osx%20leopard%20install.iso"/>Mac OS X Leopard Install DVD.iso/</a><p class="date">ago 30, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://123movies9.baby/tvshows/dark-matter/"/>dark matter series eng/</a><p class="date">ago 29, 2026 </p> <hr> </div>
