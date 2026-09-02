@@ -40,6 +40,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20260902223829/https://www.reddit.com/r/horror/comments/1hwuz5f/what_are_the_backrooms/?solution=53ea783259818ede53ea783259818ede&js_challenge=1&jsc_token=7afd7253fec22262ff1c52b1703fe9ec7ffb15a6be0b647e4f4ab56fd318ac58&jsc_orig_r=&tl=pt-br"/>o que são os backrooms?/</a><p class="date">sep 02, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20260902222120if_/https://nofap.com/stories/my-nofap-results-of-2021/"/>nofap stories results of 2021/</a><p class="date">sep 02, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20260902221239if_/https://aratuon.com.br/internet/por-que-homens-nao-devem-se-masturbar-em-setembro-entenda-o-desafio/"/>nofap setembro por que homens não devem se masturbar?/</a><p class="date">sep 02, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://ia800102.us.archive.org/10/items/filmes-test/Cidades_de_Papel_%282015%29_-_John_Green_book_.ia%5B1%5D.mp4"/>cidades de papel.mp4/</a><p class="date">ago 31, 2026 </p> <hr> </div>
