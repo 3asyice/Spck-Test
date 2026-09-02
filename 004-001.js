@@ -40,7 +40,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-<div class="link-item"><a href="https://web.archive.org/web/20260902221239/https://aratuon.com.br/internet/por-que-homens-nao-devem-se-masturbar-em-setembro-entenda-o-desafio/"/>nofap setembro por que homens não devem se masturbar?/</a><p class="date">sep 02, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20260902222120if_/https://nofap.com/stories/my-nofap-results-of-2021/"/>nofap stories results of 2021/</a><p class="date">sep 02, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20260902221239if_/https://aratuon.com.br/internet/por-que-homens-nao-devem-se-masturbar-em-setembro-entenda-o-desafio/"/>nofap setembro por que homens não devem se masturbar?/</a><p class="date">sep 02, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://ia800102.us.archive.org/10/items/filmes-test/Cidades_de_Papel_%282015%29_-_John_Green_book_.ia%5B1%5D.mp4"/>cidades de papel.mp4/</a><p class="date">ago 31, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/mr.-mrs.-smith-1996"/>mr and mrs Smith (1996) series/</a><p class="date">ago 31, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://cnvmp3.com/v55"/>youtube video to mp3/</a><p class="date">ago 30, 2026 </p> <hr> </div>
