@@ -442,58 +442,58 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 <div class="link-item"><a href="https://web.archive.org/web/20251104074354/https://3asyice.github.io/Spck-Test/arquivo/Analise_de_sistemas_Henriq_Z-Library.epub"/>Análise de sistemas.epub/</a><p class="date">nov 04, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://meta.wikimedia.org/w/index.php?title=User%3AOriginalDarkLotus&redlink=1"/>wikipedia remove it's page/</a><p class="date">nov 03, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20240224081445if_/https://gruporeporter.com.br/historia/"/>rádio repórter Ijuí/</a><p class="date">nov 01, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20251030161354if_/https://3asyice.github.io/Spck-Test/"/>004 atualizado/</a><p class="date">out 30, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20251030125915if_/https://www.historiadomundo.com.br/curiosidades/hallowee.htm"/>o que é o Halloween? 🎃/</a><p class="date">out 30, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://www.clipsave.com.br/"/>clipsave.com.br/</a><p class="date">out 30, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://ia801508.us.archive.org/30/items/spin-soldier/T1_E1_-_27_de_janeiro_de_2013_-_Boate_Kiss_-_A_Trag%C3%A9dia_de_Santa_Maria_online_no_Globoplay_2.mp4"/>27 de Janeiro de 2013/</a><p class="date">out 30, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://ia601508.us.archive.org/30/items/spin-soldier/rodrigo.ia.mp4"/>rodrigo moura boate kiss/</a><p class="date">out 28, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20251029011107if_/https://3asyice.github.io/Spck-Test/meandthedevil.mp4"/>me and the devil/</a><p class="date">out 28, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20251029010753if_/https://expresso.pt/geracao-e/2025-10-23-pentagono-acusa-netflix-de-produzir-lixo-woke-depois-de-lancamento-da-serie-lgbt--boots-6604215d"/>pentágono crítica a série boots/</a><p class="date">out 28, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20251025063145if_/https://3asyice.github.io/Spck-Test/meandthedevil.mp4"/>me and the devil/</a><p class="date">out 25, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20251024194951if_/https://www.brasilparalelo.com.br/noticias/a-historia-por-tras-de-o-exorcismo-de-emily-rose-o-caso-anneliese-michel"/>Anneliese Michael/</a><p class="date">out 24, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20251022035529if_/https://www.bbc.com/portuguese/internacional-39625619"/>o que é eugenia?/</a><p class="date">out 22, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://www.facebook.com/edson.macedo.79274089"/>Edson Macedo Júnior - fb/</a><p class="date">out 20, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://www.instagram.com/edsonm_jr"/>Edson Macedo Júnior - ig/</a><p class="date">out 20, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20251020043427if_/https://g1.globo.com/sc/santa-catarina/noticia/2025/10/19/aluno-do-exercito-morre-ao-sofrer-parada-cardiaca-apos-corrida-em-joinville.ghtml"/>Edson Macedo Júnior/</a><p class="date">out 20, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20251018183035/https://cybereality.com/the-matrix-is-real-but-its-not-what-you-think/"/>Matrix is Real/</a><p class="date">out 18, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20251018181912if_/https://www.metropoles.com/distrito-federal/na-mira/misterio-dentista-do-exercito-e-encontrado-morto-dentro-de-quartel"/>Felipe Borsa Lago/</a><p class="date">out 18, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://youtu.be/DC6yfy0w-Gw"/>café of the seven sinners/</a><p class="date">out 15, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://web.archive.org/web/20251011004010if/https://www.terra.com.br/noticias/soldado-de-19-anos-e-encontrado-morto-em-unidade-militar-do-exercito-em-sao-borja,cc35c285d85b1b34019075772ef69214287jpiyk.html"/>soldado morre em São Borja/</a><p class="date">out 10, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/american-horror-story-br"/>american horror story/</a><p class="date">out 10, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/dan.-vs./"/>Dan Vs/</a><p class="date">out 09, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/paprika-jolli"/>Paprika Jolli (2006)/</a><p class="date">out 09, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/studio-60-on-the-sunset-strip/"/>the sunset strip/</a><p class="date">out 09, 2025 </p> <hr> </div>
-<div class="link-item"><a href="http://pdtv.live/"/>pdtv.live all old series/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/search-1972/"/>UFO Search (1972)/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/UFO.complete/"/>UFO Complete/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/leave-it-to-beaver-the-complete-series-1957-1963/Leave+It+to+Beaver+(The+Complete+Series)+%5B1957+-+1963%5D/"/>Leave it to Beaver/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/s-01.-e-17-ella-west.ia"/>Have a gun will travel/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/Dragnet1951"/>Dragnet (1951)/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/The-Cat-1966-Series/"/>T.H.E .Cat/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/sea-hunt/"/>sea hunt/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/s-01e-02.-point-blank/"/>Maverick/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/s-01-e-26-papa-benjamin/"/>Thriller 1960s/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/sctv-season-1"/>SCTV season 1/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/harry-o-s-01-/"/>Harry O/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/wanted-dead-or-alive-s-01-e-01-ep-1-the-martin-poster"/>Wanted Dead or Alive/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/naked-city-s-01-e-01-meridian/"/>Naked City/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/01-cheyenne-season-1-episodes-1-2-3_202402/"/>Cheyenne season 1/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/Coronet-Blue-1967-Series/"/>Coronet Blue series/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/ElleryQueenSeries/"/>Ellery Queen series/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/dark-shadows_202210/"/>Dark Shadows series/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/the-time-tunnel/"/>The Time Tunnel/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/Alias-Smith-And-Jones-1973/"/>Alias Smith and Jones/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/TheBobNewhartShow/Extras"/>The bob newhart Show series/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/bewitchedcomplete_202310/"/>Bewitched series/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/GreenAcresCompleteSeries/"/>Green Acres series/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/The-Monkees-Complete/"/>The Monkees series/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/get-smart/"/>Get Smart series/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/The_Fugitive_Series/"/>The Fugitive Series/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/s20191114"/>77 Sunset Strip/</a><p class="date">out 07, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/black-mirror-br"/>Black Mirror dublado/</a><p class="date">out 03, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20251030161354if_/https://3asyice.github.io/Spck-Test/"/>004 atualizado/</a><p class="date">oct 30, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20251030125915if_/https://www.historiadomundo.com.br/curiosidades/hallowee.htm"/>o que é o Halloween? 🎃/</a><p class="date">oct 30, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://www.clipsave.com.br/"/>clipsave.com.br/</a><p class="date">oct 30, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://ia801508.us.archive.org/30/items/spin-soldier/T1_E1_-_27_de_janeiro_de_2013_-_Boate_Kiss_-_A_Trag%C3%A9dia_de_Santa_Maria_online_no_Globoplay_2.mp4"/>27 de Janeiro de 2013/</a><p class="date">oct 30, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://ia601508.us.archive.org/30/items/spin-soldier/rodrigo.ia.mp4"/>rodrigo moura boate kiss/</a><p class="date">oct 28, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20251029011107if_/https://3asyice.github.io/Spck-Test/meandthedevil.mp4"/>me and the devil/</a><p class="date">oct 28, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20251029010753if_/https://expresso.pt/geracao-e/2025-10-23-pentagono-acusa-netflix-de-produzir-lixo-woke-depois-de-lancamento-da-serie-lgbt--boots-6604215d"/>pentágono crítica a série boots/</a><p class="date">oct 28, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20251025063145if_/https://3asyice.github.io/Spck-Test/meandthedevil.mp4"/>me and the devil/</a><p class="date">oct 25, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20251024194951if_/https://www.brasilparalelo.com.br/noticias/a-historia-por-tras-de-o-exorcismo-de-emily-rose-o-caso-anneliese-michel"/>Anneliese Michael/</a><p class="date">oct 24, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20251022035529if_/https://www.bbc.com/portuguese/internacional-39625619"/>o que é eugenia?/</a><p class="date">oct 22, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://www.facebook.com/edson.macedo.79274089"/>Edson Macedo Júnior - fb/</a><p class="date">oct 20, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://www.instagram.com/edsonm_jr"/>Edson Macedo Júnior - ig/</a><p class="date">oct 20, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20251020043427if_/https://g1.globo.com/sc/santa-catarina/noticia/2025/10/19/aluno-do-exercito-morre-ao-sofrer-parada-cardiaca-apos-corrida-em-joinville.ghtml"/>Edson Macedo Júnior/</a><p class="date">oct 20, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20251018183035/https://cybereality.com/the-matrix-is-real-but-its-not-what-you-think/"/>Matrix is Real/</a><p class="date">oct 18, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20251018181912if_/https://www.metropoles.com/distrito-federal/na-mira/misterio-dentista-do-exercito-e-encontrado-morto-dentro-de-quartel"/>Felipe Borsa Lago/</a><p class="date">oct 18, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://youtu.be/DC6yfy0w-Gw"/>café of the seven sinners/</a><p class="date">oct 15, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20251011004010if/https://www.terra.com.br/noticias/soldado-de-19-anos-e-encontrado-morto-em-unidade-militar-do-exercito-em-sao-borja,cc35c285d85b1b34019075772ef69214287jpiyk.html"/>soldado morre em São Borja/</a><p class="date">oct 10, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/american-horror-story-br"/>american horror story/</a><p class="date">oct 10, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/dan.-vs./"/>Dan Vs/</a><p class="date">oct 09, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/paprika-jolli"/>Paprika Jolli (2006)/</a><p class="date">oct 09, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/studio-60-on-the-sunset-strip/"/>the sunset strip/</a><p class="date">oct 09, 2025 </p> <hr> </div>
+<div class="link-item"><a href="http://pdtv.live/"/>pdtv.live all old series/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/search-1972/"/>UFO Search (1972)/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/UFO.complete/"/>UFO Complete/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/leave-it-to-beaver-the-complete-series-1957-1963/Leave+It+to+Beaver+(The+Complete+Series)+%5B1957+-+1963%5D/"/>Leave it to Beaver/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/s-01.-e-17-ella-west.ia"/>Have a gun will travel/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/Dragnet1951"/>Dragnet (1951)/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/The-Cat-1966-Series/"/>T.H.E .Cat/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/sea-hunt/"/>sea hunt/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/s-01e-02.-point-blank/"/>Maverick/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/s-01-e-26-papa-benjamin/"/>Thriller 1960s/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/sctv-season-1"/>SCTV season 1/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/harry-o-s-01-/"/>Harry O/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/wanted-dead-or-alive-s-01-e-01-ep-1-the-martin-poster"/>Wanted Dead or Alive/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/naked-city-s-01-e-01-meridian/"/>Naked City/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/01-cheyenne-season-1-episodes-1-2-3_202402/"/>Cheyenne season 1/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/Coronet-Blue-1967-Series/"/>Coronet Blue series/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/ElleryQueenSeries/"/>Ellery Queen series/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/dark-shadows_202210/"/>Dark Shadows series/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/the-time-tunnel/"/>The Time Tunnel/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/Alias-Smith-And-Jones-1973/"/>Alias Smith and Jones/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/TheBobNewhartShow/Extras"/>The bob newhart Show series/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/bewitchedcomplete_202310/"/>Bewitched series/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/GreenAcresCompleteSeries/"/>Green Acres series/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/The-Monkees-Complete/"/>The Monkees series/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/get-smart/"/>Get Smart series/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/The_Fugitive_Series/"/>The Fugitive Series/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/s20191114"/>77 Sunset Strip/</a><p class="date">oct 07, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/black-mirror-br"/>Black Mirror dublado/</a><p class="date">oct 03, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20251002155001if_/https://eter9.com/files/c556a73d-5bb0-4822-93b2-5068cb5aab98"/>eter9
-com json file/</a><p class="date">out 02, 2025 </p> <hr> </div>
-<div class="link-item"><a href="https://archive.org/details/severance-br"/>severance dublado/</a><p class="date">out 02, 2025 </p> <hr> </div>
+com json file/</a><p class="date">oct 02, 2025 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/severance-br"/>severance dublado/</a><p class="date">oct 02, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20250930072718if_/https://3asyice.github.io/SixOhNine/script/sidebar/militares.html"/>militares e civis/</a><p class="date">set 27, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://dn721906.ca.archive.org/0/items/the-coming-wave-by-mustafa-suleyman-michael-bhaskar-pdfread.net/The Coming Wave By Mustafa SuleymanMichael Bhaskar-pdfread.net.pdf"/>the coming wave/</a><p class="date">set 27, 2025 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/DaddyOFive-youtube/"/>yt DaddyOFive/</a><p class="date">set 27, 2025 </p> <hr> </div>
