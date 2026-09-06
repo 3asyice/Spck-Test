@@ -40,6 +40,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="assets/txt/login.txt"/>acesso usuário e senha/</a><p class="date">sep 05, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/sXue8DaKZ1A?is=9ckH5UO-MAheMUHu"/>ao seu lado.youtube/</a><p class="date">sep 05, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://drivefromhome.com/"/>drive from home/</a><p class="date">sep 05, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://3dscenes.qualityf2p.workers.dev/silo"/>silo 3d building/</a><p class="date">sep 04, 2026 </p> <hr> </div>

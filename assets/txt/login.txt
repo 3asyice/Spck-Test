@@ -1,0 +1,6 @@
+para acessar o perfil dos militares do site https://3asyice.github.io/SixOhNine/script/sidebar/militares.html existe apenas uma maneira:
+
+Usuario: Infantaria
+Senha: HackThePlanet
+
+cuidado com espaços!
