@@ -37,9 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
-
-
+<div class="link-item"><a href="https://dulo.sx"/>dulo - acessar com brave/</a><p class="date">sep 07, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/SKlPSUnDEqo?is=y1Kqs81yV0WDbNXH"/>Lilian - eu sem você (legendado/ 500 dias com ela)/</a><p class="date">sep 06, 2026 </p> <hr> </div>
 <div class="link-item"><a href="assets/txt/login.txt"/>acesso usuário e senha/</a><p class="date">sep 05, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/sXue8DaKZ1A?is=9ckH5UO-MAheMUHu"/>ao seu lado.youtube/</a><p class="date">sep 05, 2026 </p> <hr> </div>
