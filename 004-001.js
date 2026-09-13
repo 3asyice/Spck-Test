@@ -37,6 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="assets/pdf/livro/Os_Demonios_-_Fiodor_Dostoieski.pdf"/>Os Demônios - Fiódor Dostoevsky.pdf/</a><p class="date">sep 12, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/death-note-completo-ptbr"/>death note dublado series/</a><p class="date">sep 11, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/fantomascompleto52ep_202112/"/>Fantomas anime 52eps dublado/</a><p class="date">sep 11, 2026 </p> <hr> </div>
 <div class="link-item"><a href="assets/video/instagram/jenniferLawrence_instagram.mp4"/>jennifer Lawrence Instagram 1° video/</a><p class="date">sep 10, 2026 </p> <hr> </div>
