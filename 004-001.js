@@ -37,6 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://files2.codecguide.com/K-Lite_Codec_Pack_1995_Full.exe"/>K-Lite Codec Pack 1995 Full.exe/</a><p class="date">sep 14, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/0-609e-commerce-entregar/ecommerce-senha.zip"/>e-commerce - senhas/</a><p class="date">sep 13, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/@guilherme_carvalho220"/>tecnico em informatica - estudos/</a><p class="date">sep 13, 2026 </p> <hr> </div>
 <div class="link-item"><a href="assets/pdf/livro/Os_Demonios_-_Fiodor_Dostoieski.pdf"/>Os Demônios - Fiódor Dostoevsky.pdf/</a><p class="date">sep 12, 2026 </p> <hr> </div>
