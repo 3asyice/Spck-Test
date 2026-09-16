@@ -33,8 +33,7 @@ div.link-item hr {
   text-shadow: 2px 2px 5px #000;
   margin: 0;
   padding: 50px;
-  background-image: url(assets/img/gif/im_in_the_matrix.gif), repeating-linear-gradient(to bottom, #1f1b1c, #1f1b1c 1px, #000 1px, #000 3px);
-/* background-image: url(https://web.archive.org/web/20250605120657/https://www.big-loser.site/Caso/img/004.png), repeating-linear-gradient(to bottom, #1f1b1c, #1f1b1c 1px, #000 1px, #000 3px); */
+  background-image: url(https://web.archive.org/web/20250605120657/https://www.big-loser.site/Caso/img/004.png), repeating-linear-gradient(to bottom, #1f1b1c, #1f1b1c 1px, #000 1px, #000 3px);
   background-size: 180px auto, cover;
   background-position: center, center;
   background-repeat: no-repeat;
@@ -312,8 +311,14 @@ section.logo {
   margin-right: 0%;
   width: 100%;
   border-radius: 10px;
-  background: url('https://web.archive.org/web/20250913144918if_/https://3asyice.github.io/Spck-Test/15647.png') center/cover no-repeat fixed;
-  /* Final Destination Real Life --> background: url('https://web.archive.org/web/20250731141251if_/https://3asyice.github.io/Spck-Test/pc_bg1.jpg') center/cover no-repeat fixed; */
+  background: url('assets/img/gif/im_in_the_matrix.gif') center/cover no-repeat fixed;
+  /*
+  
+  old hacker mask png /off
+  https://web.archive.org/web/20250913144918if_/https://3asyice.github.io/Spck-Test/15647.png
+  
+  Final Destination Real Life /off
+  --> background: url('https://web.archive.org/web/20250731141251if_/https://3asyice.github.io/Spck-Test/pc_bg1.jpg') center/cover no-repeat fixed; */
   }
   a {
     color: #61ea53;
