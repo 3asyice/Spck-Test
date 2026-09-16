@@ -1,32 +1,32 @@
 if (window.location.hostname.includes("web.archive.org")) {
-  document.querySelectorAll("a[href*='web.archive.org/web/']").forEach(a => {
-    let href = a.getAttribute("href");
-    
-    // ignora se já contém "if_" (modo de exibição)
-    if (/^https:\/\/web\.archive\.org\/web\/\d+\//.test(href) && !/if_/.test(href)) {
-      // adiciona "if_" após o timestamp
-      href = href.replace(/(https:\/\/web\.archive\.org\/web\/\d+)\//, "$1if_/");
-      a.setAttribute("href", href);
-    }
-  });
-  console.log("✅ Links ajustados para modo de exibição (if_).");
+ document.querySelectorAll("a[href*='web.archive.org/web/']").forEach(a => {
+  let href = a.getAttribute("href");
+  
+  // ignora se já contém "if_" (modo de exibição)
+  if (/^https:\/\/web\.archive\.org\/web\/\d+\//.test(href) && !/if_/.test(href)) {
+   // adiciona "if_" após o timestamp
+   href = href.replace(/(https:\/\/web\.archive\.org\/web\/\d+)\//, "$1if_/");
+   a.setAttribute("href", href);
+  }
+ });
+ console.log("✅ Links ajustados para modo de exibição (if_).");
 }
 
 // new code up there
 
 function saveToWayback() {
-  var e = document.getElementById("urlInput").value;
-  e ? (e = "https://web.archive.org/save/" + encodeURIComponent(e), window.open(e, "_blank")) : alert("Por favor, insira uma URL válida.")
+ var e = document.getElementById("urlInput").value;
+ e ? (e = "https://web.archive.org/save/" + encodeURIComponent(e), window.open(e, "_blank")) : alert("Por favor, insira uma URL válida.")
 }
 
 function filterItems() {
-  const t = document.querySelector(".search-input").value.toLowerCase();
-  document.querySelectorAll(".link-item").forEach(e => {
-    var s = e.querySelector("a").textContent.toLowerCase(),
-      a = e.querySelector(".date").textContent.toLowerCase(),
-      i = e.querySelector("hr");
-    s.includes(t) || a.includes(t) ? (e.style.display = "", i.style.display = "") : (e.style.display = "none", i.style.display = "none")
-  })
+ const t = document.querySelector(".search-input").value.toLowerCase();
+ document.querySelectorAll(".link-item").forEach(e => {
+  var s = e.querySelector("a").textContent.toLowerCase(),
+   a = e.querySelector(".date").textContent.toLowerCase(),
+   i = e.querySelector("hr");
+  s.includes(t) || a.includes(t) ? (e.style.display = "", i.style.display = "") : (e.style.display = "none", i.style.display = "none")
+ })
 }
 
 const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML = `<div id="links">
@@ -37,7 +37,22 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-<div class="link-item"><a href="https://archive.org/details/omaskaraaserieanimada"/>o máscara série animada/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+
+<div class="link-item"><a href="https://archive.org/details/popeye-desenho"/>popoye 75th anniversary (1960) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/pliceplocechuvisco1958"/>plic e ploc e chuvisco (1958) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/PepeLegaldublado1959"/>pepe legal (1959) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/os-ursinhos-gummi-dublado"/>os ursinhos gummi (1985) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/os-muzzarelas-1972_202606"/>os muzzarelas (1972) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/o-fantastico-mundo-de-bobby"/>o fantástico mundo de bobby (1990) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/o-coisa-s-dublado"/>o coisa (1979) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/gasparzinho-e-seus-amigos_202606"/>gasparzinho e seus amigos (1945) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/ULTRAMAN-dubl"/>ultraman (1966) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/o-incrivel-hulk-1977"/>o incrível hulk (1977) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/beakman-dubl"/>o mundo de beakman (1992) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/familia-dinossauros-dubl"/>família dinossauros (1991) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/brickleberrydublado_202607"/>brickleberry (2012) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/o-inspetor-dublado"/>o inspetor (1965) série animada/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/omaskaraaserieanimada"/>o máscara (1995) série animada/</a><p class="date">sep 15, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://pirataria.link/"/>links de pirataria/</a><p class="date">sep 15, 2026 </p> <hr> </div>
 <div class="link-item"><a href="assets/pdf/aula/redes/redes_mikrotik.docx"/>redes mikrotik/</a><p class="date">sep 15, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://files2.codecguide.com/K-Lite_Codec_Pack_1995_Full.exe"/>K-Lite Codec Pack 1995 Full.exe/</a><p class="date">sep 14, 2026 </p> <hr> </div>
