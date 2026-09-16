@@ -37,6 +37,9 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/TheMidnightGospel2020Dublado"/>the midnight gospel (2020) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/Spectremandublado"/>spectreman (1971) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/a-pantera-cor-de-rosa-completo"/>a pantera cor de rosa completo dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/He-ManeosDefensoresdoUniversoDublado"/>he-man e os defensores do universo (1983) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/carangos-e-motocas-dublado"/>carangos e motocas (1974) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/ze-buscape-dublado"/>zé buscapé (1965) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
