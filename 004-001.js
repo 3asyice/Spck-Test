@@ -37,7 +37,21 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-
+<div class="link-item"><a href="https://archive.org/details/He-ManeosDefensoresdoUniversoDublado"/>he-man e os defensores do universo (1983) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/carangos-e-motocas-dublado"/>carangos e motocas (1974) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/ze-buscape-dublado"/>zé buscapé (1965) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/karate-kid-1989"/>the karatê kid (1989) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/leao-da-montanha-dublado"/>leão da montanha (1961) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/jackson5desenho-1971"/>jackson 5 (1971) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/lippy-hardy-dublado"/>lippy e hardy (1962) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/MisterMagoodublado"/>mister magoo (1949 - 1959) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/the-transformers-dublado"/>the transformers (1984) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/tintin-e-o-lago-dos-tubaroes-1972-dublado"/>as aventuras de tintin dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/thundercatsdublado"/>thundercats completo dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/the-tick-a-serie-animada"/>the tick (1994) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/street-fighter-ii-Victory"/>street fighter (1995) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/spaceghost1966dublado"/>space ghost (1966) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/She-RaAPrincesadoPoder"/>she-ra - a princesa do poder (1985) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/popeye-desenho"/>popoye 75th anniversary (1960) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/pliceplocechuvisco1958"/>plic e ploc e chuvisco (1958) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/PepeLegaldublado1959"/>pepe legal (1959) dublado/</a><p class="date">sep 15, 2026 </p> <hr> </div>
