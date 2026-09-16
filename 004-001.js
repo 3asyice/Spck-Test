@@ -37,7 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-<div class="link-item"><a href="https://archive.org/details/donnie-darko-directors-cut-DVD"/>donnie darko - director cuts/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/donnie-darko-directors-cut-DVD"/>donnie darko - directors cut/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/disc-8_20230612"/>spongebob square pants/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/ghost-in-the-shell-r4br-dvdiso"/>ghost in the shell/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/a-viagem-de-chihiro-r4br-dvdiso"/>a viagem de Chihiro/</a><p class="date">sep 16, 2026 </p> <hr> </div>
