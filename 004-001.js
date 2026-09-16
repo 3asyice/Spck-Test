@@ -37,6 +37,24 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/homem-aranhaaserieclassica"/>homem aranha - série clássica (1977) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/beetlejuice1989dublado"/>os fantasmas se divertem (1989) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/duck-tales-dublado"/>ducktales - dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/homem-aranhaaserieanimada"/>homem aranha (1994 - 1998) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/homempassaro1967"/>homem pássaro (1967) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/homem-elastico1979dublado"/>homem elástico (1979) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/aformigaatomica1965-1968dublado"/>a formiga atômica (1965 - 1968) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/apedradossonhosdublado"/>a pedra dos sonhos (1990 - 1995) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/cavernadodragaodublado1983"/>caverna do dragão (1983 - 1986) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/CavalodeFogo1986Dublado"/>cavalo de fogo - wild fire (1986) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/faisca-e-fumacaDublado"/>faísca e fumaça (1946) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/prison-school2015legendado"/>prison school (2015) legendado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/TurboMan-1984Dublado"/>turbo man (1984) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/BozoShowopalhacomaisfamosodomundo"/>bozo show o palhaço  mais famoso do mundo (1958) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/herculoides19671981dublado"/>herculoides (1964 - 1981) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/hong-kong-fu-dublado"/>hong kong fu (1974) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/devoltaparaofuturoaserieanimada1991-1992"/>de volta para o futuro (1992 - 1992) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/pinkyecerebro1995-1998dublado"/>pinky e cérebro (1995 - 1998) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/TheMidnightGospel2020Dublado"/>the midnight gospel (2020) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/Spectremandublado"/>spectreman (1971) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/a-pantera-cor-de-rosa-completo"/>a pantera cor de rosa completo dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
