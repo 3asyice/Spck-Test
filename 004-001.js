@@ -37,6 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/omaskaraaserieanimada"/>o máscara série animada/</a><p class="date">sep 15, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://pirataria.link/"/>links de pirataria/</a><p class="date">sep 15, 2026 </p> <hr> </div>
 <div class="link-item"><a href="assets/pdf/aula/redes/redes_mikrotik.docx"/>redes mikrotik/</a><p class="date">sep 15, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://files2.codecguide.com/K-Lite_Codec_Pack_1995_Full.exe"/>K-Lite Codec Pack 1995 Full.exe/</a><p class="date">sep 14, 2026 </p> <hr> </div>
