@@ -37,6 +37,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/brasileirinhas-estupro-de-angel-r4br-dvdiso"/>angel rape brasileirinhas/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/corrida-malucadublado"/>corrida maluca (1968 - 1969) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/CosmosUmaViagemPessoal"/>cosmos uma viagem pessoal (1980) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/Freakazoiddublado"/>freakazoid (1995) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/homem-aranhaaserieclassica"/>homem aranha - série clássica (1977) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
