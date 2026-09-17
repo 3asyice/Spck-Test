@@ -36,6 +36,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://www.tokyvideo.com/br/video/upgrade-atualizacao-2018"/>upgrade atualização (2018) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/se7en-os-sete-crimes-capitais-1995-crime-terror-2h-10m"/>s7ven - os sete crimes capitais (1995) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/memorias-de-um-assassino-2003-thriller-crime"/>memórias de um assassino (2003) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/va-e-veja-1985-2h-26m"/>vá e veja (1985) legendado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
