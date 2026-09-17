@@ -36,7 +36,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-<div class="link-item"><a href="https://www.tokyvideo.com/br/video/um-tiro-na-noite-1981-leg-1h-48m"/>um tiro na noite (1981) legendado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://youtu.be/Kx_cGtu5GKw?is=cgbSYNfnp_VHYew7"/>um tiro na noite (1981) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DTt5HXabUmY0&ved=2ahUKEwiXtriqwfSWAxUoQ_EDHe4kGYsQwqsBegQIFRAB&usg=AOvVaw3szrJqoCnZ8gZPHdzSgs0q"/>para sempre lilya (2002) legendado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/dancando-no-escuro-2000"/>dançando no escuro (2000) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/0-0wadi609relatorio-final-/Relat%C3%B3rio%20final%20%281%29%20%281%29.pdf"/>relatório - metodologia de estágio (rubia kruger).pdf/</a><p class="date">sep 16, 2026 </p> <hr> </div>
