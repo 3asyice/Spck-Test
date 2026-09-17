@@ -36,6 +36,11 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://www.tokyvideo.com/br/video/se7en-os-sete-crimes-capitais-1995-crime-terror-2h-10m"/>s7ven - os sete crimes capitais (1995) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://www.tokyvideo.com/br/video/memorias-de-um-assassino-2003-thriller-crime"/>memórias de um assassino (2003) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://www.tokyvideo.com/br/video/va-e-veja-1985-2h-26m"/>vá e veja (1985) legendado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://rutube.ru/video/659169b1fb56ca21584476b55f7550a5/"/>vergonha (2011) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://youtu.be/twbDJqEcTmE?is=eK5y7bv86ZrfSp0u"/>melancholia (2011) legendado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/Kx_cGtu5GKw?is=cgbSYNfnp_VHYew7"/>um tiro na noite (1981) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3DTt5HXabUmY0&ved=2ahUKEwiXtriqwfSWAxUoQ_EDHe4kGYsQwqsBegQIFRAB&usg=AOvVaw3szrJqoCnZ8gZPHdzSgs0q"/>para sempre lilya (2002) legendado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/dancando-no-escuro-2000"/>dançando no escuro (2000) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
