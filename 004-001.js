@@ -37,6 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/avatar-2009-dvd-04-03-2010"/>avatar (2010)/</a><p class="date">sep 18, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/hotel-transilvania-hotel-transylvania-dvd-08-12-2012"/>hotel Transylvania (2012)/</a><p class="date">sep 18, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/xuxinha-e-guto-contra-os-monstros-do-espaco-xuxinha-e-guto-dvd-18-04-2006"/>xuxinha e guto contra os monstros do espaço (2006)/</a><p class="date">sep 18, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/hora-de-aventura-2-temporada-volume-2-adtd-2-dvd-03-09-2015"/>hora de aventura vol 2 (2015)/</a><p class="date">sep 18, 2026 </p> <hr> </div>
