@@ -36,6 +36,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+
+<div class="link-item"><a href="https://archive.org/details/o-diabo-veste-prada-2006-the-devil-wears-parda-dvd-14-12-2006/"/>o diabo veste prada (2006) dublado/</a><p class="date">sep 18, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/galinha-pintadinha-2-galinha-pintadinha-2-dvd-15-09-2010"/>galinha pintadinha vol 2/</a><p class="date">sep 18, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/galinha-pintadinha_20260622"/>galinha pintadinha e sua turma/</a><p class="date">sep 18, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/requiem-para-um-sonho-2000-dublado-1080p"/>requiém para um sonho (2000) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
