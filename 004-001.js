@@ -35,7 +35,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-/
+
 <div class="link-item"><a href="https://archive.org/details/galinha-pintadinha_20260622"/>galinha pintadinha e sua turma/</a><p class="date">sep 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/requiem-para-um-sonho-2000-dublado-1080p"/>requiém para um sonho (2000) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/upgrade-atualizacao-2018"/>upgrade atualização (2018) dublado/</a><p class="date">sep 16, 2026 </p> <hr> </div>
