@@ -37,6 +37,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+
+<div class="link-item"><a href="https://archive.org/details/sunshine-sunshine"/>sunshine album sunshine/</a><p class="date">sep 20, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20260919113717if_/https://rad609.bar/"/>radio fm 609 last saved/</a><p class="date">sep 19, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/avatar-2009-dvd-04-03-2010"/>avatar (2010)/</a><p class="date">sep 18, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/hotel-transilvania-hotel-transylvania-dvd-08-12-2012"/>hotel Transylvania (2012)/</a><p class="date">sep 18, 2026 </p> <hr> </div>
