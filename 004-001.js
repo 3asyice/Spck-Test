@@ -38,6 +38,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://ia601508.us.archive.org/30/items/spin-soldier/giordan_kruger_accident_.ia.mp4"/>giordan iago kruger breuning - fatal death/</a><p class="date">sep 21, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/sunshine-sunshine"/>sunshine album sunshine/</a><p class="date">sep 20, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20260919113717if_/https://rad609.bar/"/>radio fm 609 last saved/</a><p class="date">sep 19, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/avatar-2009-dvd-04-03-2010"/>avatar (2010)/</a><p class="date">sep 18, 2026 </p> <hr> </div>
