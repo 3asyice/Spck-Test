@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TV Aleatória</title>
+</head>
+
+<body>
+
+<div class="tv-player">
+
+  <div class="tv-screen">
+
+    <video id="tvVideo" controls playsinline></video>
+
+    <div id="tvMessage" class="tv-message">
+      <span>▶</span>
+      <p>Pressione PLAY para iniciar</p>
+    </div>
+
+  </div>
+
+  <div class="tv-controls">
+
+    <button id="playButton" type="button">
+      ▶ PLAY
+    </button>
+
+    <div class="tv-status" id="tvStatus">
+      TV DESLIGADA
+    </div>
+
+  </div>
+
+</div>
+
+
+<style>
+
+.tv-player {
+  width: 100%;
+  max-width: 900px;
+  margin: auto;
+  background: #111;
+  padding: 15px;
+  border-radius: 12px;
+  box-sizing: border-box;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.tv-screen {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  background: #000;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+.tv-screen video {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.tv-message {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #aaa;
+  background: #000;
+  pointer-events: none;
+}
+
+.tv-message span {
+  font-size: 55px;
+}
+
+.tv-message p {
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.tv-controls {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-top: 12px;
+}
+
+#playButton {
+  border: 0;
+  border-radius: 6px;
+  padding: 12px 22px;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  background: #fff;
+  color: #111;
+}
+
+#playButton:hover {
+  background: #ddd;
+}
+
+.tv-status {
+  color: #aaa;
+  font-size: 13px;
+}
+
+</style>
+
+
+<script>
+
+/* =========================================================
+   PLAYLIST
+   ========================================================= */
+
+const playlist = [
+
+  "https://dn720307.ca.archive.org/0/items/acustico-mtv-engenheiros-do-hawaii/MTV%20Acustico%20Engenheiros%20do%20Hawaii.mp4",
+
+  "https://dn710005.ca.archive.org/0/items/music-videos-MTVgermany-part1/DaneTV%20MTV%20GR1.mp4",
+
+  "https://dn721600.ca.archive.org/0/items/music-videos-MTVgermany-part2/DaneTV%20MTV%20GR2.mp4",
+
+  "https://dn710203.ca.archive.org/0/items/MTVXmas-Top100/DaneTV%20-%20MTV%20Xmas%20Top%20100.mp4",
+
+  "https://dn720308.ca.archive.org/0/items/u2-pop-mart-tour-98/U2%20Pop%20Mart%20Tour%2098%20Making%20Of.mp4"
+
+];
+
+
+/* =========================================================
+   ELEMENTOS
+   ========================================================= */
+
+const video = document.getElementById("tvVideo");
+const playButton = document.getElementById("playButton");
+const tvMessage = document.getElementById("tvMessage");
+const tvStatus = document.getElementById("tvStatus");
+
+
+/* =========================================================
+   ESTADO DA TV
+   ========================================================= */
+
+let fila = [];
+
+let ultimoVideo = null;
+
+let tvLigada = false;
+
+
+/* =========================================================
+   EMBARALHAR
+   Fisher-Yates
+   ========================================================= */
+
+function embaralhar(array) {
+
+  const resultado = [...array];
+
+  for (let i = resultado.length - 1; i > 0; i--) {
+
+    const j = Math.floor(Math.random() * (i + 1));
+
+    [resultado[i], resultado[j]] =
+    [resultado[j], resultado[i]];
+
+  }
+
+  return resultado;
+}
+
+
+/* =========================================================
+   CRIAR NOVA FILA
+   ========================================================= */
+
+function criarNovaFila() {
+
+  if (playlist.length === 0) {
+    fila = [];
+    return;
+  }
+
+  /*
+     Embaralha a playlist.
+  */
+
+  let novaFila;
+
+  do {
+
+    novaFila = embaralhar(playlist);
+
+  }
+
+  /*
+     Se houver mais de um vídeo,
+     evita que o primeiro da nova rodada
+     seja igual ao último da rodada anterior.
+  */
+
+  while (
+    playlist.length > 1 &&
+    novaFila[0] === ultimoVideo
+  );
+
+  fila = novaFila;
+
+}
+
+
+/* =========================================================
+   PEGAR PRÓXIMO VÍDEO
+   ========================================================= */
+
+function proximoVideo() {
+
+  if (playlist.length === 0) {
+
+    tvStatus.textContent = "PLAYLIST VAZIA";
+
+    return;
+
+  }
+
+
+  /*
+     Se não existem vídeos na fila,
+     começa uma nova rodada.
+  */
+
+  if (fila.length === 0) {
+
+    criarNovaFila();
+
+  }
+
+
+  /*
+     Remove o primeiro vídeo da fila.
+  */
+
+  const url = fila.shift();
+
+
+  /*
+     Guarda qual foi o último vídeo.
+  */
+
+  ultimoVideo = url;
+
+
+  /*
+     Define o vídeo.
+  */
+
+  video.src = url;
+
+
+  /*
+     Mostra o vídeo.
+  */
+
+  tvMessage.style.display = "none";
+
+
+  /*
+     Reproduz.
+  */
+
+  const tentativa = video.play();
+
+
+  /*
+     Alguns navegadores retornam uma Promise
+     para play().
+  */
+
+  if (tentativa !== undefined) {
+
+    tentativa
+      .then(function() {
+
+        tvLigada = true;
+
+        playButton.textContent = "▶ TOCANDO";
+
+        tvStatus.textContent = "REPRODUZINDO";
+
+      })
+      .catch(function() {
+
+        tvStatus.textContent =
+          "PRESSIONE PLAY PARA REPRODUZIR";
+
+      });
+
+  }
+
+}
+
+
+/* =========================================================
+   BOTÃO PLAY
+   ========================================================= */
+
+playButton.addEventListener("click", function() {
+
+  /*
+     Se a TV ainda não começou,
+     inicia um vídeo aleatório.
+  */
+
+  if (!tvLigada) {
+
+    proximoVideo();
+
+    return;
+
+  }
+
+
+  /*
+     IMPORTANTE:
+     se já estiver tocando, não troca
+     o vídeo.
+
+     Apenas continua/recomeça a reprodução.
+  */
+
+  if (video.paused) {
+
+    video.play();
+
+  }
+
+});
+
+
+/* =========================================================
+   QUANDO O VÍDEO TERMINAR
+   ========================================================= */
+
+video.addEventListener("ended", function() {
+
+  /*
+     Automaticamente passa para
+     o próximo vídeo da sequência.
+  */
+
+  proximoVideo();
+
+});
+
+
+/* =========================================================
+   CARREGANDO
+   ========================================================= */
+
+video.addEventListener("waiting", function() {
+
+  tvStatus.textContent = "CARREGANDO...";
+
+});
+
+
+/* =========================================================
+   COMEÇOU A REPRODUZIR
+   ========================================================= */
+
+video.addEventListener("playing", function() {
+
+  tvLigada = true;
+
+  playButton.textContent = "▶ TOCANDO";
+
+  tvStatus.textContent = "REPRODUZINDO";
+
+});
+
+
+/* =========================================================
+   PAUSADO
+   ========================================================= */
+
+video.addEventListener("pause", function() {
+
+  /*
+     Não altera tvLigada porque a TV continua
+     ligada mesmo quando o usuário pausa.
+  */
+
+  if (!video.ended && video.currentTime > 0) {
+
+    playButton.textContent = "▶ CONTINUAR";
+
+    tvStatus.textContent = "PAUSADO";
+
+  }
+
+});
+
+
+/* =========================================================
+   ERRO
+   ========================================================= */
+
+video.addEventListener("error", function() {
+
+  tvStatus.textContent =
+    "ERRO AO CARREGAR VÍDEO";
+
+});
+
+</script>
+
+</body>
+</html>
