@@ -38,7 +38,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-<div class="link-item"><a href="https://archive.org/details/o-tumulo-dos-vagalumes-1988-dublado"/>o túmulo dos vagalumes (1988) dublado/</a><p class="date">sep 22, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/serial-experiments-lain-09-dublado/"/>serial experiments lain/</a><p class="date">sep 22, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/o-gigante-de-ferro-1999-dual-audio"/>o gigante de ferro (1999) dublado/</a><p class="date">sep 22, 2026 </p> <hr> </div>
 <div class="link-item"><a href="/mtv-channel.html"/>mtv channel/</a><p class="date">sep 22, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/mtv-00s-get-the-party-started-04112023-1"/>mtv 00s get the party started (2023)/</a><p class="date">sep 22, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://ia601508.us.archive.org/30/items/spin-soldier/giordan_kruger_accident_.ia.mp4"/>giordan iago kruger breuning - fatal death/</a><p class="date">sep 21, 2026 </p> <hr> </div>
