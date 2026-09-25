@@ -38,6 +38,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/0-d6ark0-ma9tter-soundtrack609"/>dark matter series soundtrack.mp3/</a><p class="date">sep 24, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/0-p6l0a9ylist-gui2026"/>playlist of mine (2026).mp3/</a><p class="date">sep 24, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://amongtretas.online/perfil"/>among tretas rede social/</a><p class="date">sep 22, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://dn760103.eu.archive.org/0/items/godfather_202312/Godfather.mp4"/>the godfather trilogy/</a><p class="date">sep 22, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/serial-experiments-lain-09-dublado/"/>serial experiments lain/</a><p class="date">sep 22, 2026 </p> <hr> </div>
