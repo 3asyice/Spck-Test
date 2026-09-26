@@ -39,6 +39,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/Nacional-Mp3/"/>músicas nacionais.mp3/</a><p class="date">sep 25, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/pubrock/"/>rock and roll.mp3/</a><p class="date">sep 25, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/Nirvana_LooseEnds/"/>nirvana - loose ends [bootleg]/</a><p class="date">sep 24, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/nirvana-incesticide_202603_202603/"/>nirvana - incesticide album/</a><p class="date">sep 24, 2026 </p> <hr> </div>
