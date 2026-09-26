@@ -39,6 +39,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://3asyice.github.io/Radio/"/>rádio radio fm 609 original url/</a><p class="date">sep 25, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/Radio/pesquise"/>pesquisa inteligente original url/</a><p class="date">sep 25, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/Nacional-Mp3/"/>músicas nacionais.mp3/</a><p class="date">sep 25, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/pubrock/"/>rock and roll.mp3/</a><p class="date">sep 25, 2026 </p> <hr> </div>
