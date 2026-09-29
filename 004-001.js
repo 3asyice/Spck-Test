@@ -38,6 +38,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://ia601508.us.archive.org/30/items/spin-soldier/debate_presidencial_2026_ago_ptbr_.ia.mp4"/>band debate presidencial 23 ago 2026/</a><p class="date">sep 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://turboscribe.ai/pt/downloader/youtube/mp4"/>YouTube to mp4 temporary url/</a><p class="date">sep 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/0-p6l0a9ylist-gui2026/my_fucking_radio_bitch_609.apk"/>radio fm 609.apk - Full experience/</a><p class="date">sep 26, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/Radio/"/>rádio radio fm 609 original url/</a><p class="date">sep 25, 2026 </p> <hr> </div>
