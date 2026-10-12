@@ -38,7 +38,8 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-<div class="link-item"><a href="https://3asyice.github.io/Radio/page/2026/oct/elaine.html"/>Aniversario de namoro Elaine/</a><p class="date">oct 11, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://3asyice.github.io/Radio/page/2025/dez/dreams.html"/>sonhos de guilherme/</a><p class="date">oct 11, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://3asyice.github.io/Radio/page/2026/oct/elaine.html"/>6 meses de namoro Elaine/</a><p class="date">oct 11, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://ia601508.us.archive.org/30/items/spin-soldier/Screenrecorder-2026-10-07-01-14-43-981.mp4"/>cozinha nc steakhouse wpp group/</a><p class="date">oct 07, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://ia601508.us.archive.org/30/items/spin-soldier/Screenrecorder-2026-01-17-00-33-37-639.mp4"/>2 hours of motivational Instagram videos/</a><p class="date">oct 07, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/7IkyLfuQpXY"/>carrie (2002) english/</a><p class="date">oct 06, 2026 </p> <hr> </div>
@@ -375,7 +376,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
  <div class="link-item"><a href="https://3asyice.github.io/SixOhNine/script/emporionossacasa/SandraRaugust.html"/>Sandra Teixeira Raugust/</a><p class="date">mar 01, 2026 </p> <hr> </div>
  <div class="link-item"><a href="https://3asyice.github.io/SixOhNine/script/emporionossacasa/JonasBarrachini.html"/>Jonas Tiago Dudar Barrachini/</a><p class="date">mar 01, 2026 </p> <hr> </div>
  <div class="link-item"><a href="https://3asyice.github.io/SixOhNine/script/sidebar/restaurante.html"/>steakhouse funcionários/</a><p class="date">mar 01, 2026 </p> <hr> </div>
- <div class="link-item"><a href="https://rad609.bar/page/2026/fev/job_tauan.html#"/>tauan do job joke/</a><p class="date">mar 01, 2026 </p> <hr> </div>
+ <div class="link-item"><a href="https://3asyice.github.io/Radio/page/2026/fev/job_tauan.html"/>tauan do job joke/</a><p class="date">mar 01, 2026 </p> <hr> </div>
  <div class="link-item"><a href="https://web.archive.org/web/20260301032155id_/https://www.cartacapital.com.br/mundo/ataque-israelense-mata-mais-de-50-alunas-de-escola-feminina-no-ira/"/>ataque insraelense/</a><p class="date">feb 28, 2026 </p> <hr> </div>
  <div class="link-item"><a href="https://web.archive.org/web/20260301022742id_/https://www.brasil247.com/mundo/a-terceira-guerra-mundial-comecou"/>3ª guerra mundial?/</a><p class="date">feb 28, 2026 </p> <hr> </div>
  <div class="link-item"><a href="https://archive.org/details/0-the-100"/>the 100 series/</a><p class="date">feb 23, 2026 </p> <hr> </div>
