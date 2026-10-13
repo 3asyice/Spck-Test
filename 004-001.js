@@ -38,6 +38,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://3asyice.github.io/Radio/page/2026/oct/index.html"/>controle de estoque para nc steakhouse/</a><p class="date">oct 12, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/Radio/page/2025/dez/dreams.html"/>sonhos de guilherme/</a><p class="date">oct 11, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/Radio/page/2026/oct/elaine.html"/>6 meses de namoro Elaine/</a><p class="date">oct 11, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://ia601508.us.archive.org/30/items/spin-soldier/Screenrecorder-2026-10-07-01-14-43-981.mp4"/>cozinha nc steakhouse wpp group/</a><p class="date">oct 07, 2026 </p> <hr> </div>
