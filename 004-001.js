@@ -38,6 +38,12 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/details/RedesDeComputadoreseaInternet/mode/2up"/>redes de computadores e a internet/</a><p class="date">oct 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/download/HistriaGeralDaCivilizaoBrasileiraV11EconomiaECultura19301964"/>história geral da civilização brasileira/</a><p class="date">oct 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/HistriaSecretaDoBrasil1PorGustavoBarroso"/>história secreta do Brasil por Gustavo barroso.pdf/</a><p class="date">oct 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/SegurancaDaInformacao"/>segurança da informação.pdf/</a><p class="date">oct 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/carburadores-mecanica-e-manutencao"/>mecânica e manutenção.pdf/</a><p class="date">oct 16, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://archive.org/details/deitel-sistemas-operacionais-3a/page/n11/mode/2up"/>sistemas operacionais internet archive/</a><p class="date">oct 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/0-609609609material-didatico-de-redes-e-infraestrutura-1"/>material Didático de redes e infraestrutura/</a><p class="date">oct 15, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/q7RpBTjG3jk"/>carrie s1 e1/</a><p class="date">oct 14, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://stockroom-brvpynjt.manus.space/"/>controle de estoque para nc steakhouse manus.im/</a><p class="date">oct 12, 2026 </p> <hr> </div>
