@@ -38,6 +38,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://web.archive.org/web/20261017214641/https://ndmais.com.br/transito/identificados-jovens-de-18-anos-que-morreram-em-acidente-gravissimo-em-blumenau-dedicaram-seu-tempo-ao-servico-de-deus/"/> andrei dallabrida e Thiago nunes morte/</a><p class="date">oct 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/RedesDeComputadoreseaInternet/mode/2up"/>redes de computadores e a internet/</a><p class="date">oct 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/HistriaGeralDaCivilizaoBrasileiraV11EconomiaECultura19301964"/>história geral da civilização brasileira/</a><p class="date">oct 16, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/HistriaSecretaDoBrasil1PorGustavoBarroso"/>história secreta do Brasil por Gustavo barroso.pdf/</a><p class="date">oct 16, 2026 </p> <hr> </div>
