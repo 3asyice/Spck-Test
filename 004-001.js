@@ -37,6 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://archive.org/download/evento-do-vini/meu%20na.zip"/>pictures.zip/</a><p class="date">oct 23, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20260919113737id_/https://archive004.site/"/>archived media 004/</a><p class="date">oct 23, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/mtv-special-lp-tvsvideos/"/>all linkin park videos mtv/</a><p class="date">oct 22, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://lumina-mtjgcbpz.manus.space/"/>pesquisa Inteligente manus.im version/</a><p class="date">oct 22, 2026 </p> <hr> </div>
