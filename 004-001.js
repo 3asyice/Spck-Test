@@ -32,11 +32,23 @@ function filterItems() {
 const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML = `<div id="links">
 
 
+ferramentas de ia
+https://eventsonair.withyoutube.com/events/aprendacomoyoutube-br-2026?talk=aula5-aitools
+
+youtube analytics e mensuração 
+https://eventsonair.withyoutube.com/events/aprendacomoyoutube-br-2026?talk=aula4-analytics
 
 
 
 
-
+<div class="link-item"><a href="https://youtu.be/5OKMXrvxO-0?si=Fm5FPt33u4KKqEkE"/>youtube - como começo a criar conteúdo pro meu canal?/</a><p class="date">nov 01, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://youtu.be/icpMR9bZoYg?si=Z1qOxKQHCyuKb0eT"/>youtube - como fazer meu canal crescer?/</a><p class="date">nov 01, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://youtu.be/zx-vPm94WV0?si=oD9OQ4yhzXnWzis0"/>youtube - como fazer edições no meu canal?/</a><p class="date">nov 01, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://youtu.be/iCbn31svcBg?si=hw4ZlVCPDbJyhT5Z"/>youtube - como promover os seus vídeos?/</a><p class="date">nov 01, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://youtu.be/GOHWPVMPq84?si=qiT_kPKuWDN9cstehttps://youtu.be/GOHWPVMPq84?si=qiT_kPKuWDN9cste"/>youtube - como o algoritmo funciona?/</a><p class="date">nov 01, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://youtu.be/ESTA9hCvbGY?si=PsxxKnPEkFa-0iXW"/>youtube - youtube shopping/</a><p class="date">nov 01, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://youtu.be/1rlRZpl-szY?si=Tsj4ZEf1tgg38MNO"/>youtube - monetizando o seu canal/</a><p class="date">nov 01, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://youtu.be/dFoB8uh_s-M?si=Kh-cMQClyYm_SIcN"/>youtube - construa um canal de sucesso/</a><p class="date">nov 01, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/Arsenal/script/page/hetero.html"/>arsenalG straight/</a><p class="date">oct 29, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/download/evento-do-vini/meu%20na.zip"/>pictures.zip/</a><p class="date">oct 23, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20260919113737id_/https://archive004.site/"/>archived media 004/</a><p class="date">oct 23, 2026 </p> <hr> </div>
