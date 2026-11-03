@@ -39,6 +39,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://youtu.be/gD1FCNRjz04?si=SvBf3ce3QMZElzyb"/>oração do infante</a><p class="date">nov 03, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://eventsonair.withyoutube.com/events/aprendacomoyoutube-br-2026?talk=aula5-aitools"/>youtube - ferramentas de ia</a><p class="date">nov 01, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://eventsonair.withyoutube.com/events/aprendacomoyoutube-br-2026?talk=aula4-analytics"/>youtube - analytics e mensuração /</a><p class="date">nov 01, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/5OKMXrvxO-0?si=Fm5FPt33u4KKqEkE"/>youtube - como começo a criar conteúdo pro meu canal?/</a><p class="date">nov 01, 2026 </p> <hr> </div>
