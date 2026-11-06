@@ -38,6 +38,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://learn-anything.xyz/"/>learn-anything.xyz/</a><p class="date">nov 05, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/BlackMirrorwiki/"/>tudo sobre black mirror/</a><p class="date">nov 04, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/gD1FCNRjz04?si=SvBf3ce3QMZElzyb"/>oração do infante/</a><p class="date">nov 03, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://eventsonair.withyoutube.com/events/aprendacomoyoutube-br-2026?talk=aula5-aitools"/>youtube - ferramentas de ia/</a><p class="date">nov 01, 2026 </p> <hr> </div>
