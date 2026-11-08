@@ -1,299 +1,537 @@
-
+```css
 @import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap');
 
-/* Configuração geral — estilo web de 1999 */
+@font-face {
+  font-family: 'OCRA';
+  src: url('assets/font/ocra.otf') format('opentype');
+  font-display: swap;
+}
+
+/* ==============================
+   CONFIGURAÇÕES GERAIS
+============================== */
 
 * {
   box-sizing: border-box;
-  font-family: "Times New Roman", Times, serif;
-  font-size: 16px;
+  font-family: 'OCRA', monospace;
 }
 
 html,
 body {
   width: 100%;
+  min-height: 100%;
   margin: 0;
-  padding: 0;
-  background: #eeeeee;
-  color: #000000;
+  background: #08090a;
+  color: #c5c7c9;
+  overflow-x: hidden;
   overflow-y: auto;
 }
 
-/* Título */
-
-.h1__title {
-  text-align: center;
-  font-family: "Times New Roman", serif;
-  font-size: 32px;
-  font-weight: bold;
-  color: #000080;
-  background: #ffffff;
-  padding: 25px 10px;
-  margin: 0;
-  text-shadow: none;
-  background-image: none;
+body {
+  font-size: 14px;
 }
 
-/* Campo de pesquisa */
+/* ==============================
+   CABEÇALHO
+============================== */
+
+.h1__title {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  padding: 50px 15px;
+
+  color: #e6e6e6;
+  font-family: 'OCRA', monospace;
+  font-size: 34px;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  text-shadow: 2px 2px 5px #000;
+
+  background-image:
+    linear-gradient(#0009, #000c),
+    url('https://web.archive.org/web/20250605120657/https://www.big-loser.site/Caso/img/004.png'),
+    repeating-linear-gradient(
+      to bottom,
+      #252525,
+      #252525 1px,
+      #08090a 1px,
+      #08090a 3px
+    );
+
+  background-size: cover, 180px auto, cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  border-bottom: 2px solid #8d1018;
+}
+
+/* ==============================
+   PESQUISA
+============================== */
 
 #search {
   display: block;
   width: 250px;
-  margin: 20px auto;
-  padding: 4px;
-  background: #ffffff;
-  color: #000000;
-  border: 2px inset #cccccc;
-  font-family: Arial, sans-serif;
-  font-size: 13px;
+  max-width: 85%;
+  margin: 50px auto;
+  padding: 7px;
+
+  color: #e5e5e5;
+  background: #151719;
+  border: 1px solid #7d171d;
   outline: none;
+
+  font-family: 'OCRA', monospace;
+  font-size: 14px;
+
+  appearance: textfield;
+  transition: background .2s, box-shadow .2s;
 }
 
 #search:focus {
-  outline: auto;
+  background: #202326;
+  border-color: #c21e29;
+  box-shadow: 0 0 8px #a3131d66;
 }
 
-/* Área de salvamento */
+/* ==============================
+   SALVAR LINKS
+============================== */
 
 section.save {
   width: 100%;
   text-align: center;
-  padding: 15px;
-  background: #dddddd;
-  background-image: none;
+  justify-content: center;
+
+  background:
+    repeating-linear-gradient(
+      to bottom,
+      #1b1d1f,
+      #1b1d1f 1px,
+      #090a0b 1px,
+      #090a0b 3px
+    );
+
+  border-top: 1px solid #333638;
+  border-bottom: 1px solid #651017;
 }
 
 #urlInput {
   width: 80%;
-  height: 25px;
-  background: #ffffff;
-  color: #000000;
-  border: 2px inset #cccccc;
-  font-family: Arial, sans-serif;
-  font-size: 13px;
+  height: 30px;
+  padding: 5px;
+
+  color: #dedede;
+  background: #111315;
+  border: 1px solid #5b2024;
+
+  font-size: 12px;
+  font-weight: 400;
+  text-align: center;
 }
 
 #urlInput::placeholder {
-  color: #777777;
+  color: #a33b42;
+  font-family: 'OCRA', monospace;
 }
 
 #urlInput:focus {
-  outline: auto;
+  outline: 1px solid #a81924;
 }
 
 section.save button {
-  margin-top: 10px;
-  padding: 4px 12px;
-  background: #dddddd;
-  color: #000000;
-  border: 2px outset #eeeeee;
+  margin-top: 15px;
+  padding: 7px 12px;
+
+  color: #d5d5d5;
+  background: #181a1c;
+  border: 1px solid #851922;
   border-radius: 0;
-  font-family: Arial, sans-serif;
+
+  font-family: 'OCRA', monospace;
   font-size: 13px;
+
   cursor: pointer;
+  transition: .2s;
 }
 
-/* Links */
+section.save button:hover {
+  color: #fff;
+  background: #8d111b;
+  border-color: #c32630;
+}
+
+/* ==============================
+   LINKS
+============================== */
 
 a {
-  color: #0000ee;
-  background: transparent;
-  border: none;
-  outline: none;
-  border-radius: 0;
-  padding: 0;
-  margin: 0 5px;
-  font-family: "Times New Roman", serif;
-  font-size: 16px;
-  text-decoration: underline;
-  text-transform: none;
-}
+  display: inline-block;
+  padding: 5px;
 
-a:visited {
-  color: #551a8b;
+  color: #c6c8ca;
+  background: #090a0b99;
+
+  border: 1px solid #4a4d50;
+  border-radius: 0;
+
+  outline: none;
+  text-decoration: none;
+  text-transform: lowercase;
+
+  font-size: 14px;
+  line-height: 1.5;
+
+  transition:
+    color .2s ease,
+    background .2s ease,
+    text-shadow .2s ease,
+    border-color .2s ease;
 }
 
 a:hover {
-  color: #ff0000;
-  text-shadow: none;
-  padding: 0;
+  color: #fff;
+  background: #481015;
+  border-color: #b21c28;
+  text-shadow: 0 0 5px #e32636;
 }
 
-/* Datas */
+/* ==============================
+   DATAS
+============================== */
 
 .date {
-  display: inline;
   float: right;
-  margin: 0 15px;
-  padding: 0;
-  color: #555555;
-  background: transparent;
-  border: none;
-  outline: none;
+  margin: 5px 20px 5px 20px;
+  padding: 5px 0;
+
+  color: #bd3039;
+  background: #08090a;
+
+  border: 1px solid #692027;
   border-radius: 0;
-  font-family: Arial, sans-serif;
+
   font-size: 12px;
-  text-transform: none;
+  text-transform: lowercase;
 }
 
-/* Lista de links */
+/* ==============================
+   LISTA DE LINKS
+============================== */
 
 .link-item {
-  display: block;
+  display: inline-block;
   width: 100%;
-  padding: 8px 5px;
-  background: #ffffff;
-  border-bottom: 1px solid #cccccc;
+  background: transparent;
 }
 
 div.link-item hr {
-  border: none;
-  border-top: 1px solid #999999;
+  border: 0;
+  border-top: 1px dashed #484b4e;
 }
 
 #links {
-  width: 90%;
-  max-width: 900px;
-  margin: 20px auto;
-  padding: 15px;
-  border: 1px solid #999999;
+  width: 100%;
+  margin: 0;
   border-radius: 0;
-  background: #ffffff;
-  background-image: none;
+
+  background:
+    linear-gradient(#08090a99, #08090acc),
+    url('https://web.archive.org/web/20250420022153/https://www.big-loser.site/Caso/img/helloNeo.gif')
+    center / cover no-repeat fixed;
 }
 
 #all_links {
-  padding: 10px 3%;
+  padding-right: 5%;
+  padding-left: 5%;
 }
 
-/* Títulos de seção */
+/* ==============================
+   TÍTULOS DE SEÇÃO
+============================== */
 
 h2 {
-  color: #000080;
-  font-family: "Times New Roman", serif;
-  font-size: 22px;
-  font-weight: bold;
-  text-indent: 0;
-  margin: 20px 0 10px;
-  padding: 0 0 5px;
-  background: none;
-  border-bottom: 1px solid #999999;
+  margin: 0;
+  padding: 50px 0 10px;
+
+  color: #c8c9ca;
+  background:
+    repeating-linear-gradient(
+      to bottom,
+      #222426,
+      #222426 1px,
+      #0a0b0c 1px,
+      #0a0b0c 3px
+    );
+
+  border-bottom: 1px solid #79151d;
+
+  font-size: 14px;
+  font-weight: 400;
+  text-indent: 20px;
 }
 
-/* Logo */
+/* ==============================
+   LOGO
+============================== */
 
 section.logo {
+  padding-top: 15px;
   text-align: center;
-  padding: 15px;
-  background: #eeeeee;
+  justify-items: center;
+
+  background:
+    repeating-linear-gradient(
+      to bottom,
+      #222426,
+      #222426 1px,
+      #0a0b0c 1px,
+      #0a0b0c 3px
+    );
+
+  border-top: 1px solid #3c3e40;
 }
 
-/* Área de fita / áudio */
+/* ==============================
+   FITAS / ÁUDIO
+============================== */
 
 div.tape {
-  display: inline-block;
-  padding: 5px;
-  color: #000000;
-  font-size: 12px;
+  display: inline-table;
+  padding-right: 0;
+  padding-left: 0;
+
+  color: #b8babc;
+  font-size: 10px;
 }
 
 div.tape a {
+  margin: 0 2px;
   padding: 0;
-  margin: 0 3px;
-  color: #0000ee;
-  font-family: "Times New Roman", serif;
-  font-size: 14px;
-  text-transform: none;
-  text-decoration: underline;
+
+  font-family: 'OCRA', monospace;
+  font-size: 10px;
+  line-height: 11px;
+  text-transform: lowercase;
+
+  border: none;
+  background: transparent;
+  outline: none;
 }
 
 div.tape a.listen {
-  color: #000080;
+  color: #bd3039;
 }
 
-/* Rodapé */
+/* ==============================
+   RODAPÉ
+============================== */
 
 footer {
-  margin-top: 30px;
   padding: 15px;
+
+  color: #777b7e;
   text-align: center;
-  color: #555555;
-  background: #dddddd;
-  border-top: 1px solid #999999;
-  font-family: "Times New Roman", serif;
-  font-size: 13px;
+  font-size: 12px;
+
+  background: #08090a;
+  border-top: 1px solid #651017;
 }
 
-/* Arquivos */
+/* ==============================
+   ARQUIVOS
+============================== */
 
 div.div-contain {
-  display: block;
+  display: inline-flex;
   width: 100%;
-  padding: 5px;
-  background: #eeeeee;
-  overflow: hidden;
+  background: #0b0c0e;
 }
 
 .f__name {
   display: inline-block;
   float: left;
   width: 50%;
-  margin: 0;
-  color: #333333;
-  font-family: Arial, sans-serif;
-  font-size: 11px;
+  margin-left: 35px;
+
+  color: #c0c2c4;
   text-align: left;
+  font-size: 10px;
 }
 
 .date_file {
   display: inline-block;
   float: right;
   width: 50%;
-  margin: 0;
-  color: #333333;
-  font-family: Arial, sans-serif;
-  font-size: 11px;
+  margin-right: 35px;
+
+  color: #8d343b;
   text-align: right;
+  font-size: 10px;
 }
 
-/* Página salva */
+/* ==============================
+   SALVAR PÁGINA
+============================== */
 
 #save__page {
   background: transparent;
 }
 
 #save__page p {
-  color: #000000;
+  color: #bd3039;
 }
 
-/* Responsividade */
+/* ==============================
+   CELULARES
+============================== */
 
 @media (max-width: 600px) {
-  #links {
-    width: 96%;
-    padding: 10px;
-  }
 
   .h1__title {
-    font-size: 25px;
-    padding: 20px 5px;
-  }
-
-  a {
-    font-size: 15px;
-  }
-
-  .date {
-    font-size: 10px;
-    margin-right: 5px;
+    padding: 35px 10px;
+    font-size: 24px;
   }
 
   #search {
-    max-width: 85%;
+    width: 80%;
+    margin: 30px auto;
+  }
+
+  #all_links {
+    padding: 0 3%;
+  }
+
+  a {
+    padding: 3px;
+    color: #c6c8ca;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 12px;
+  }
+
+  a:hover {
+    color: #e13a44;
+    background: transparent;
+  }
+
+  .date {
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+
+    color: #a83b43;
+    background: transparent;
+    border: none;
+    font-size: 9px;
+  }
+
+  .date:hover {
+    color: #fff;
+  }
+
+  div.tape a {
+    font-size: 10px;
   }
 
   .f__name,
   .date_file {
-    font-size: 9px;
+    margin: 0;
+    font-size: 8px;
+  }
+
+  #links {
+    background-attachment: scroll;
   }
 }
+
+/* ==============================
+   TABLETS
+============================== */
+
+@media (min-width: 601px) and (max-width: 1024px) {
+
+  .h1__title {
+    font-size: 30px;
+  }
+
+  a {
+    margin-left: 10%;
+    color: #c6c8ca;
+    background: transparent;
+    border: none;
+    font-size: 16px;
+  }
+
+  a:hover {
+    color: #e13a44;
+  }
+
+  div.tape a {
+    font-size: 14px;
+  }
+
+  .date {
+    margin-right: 10%;
+    color: #a83b43;
+    background: transparent;
+    border: none;
+    font-size: 16px;
+  }
+
+  .date:hover {
+    color: #fff;
+  }
+}
+
+/* ==============================
+   COMPUTADORES
+============================== */
+
+@media (min-width: 1025px) {
+
+  #links {
+    width: 100%;
+    margin: 0;
+    border-radius: 0;
+
+    background:
+      linear-gradient(#08090a99, #08090acc),
+      url('assets/img/gif/im_in_the_matrix.gif')
+      center / cover no-repeat fixed;
+  }
+
+  a {
+    margin-left: 5%;
+    color: #c6c8ca;
+    background: transparent;
+    border: none;
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  a:hover {
+    color: #fff;
+    text-shadow: 0 0 5px #d51d2b;
+  }
+
+  div.tape a {
+    font-size: 16px;
+  }
+
+  .date {
+    margin-right: 5%;
+    color: #a83b43;
+    background: transparent;
+    border: none;
+    font-size: 18px;
+  }
+
+  .date:hover {
+    color: #fff;
+  }
+}
+```
