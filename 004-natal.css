@@ -477,7 +477,7 @@ div.div-contain {
 ============================== */
 
 a {
-  animation: christmas-lights 20s infinite;
+  animation: christmas-lights 60s infinite;
   transition:
     color 2s ease,
     text-shadow 2s ease;
