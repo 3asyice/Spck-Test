@@ -1,8 +1,8 @@
-```css
-@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lovers+Quarrel&display=swap');
 
 @font-face {
-  font-family: 'OCRA';
+  font-family: OCRA;
   src: url('assets/font/ocra.otf') format('opentype');
   font-display: swap;
 }
@@ -13,7 +13,8 @@
 
 * {
   box-sizing: border-box;
-  font-family: 'OCRA', monospace;
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
 }
 
 html,
@@ -21,50 +22,25 @@ body {
   width: 100%;
   min-height: 100%;
   margin: 0;
-  background: #08090a;
-  color: #c5c7c9;
-  overflow-x: hidden;
-  overflow-y: auto;
-}
-
-body {
-  font-size: 14px;
+  overflow-y: scroll;
+  background: #111315;
+  color: #d4d8dc;
 }
 
 /* ==============================
-   CABEÇALHO
+   TÍTULO
 ============================== */
 
 .h1__title {
-  position: relative;
-  z-index: 1;
-  margin: 0;
-  padding: 50px 15px;
-
-  color: #e6e6e6;
-  font-family: 'OCRA', monospace;
-  font-size: 34px;
-  font-weight: 400;
-  font-style: normal;
   text-align: center;
-  text-shadow: 2px 2px 5px #000;
-
-  background-image:
-    linear-gradient(#0009, #000c),
-    url('https://web.archive.org/web/20250605120657/https://www.big-loser.site/Caso/img/004.png'),
-    repeating-linear-gradient(
-      to bottom,
-      #252525,
-      #252525 1px,
-      #08090a 1px,
-      #08090a 3px
-    );
-
-  background-size: cover, 180px auto, cover;
-  background-position: center;
-  background-repeat: no-repeat;
-
-  border-bottom: 2px solid #8d1018;
+  font-size: 30px;
+  font-weight: 600;
+  color: #e6e9ec;
+  margin: 0;
+  padding: 55px 20px 40px;
+  background: #111315;
+  text-shadow: none;
+  font-family: 'Inter', sans-serif;
 }
 
 /* ==============================
@@ -73,94 +49,74 @@ body {
 
 #search {
   display: block;
-  width: 250px;
+  width: 280px;
   max-width: 85%;
-  margin: 50px auto;
-  padding: 7px;
-
-  color: #e5e5e5;
-  background: #151719;
-  border: 1px solid #7d171d;
+  margin: 25px auto 45px;
+  padding: 11px 15px;
+  color: #e1e5e9;
+  background: #1b1f22;
+  border: 1px solid #30363b;
+  border-radius: 7px;
   outline: none;
-
-  font-family: 'OCRA', monospace;
-  font-size: 14px;
-
-  appearance: textfield;
-  transition: background .2s, box-shadow .2s;
+  font-size: 13px;
+  font-family: 'Inter', sans-serif;
+  transition: border .2s ease, background .2s ease;
 }
 
 #search:focus {
-  background: #202326;
-  border-color: #c21e29;
-  box-shadow: 0 0 8px #a3131d66;
+  border-color: #728b9b;
+  background: #202529;
 }
 
 /* ==============================
-   SALVAR LINKS
+   ÁREA DE SALVAMENTO
 ============================== */
 
 section.save {
   width: 100%;
   text-align: center;
   justify-content: center;
-
-  background:
-    repeating-linear-gradient(
-      to bottom,
-      #1b1d1f,
-      #1b1d1f 1px,
-      #090a0b 1px,
-      #090a0b 3px
-    );
-
-  border-top: 1px solid #333638;
-  border-bottom: 1px solid #651017;
+  padding: 20px 0;
+  background: #15181a;
+  border-top: 1px solid #252a2e;
+  border-bottom: 1px solid #252a2e;
 }
 
 #urlInput {
   width: 80%;
-  height: 30px;
-  padding: 5px;
-
-  color: #dedede;
-  background: #111315;
-  border: 1px solid #5b2024;
-
+  height: 36px;
+  padding: 8px 12px;
+  color: #dce2e6;
+  background: #202529;
+  border: 1px solid #353d42;
+  border-radius: 5px;
   font-size: 12px;
-  font-weight: 400;
-  text-align: center;
 }
 
 #urlInput::placeholder {
-  color: #a33b42;
-  font-family: 'OCRA', monospace;
+  color: #747e85;
+  font-family: 'Inter', sans-serif;
 }
 
 #urlInput:focus {
-  outline: 1px solid #a81924;
+  outline: none;
+  border-color: #8299a8;
 }
 
 section.save button {
-  margin-top: 15px;
-  padding: 7px 12px;
-
-  color: #d5d5d5;
-  background: #181a1c;
-  border: 1px solid #851922;
-  border-radius: 0;
-
-  font-family: 'OCRA', monospace;
-  font-size: 13px;
-
+  margin-top: 12px;
+  padding: 8px 16px;
+  color: #dce5e9;
+  background: #303b40;
+  border: 1px solid #46545b;
+  border-radius: 5px;
+  font-size: 12px;
   cursor: pointer;
-  transition: .2s;
+  transition: background .2s ease;
 }
 
 section.save button:hover {
-  color: #fff;
-  background: #8d111b;
-  border-color: #c32630;
+  background: #405158;
 }
 
 /* ==============================
@@ -168,34 +124,23 @@ section.save button:hover {
 ============================== */
 
 a {
-  display: inline-block;
-  padding: 5px;
-
-  color: #c6c8ca;
-  background: #090a0b99;
-
-  border: 1px solid #4a4d50;
-  border-radius: 0;
-
-  outline: none;
-  text-decoration: none;
-  text-transform: lowercase;
-
+  color: #a9c2d1;
   font-size: 14px;
-  line-height: 1.5;
-
-  transition:
-    color .2s ease,
-    background .2s ease,
-    text-shadow .2s ease,
-    border-color .2s ease;
+  flex-wrap: wrap;
+  padding: 3px 5px;
+  text-transform: none;
+  background: transparent;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+  text-decoration: none;
+  overflow-wrap: anywhere;
+  transition: color .2s ease;
 }
 
 a:hover {
-  color: #fff;
-  background: #481015;
-  border-color: #b21c28;
-  text-shadow: 0 0 5px #e32636;
+  color: #e2edf3;
+  text-decoration: underline;
 }
 
 /* ==============================
@@ -203,74 +148,68 @@ a:hover {
 ============================== */
 
 .date {
-  float: right;
   margin: 5px 20px 5px 20px;
-  padding: 5px 0;
-
-  color: #bd3039;
-  background: #08090a;
-
-  border: 1px solid #692027;
+  padding: 3px 0;
+  color: #78858d;
+  font-size: 11px;
+  float: right;
+  background: transparent;
+  border: none;
+  outline: none;
   border-radius: 0;
+  text-transform: none;
+}
 
-  font-size: 12px;
-  text-transform: lowercase;
+.date,
+a {
+  margin-left: 20px;
 }
 
 /* ==============================
-   LISTA DE LINKS
+   ITENS E LISTAGEM
 ============================== */
 
 .link-item {
   display: inline-block;
-  width: 100%;
   background: transparent;
+  flex: 100%;
+  width: 100%;
 }
 
 div.link-item hr {
-  border: 0;
-  border-top: 1px dashed #484b4e;
+  border: none;
+  border-top: 1px solid #282e32;
+  margin: 12px 0;
 }
 
 #links {
   width: 100%;
   margin: 0;
   border-radius: 0;
-
-  background:
-    linear-gradient(#08090a99, #08090acc),
-    url('https://web.archive.org/web/20250420022153/https://www.big-loser.site/Caso/img/helloNeo.gif')
-    center / cover no-repeat fixed;
+  background: #111315;
 }
 
 #all_links {
-  padding-right: 5%;
   padding-left: 5%;
+  padding-right: 5%;
 }
 
 /* ==============================
-   TÍTULOS DE SEÇÃO
+   CATEGORIAS
 ============================== */
 
 h2 {
-  margin: 0;
-  padding: 50px 0 10px;
-
-  color: #c8c9ca;
-  background:
-    repeating-linear-gradient(
-      to bottom,
-      #222426,
-      #222426 1px,
-      #0a0b0c 1px,
-      #0a0b0c 3px
-    );
-
-  border-bottom: 1px solid #79151d;
-
-  font-size: 14px;
-  font-weight: 400;
+  color: #a7b8c2;
+  font-weight: 600;
+  font-size: 13px;
   text-indent: 20px;
+  margin: 0;
+  flex: 100%;
+  padding-top: 35px;
+  padding-bottom: 12px;
+  background: transparent;
+  border-bottom: 1px solid #292f33;
+  letter-spacing: .3px;
 }
 
 /* ==============================
@@ -278,51 +217,35 @@ h2 {
 ============================== */
 
 section.logo {
-  padding-top: 15px;
   text-align: center;
   justify-items: center;
-
-  background:
-    repeating-linear-gradient(
-      to bottom,
-      #222426,
-      #222426 1px,
-      #0a0b0c 1px,
-      #0a0b0c 3px
-    );
-
-  border-top: 1px solid #3c3e40;
+  padding-top: 20px;
+  background: #111315;
 }
 
 /* ==============================
-   FITAS / ÁUDIO
+   FITAS / LINKS SECUNDÁRIOS
 ============================== */
 
 div.tape {
-  display: inline-table;
-  padding-right: 0;
   padding-left: 0;
-
-  color: #b8babc;
-  font-size: 10px;
+  padding-right: 0;
+  display: inline-table;
+  font-size: 11px;
+  color: #89959d;
 }
 
 div.tape a {
-  margin: 0 2px;
   padding: 0;
-
-  font-family: 'OCRA', monospace;
-  font-size: 10px;
-  line-height: 11px;
-  text-transform: lowercase;
-
-  border: none;
-  background: transparent;
-  outline: none;
+  font-size: 11px;
+  line-height: 16px;
+  margin: 0 3px;
+  font-family: 'Inter', sans-serif;
+  text-transform: none;
 }
 
 div.tape a.listen {
-  color: #bd3039;
+  color: #9bb6a5;
 }
 
 /* ==============================
@@ -330,46 +253,11 @@ div.tape a.listen {
 ============================== */
 
 footer {
-  padding: 15px;
-
-  color: #777b7e;
+  font-size: 11px;
+  padding: 25px 15px;
   text-align: center;
-  font-size: 12px;
-
-  background: #08090a;
-  border-top: 1px solid #651017;
-}
-
-/* ==============================
-   ARQUIVOS
-============================== */
-
-div.div-contain {
-  display: inline-flex;
-  width: 100%;
-  background: #0b0c0e;
-}
-
-.f__name {
-  display: inline-block;
-  float: left;
-  width: 50%;
-  margin-left: 35px;
-
-  color: #c0c2c4;
-  text-align: left;
-  font-size: 10px;
-}
-
-.date_file {
-  display: inline-block;
-  float: right;
-  width: 50%;
-  margin-right: 35px;
-
-  color: #8d343b;
-  text-align: right;
-  font-size: 10px;
+  color: #737e85;
+  background: #111315;
 }
 
 /* ==============================
@@ -381,70 +269,93 @@ div.div-contain {
 }
 
 #save__page p {
-  color: #bd3039;
+  color: #a0aab0;
+  font-size: 12px;
 }
 
 /* ==============================
-   CELULARES
+   CONTAINER DE ARQUIVOS
+============================== */
+
+div.div-contain {
+  background: #15181a;
+  width: 100%;
+  display: inline-flex;
+  border-bottom: 1px solid #282e32;
+}
+
+.f__name {
+  color: #aeb9bf;
+  font-size: 10px;
+  display: inline-block;
+  text-align: left;
+  float: left;
+  width: 50%;
+  margin-left: 35px;
+}
+
+.date_file {
+  color: #78858d;
+  text-align: right;
+  float: right;
+  width: 50%;
+  display: inline-block;
+  font-size: 10px;
+  margin-right: 35px;
+}
+
+/* ==============================
+   MOBILE
 ============================== */
 
 @media (max-width: 600px) {
 
   .h1__title {
-    padding: 35px 10px;
-    font-size: 24px;
-  }
-
-  #search {
-    width: 80%;
-    margin: 30px auto;
+    font-size: 25px;
+    padding: 40px 15px 30px;
   }
 
   #all_links {
-    padding: 0 3%;
+    padding-left: 3%;
+    padding-right: 3%;
   }
 
   a {
-    padding: 3px;
-    color: #c6c8ca;
+    color: #a9c2d1;
+    font-size: 12px;
     background: transparent;
     border: none;
     outline: none;
-    font-size: 12px;
+    margin-left: 8px;
   }
 
   a:hover {
-    color: #e13a44;
-    background: transparent;
+    color: #e2edf3;
   }
 
   .date {
+    color: #78858d;
+    font-size: 9px;
     display: inline-block;
-    float: right;
-    margin-right: 10px;
-
-    color: #a83b43;
     background: transparent;
     border: none;
-    font-size: 9px;
+    outline: none;
+    margin-right: 8px;
   }
 
   .date:hover {
-    color: #fff;
+    color: #c5d2d9;
+    text-shadow: none;
   }
 
-  div.tape a {
-    font-size: 10px;
+  h2 {
+    font-size: 12px;
+    padding-top: 28px;
   }
 
-  .f__name,
-  .date_file {
-    margin: 0;
-    font-size: 8px;
-  }
-
-  #links {
-    background-attachment: scroll;
+  #search {
+    margin-top: 20px;
+    margin-bottom: 30px;
   }
 }
 
@@ -454,20 +365,64 @@ div.div-contain {
 
 @media (min-width: 601px) and (max-width: 1024px) {
 
-  .h1__title {
-    font-size: 30px;
-  }
-
   a {
-    margin-left: 10%;
-    color: #c6c8ca;
+    color: #a9c2d1;
+    font-size: 15px;
     background: transparent;
     border: none;
-    font-size: 16px;
+    margin-left: 10%;
+    outline: none;
   }
 
   a:hover {
-    color: #e13a44;
+    color: #e2edf3;
+  }
+
+  div.tape a {
+    font-size: 13px;
+  }
+
+  .date {
+    margin-right: 10%;
+    font-size: 13px;
+    color: #8999a2;
+    background: transparent;
+    border: none;
+    outline: none;
+  }
+
+  .date:hover {
+    color: #e2edf3;
+    text-shadow: none;
+  }
+}
+
+/* ==============================
+   DESKTOP
+============================== */
+
+@media (min-width: 1025px) {
+
+  #links {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    border-radius: 0;
+    background: #111315;
+  }
+
+  a {
+    color: #a9c2d1;
+    font-size: 15px;
+    background: transparent;
+    border: none;
+    line-height: 25px;
+    margin-left: 5%;
+    outline: none;
+  }
+
+  a:hover {
+    color: #e2edf3;
   }
 
   div.tape a {
@@ -475,63 +430,16 @@ div.div-contain {
   }
 
   .date {
-    margin-right: 10%;
-    color: #a83b43;
-    background: transparent;
-    border: none;
-    font-size: 16px;
-  }
-
-  .date:hover {
-    color: #fff;
-  }
-}
-
-/* ==============================
-   COMPUTADORES
-============================== */
-
-@media (min-width: 1025px) {
-
-  #links {
-    width: 100%;
-    margin: 0;
-    border-radius: 0;
-
-    background:
-      linear-gradient(#08090a99, #08090acc),
-      url('assets/img/gif/im_in_the_matrix.gif')
-      center / cover no-repeat fixed;
-  }
-
-  a {
-    margin-left: 5%;
-    color: #c6c8ca;
-    background: transparent;
-    border: none;
-    font-size: 18px;
-    line-height: 24px;
-  }
-
-  a:hover {
-    color: #fff;
-    text-shadow: 0 0 5px #d51d2b;
-  }
-
-  div.tape a {
-    font-size: 16px;
-  }
-
-  .date {
     margin-right: 5%;
-    color: #a83b43;
+    font-size: 13px;
+    color: #8999a2;
     background: transparent;
     border: none;
-    font-size: 18px;
+    outline: none;
   }
 
   .date:hover {
-    color: #fff;
+    color: #e2edf3;
+    text-shadow: none;
   }
 }
-```
