@@ -38,7 +38,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
-<div class="link-item"><a href="https://web.archive.org/web/20261108203153/https://ijuinews.com.br/index.php?m=news&a=detail&id=10692"/>Evandro Everton Mainardi morte por afogamento/</a><p class="date">nov 08, 2026 </p> <hr> </div>
+<div class="link-item"><a href="https://web.archive.org/web/20261108203153if_/https://ijuinews.com.br/index.php?m=news&a=detail&id=10692"/>Evandro Everton Mainardi morte por afogamento/</a><p class="date">nov 08, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://learn-anything.xyz/"/>learn-anything.xyz/</a><p class="date">nov 05, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://3asyice.github.io/BlackMirrorwiki/"/>tudo sobre black mirror/</a><p class="date">nov 04, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://youtu.be/gD1FCNRjz04?si=SvBf3ce3QMZElzyb"/>oração do infante/</a><p class="date">nov 03, 2026 </p> <hr> </div>
