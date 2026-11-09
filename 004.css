@@ -1,192 +1,216 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lovers+Quarrel&display=swap');
+
+@import url(https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap);
 
 @font-face {
   font-family: OCRA;
-  src: url('assets/font/ocra.otf') format('opentype');
+  src: url('assets/font/ocra.otf') format('woff2');
   font-display: swap;
 }
 
-/* ==============================
-   CONFIGURAÇÕES GERAIS
-============================== */
-
 * {
-  box-sizing: border-box;
-  font-family: 'Inter', sans-serif;
-  font-size: 14px;
+  font-size: 24px;
+  font-family: 'OCRA', monospace
 }
 
-html,
-body {
+body,
+html {
   width: 100%;
-  min-height: 100%;
-  margin: 0;
   overflow-y: scroll;
-  background: #111315;
-  color: #d4d8dc;
+  background: #000;
+  margin: 0
 }
 
-/* ==============================
-   TÍTULO
-============================== */
+div.link-item hr {
+  border: 1px dashed #8ed18c
+}
 
 .h1__title {
   text-align: center;
-  font-size: 30px;
-  font-weight: 600;
-  color: #e6e9ec;
+  font-size: 34px;
+  z-index: 1;
+  color: #9aff1d;
+  font-family: OCRA, serif;
+  font-weight: 400;
+  text-shadow: 2px 2px 5px #000;
   margin: 0;
-  padding: 55px 20px 40px;
-  background: #111315;
-  text-shadow: none;
-  font-family: 'Inter', sans-serif;
+  padding: 50px;
+  background-image: url(https://web.archive.org/web/20250605120657/https://www.big-loser.site/Caso/img/004.png), repeating-linear-gradient(to bottom, #1f1b1c, #1f1b1c 1px, #000 1px, #000 3px);
+  background-size: 180px auto, cover;
+  background-position: center, center;
+  background-repeat: no-repeat;
+  font-style: normal
 }
 
-/* ==============================
-   PESQUISA
-============================== */
-
 #search {
+  color: #000;
+  background-color: #61ea53;
   display: block;
-  width: 280px;
-  max-width: 85%;
-  margin: 25px auto 45px;
-  padding: 11px 15px;
-  color: #e1e5e9;
-  background: #1b1f22;
-  border: 1px solid #30363b;
-  border-radius: 7px;
-  outline: none;
-  font-size: 13px;
-  font-family: 'Inter', sans-serif;
-  transition: border .2s ease, background .2s ease;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 16px;
+  font-family: OCRA, monospace;
+  width: 250px;
+  outline: 0;
+  padding: 5px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border: none;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  -webkit-appearance: textfield;
+  -webkit-transition: all .3s ease-in;
+  -ms-transition: all .3s ease-in;
+  -o-transition: all .3s ease-in;
+  transition: all .3s ease-in
 }
 
 #search:focus {
-  border-color: #728b9b;
-  background: #202529;
+  outline: 0;
+  border: none;
+  font-family: OCRA, monospace
 }
 
-/* ==============================
-   ÁREA DE SALVAMENTO
-============================== */
-
 section.save {
+  justify-content: center;
   width: 100%;
   text-align: center;
-  justify-content: center;
-  padding: 20px 0;
-  background: #15181a;
-  border-top: 1px solid #252a2e;
-  border-bottom: 1px solid #252a2e;
+  background-image: url(''), repeating-linear-gradient(to bottom, #1f1b1c, #1f1b1c 1px, #000 1px, #000 3px);
+  background-size: 180px auto, cover;
+  background-position: center, center;
+  background-repeat: no-repeat
 }
 
 #urlInput {
   width: 80%;
-  height: 36px;
-  padding: 8px 12px;
-  color: #dce2e6;
-  background: #202529;
-  border: 1px solid #353d42;
-  border-radius: 5px;
+  background-image: linear-gradient(1deg, rgba(97, 86, 155, 1), #6768ab);
+  color: #eeff01;
+  font-weight: 800;
+  height: 25px;
+  border: none;
   font-size: 12px;
+  justify-content: center
 }
 
 #urlInput::placeholder {
-  color: #747e85;
-  font-family: 'Inter', sans-serif;
+  color: #ff4f59;
+  font-family: OCRA, monospace
 }
 
 #urlInput:focus {
-  outline: none;
-  border-color: #8299a8;
+  outline: 0;
+  border: none
 }
 
 section.save button {
-  margin-top: 12px;
-  padding: 8px 16px;
-  color: #dce5e9;
-  background: #303b40;
-  border: 1px solid #46545b;
+  color: #5dc6c2;
+  margin-top: 15px;
+  border: none;
+  padding: 5px;
+  outline: 0;
+  font-size: 16px;
   border-radius: 5px;
-  font-size: 12px;
-  cursor: pointer;
-  transition: background .2s ease;
+  background-image: linear-gradient(1deg, red, rgba(171, 46, 50, 1), rgba(171, 46, 50, 1), rgba(171, 46, 50, 1), rgba(171, 46, 50, 1))
 }
-
-section.save button:hover {
-  background: #405158;
-}
-
-/* ==============================
-   LINKS
-============================== */
 
 a {
-  color: #a9c2d1;
+  color: rgba(18, 255, 0, 1);
   font-size: 14px;
   flex-wrap: wrap;
-  padding: 3px 5px;
-  text-transform: none;
-  background: transparent;
-  border: none;
-  outline: none;
-  border-radius: 3px;
-  text-decoration: none;
-  overflow-wrap: anywhere;
-  transition: color .2s ease;
+  padding: 5px;
+  text-transform: lowercase;
+  background: #0000008F;
+  border: 5px solid #000;
+  outline: 1px solid #0f0;
+  border-radius: 20px;
+  text-decoration: none
 }
 
 a:hover {
-  color: #e2edf3;
-  text-decoration: underline;
+  color: rgba(207, 32, 32, 1);
+  text-shadow: 1px 0 0 rgba(18, 255, 0, 1);
+  padding: 8px
 }
 
-/* ==============================
-   DATAS
-============================== */
-
 .date {
-  margin: 5px 20px 5px 20px;
-  padding: 3px 0;
-  color: #78858d;
-  font-size: 11px;
+  margin: 5px;
+  color: rgba(252, 255, 0, 1);
+  flex-wrap: wrap;
+  border: 3px solid #000;
+  outline: 1px solid #00ffe3;
+  padding: 5px 0 5px 0;
+  border-radius: 20px;
+  background: rgba(0, 0, 0, 1);
+  font-size: 12px;
   float: right;
-  background: transparent;
-  border: none;
-  outline: none;
-  border-radius: 0;
-  text-transform: none;
+  text-transform: lowercase;
+  margin-right: 20px
 }
 
 .date,
 a {
-  margin-left: 20px;
+  margin-left: 20px
 }
-
-/* ==============================
-   ITENS E LISTAGEM
-============================== */
 
 .link-item {
   display: inline-block;
-  background: transparent;
+  background: 0 0;
   flex: 100%;
-  width: 100%;
-}
-
-div.link-item hr {
-  border: none;
-  border-top: 1px solid #282e32;
-  margin: 12px 0;
+  width: 100%
 }
 
 #links {
+  margin-left: 0%;
+  margin-right: 0%;
   width: 100%;
-  margin: 0;
-  border-radius: 0;
-  background: #111315;
+  border-radius: 10px;
+  background: url(https://web.archive.org/web/20250420022153/https://www.big-loser.site/Caso/img/helloNeo.gif) center/cover no-repeat fixed;
+  
+  
+  /*
+  background: url('https://archive.org/download/spin-soldier/spin-soldier.gif') center/cover no-repeat fixed;
+  
+  
+  background: url('https://web.archive.org/web/20251025064024if_/https://3asyice.github.io/Spck-Test/spin-ho.gif') center/cover no-repeat fixed;
+  background: url('https://web.archive.org/web/20250815073048if_/https://3asyice.github.io/Spck-Test/wakeupneo.jpg') center/cover no-repeat fixed;
+  assets/img/bg/pc_bg.jpg
+  
+  
+  https://web.archive.org/web/20250721112836if_/https://3asyice.github.io/Spck-Test/newspaper_final_destination.jpg
+  background: url('https://web.archive.org/web/20250718104915/https://3asyice.github.io/Spck-Test/the_glitched_bg.png') center/cover no-repeat fixed;
+  
+  background: url('assets/img/bg/coded.jpg') center/cover no-repeat fixed;
+  
+  background: url(https://web.archive.org/web/20250420022153/https://www.big-loser.site/Caso/img/helloNeo.gif) center/cover no-repeat fixed; */
+}
+
+footer {
+  font-size: 12px;
+  padding: 15px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1)
+}
+
+div.tape a {
+  padding: 0;
+  font-size: 10px;
+  line-height: 11px;
+  margin: 0 2px 0 2px;
+  font-family: OCRA, monospace;
+  text-transform: lowercase;
+}
+
+div.tape a.listen {
+  color: #D5FFD9;
+}
+
+div.tape {
+  padding-left: 0%;
+  font-size: 10px;
+  color: #D5FFD9;
+  padding-right: 0%;
+  display: inline-table;
 }
 
 #all_links {
@@ -194,98 +218,151 @@ div.link-item hr {
   padding-right: 5%;
 }
 
-/* ==============================
-   CATEGORIAS
-============================== */
-
 h2 {
-  color: #a7b8c2;
-  font-weight: 600;
-  font-size: 13px;
+  color: #69e25b;
+  font-weight: 400;
+  font-size: 14px;
   text-indent: 20px;
   margin: 0;
   flex: 100%;
-  padding-top: 35px;
-  padding-bottom: 12px;
-  background: transparent;
-  border-bottom: 1px solid #292f33;
-  letter-spacing: .3px;
+  padding-top: 50px;
+  background: repeating-linear-gradient(to bottom, #1f1b1c, #1f1b1c 1px, #000 1px, #000 3px);
+  padding-bottom: 10px;
 }
 
-/* ==============================
-   LOGO
-============================== */
+#save__page {
+  background: 0 0;
+}
+
+#save__page p {
+  color: #e20000;
+}
+
+@media (max-width:600px) {
+  a {
+    color: #69e25b;
+    font-size: 12px;
+    background: 0 0;
+    border: none;
+    outline: 0;
+  }
+  
+  a:hover {
+    color: #fff;
+  }
+  
+  .date {
+    color: #cefcd2;
+    font-size: 9px;
+    display: inline-block;
+    background: 0 0;
+    border: none;
+    outline: 0;
+  }
+  
+  .date:hover {
+    color: #fff;
+    text-shadow: 1px 0 0 rgba(18, 255, 0, 1);
+  }
+}
 
 section.logo {
   text-align: center;
   justify-items: center;
-  padding-top: 20px;
-  background: #111315;
+  padding-top: 15px;
+  background: repeating-linear-gradient(to bottom, #1f1b1c, #1f1b1c 1px, #000 1px, #000 3px);
 }
 
-/* ==============================
-   FITAS / LINKS SECUNDÁRIOS
-============================== */
-
-div.tape {
-  padding-left: 0;
-  padding-right: 0;
-  display: inline-table;
-  font-size: 11px;
-  color: #89959d;
+@media (min-width:601px) and (max-width:1024px) {
+  a {
+    color: #61ea53;
+    font-size: 16px;
+    background: 0 0;
+    border: none;
+    margin-left: 10%;
+    outline: 0;
+  }
+  
+  a:hover {
+    color: #fff;
+    text-shadow: 1px 0 0 rgba(18, 255, 0, 1);
+  }
+  
+  div.tape a {
+    font-size: 14px;
+  }
+  
+  .date {
+    margin-right: 10%;
+    font-size: 16px;
+    color: #cefcd2;
+    background: 0 0;
+    border: none;
+    outline: 0;
+  }
+  
+  .date:hover {
+    color: #fff;
+    text-shadow: 1px 0 0 rgba(18, 255, 0, 1);
+  }
 }
 
-div.tape a {
-  padding: 0;
-  font-size: 11px;
-  line-height: 16px;
-  margin: 0 3px;
-  font-family: 'Inter', sans-serif;
-  text-transform: none;
+@media (min-width:1025px) {
+  #links {
+  margin-left: 0%;
+  margin-right: 0%;
+  width: 100%;
+  border-radius: 10px;
+  background: url('assets/img/gif/im_in_the_matrix.gif') center/cover no-repeat fixed;
+  /*
+  
+  old hacker mask png /off
+  https://web.archive.org/web/20250913144918if_/https://3asyice.github.io/Spck-Test/15647.png
+  
+  Final Destination Real Life /off
+  --> background: url('https://web.archive.org/web/20250731141251if_/https://3asyice.github.io/Spck-Test/pc_bg1.jpg') center/cover no-repeat fixed; */
+  }
+  a {
+    color: #61ea53;
+    font-size: 18px;
+    background: 0 0;
+    border: none;
+    line-height: 24px;
+    margin-left: 5%;
+    outline: 0
+  }
+  
+  div.tape a {
+    font-size: 16px
+  }
+  
+  a:hover {
+    color: #fff
+  }
+  
+  .date {
+    margin-right: 5%;
+    font-size: 18px;
+    color: #cefcd2;
+    background: 0 0;
+    border: none;
+    outline: 0
+  }
+  
+  .date:hover {
+    color: #fff;
+    text-shadow: 1px 0 0 rgba(18, 255, 0, 1);
+  }
 }
-
-div.tape a.listen {
-  color: #9bb6a5;
-}
-
-/* ==============================
-   RODAPÉ
-============================== */
-
-footer {
-  font-size: 11px;
-  padding: 25px 15px;
-  text-align: center;
-  color: #737e85;
-  background: #111315;
-}
-
-/* ==============================
-   SALVAR PÁGINA
-============================== */
-
-#save__page {
-  background: transparent;
-}
-
-#save__page p {
-  color: #a0aab0;
-  font-size: 12px;
-}
-
-/* ==============================
-   CONTAINER DE ARQUIVOS
-============================== */
 
 div.div-contain {
-  background: #15181a;
+  background: #000;
   width: 100%;
   display: inline-flex;
-  border-bottom: 1px solid #282e32;
 }
 
 .f__name {
-  color: #aeb9bf;
+  color: #D5FFD9;
   font-size: 10px;
   display: inline-block;
   text-align: left;
@@ -295,151 +372,11 @@ div.div-contain {
 }
 
 .date_file {
-  color: #78858d;
+  color: #D5FFD9;
   text-align: right;
   float: right;
   width: 50%;
   display: inline-block;
   font-size: 10px;
   margin-right: 35px;
-}
-
-/* ==============================
-   MOBILE
-============================== */
-
-@media (max-width: 600px) {
-
-  .h1__title {
-    font-size: 25px;
-    padding: 40px 15px 30px;
-  }
-
-  #all_links {
-    padding-left: 3%;
-    padding-right: 3%;
-  }
-
-  a {
-    color: #a9c2d1;
-    font-size: 12px;
-    background: transparent;
-    border: none;
-    outline: none;
-    margin-left: 8px;
-  }
-
-  a:hover {
-    color: #e2edf3;
-  }
-
-  .date {
-    color: #78858d;
-    font-size: 9px;
-    display: inline-block;
-    background: transparent;
-    border: none;
-    outline: none;
-    margin-right: 8px;
-  }
-
-  .date:hover {
-    color: #c5d2d9;
-    text-shadow: none;
-  }
-
-  h2 {
-    font-size: 12px;
-    padding-top: 28px;
-  }
-
-  #search {
-    margin-top: 20px;
-    margin-bottom: 30px;
-  }
-}
-
-/* ==============================
-   TABLETS
-============================== */
-
-@media (min-width: 601px) and (max-width: 1024px) {
-
-  a {
-    color: #a9c2d1;
-    font-size: 15px;
-    background: transparent;
-    border: none;
-    margin-left: 10%;
-    outline: none;
-  }
-
-  a:hover {
-    color: #e2edf3;
-  }
-
-  div.tape a {
-    font-size: 13px;
-  }
-
-  .date {
-    margin-right: 10%;
-    font-size: 13px;
-    color: #8999a2;
-    background: transparent;
-    border: none;
-    outline: none;
-  }
-
-  .date:hover {
-    color: #e2edf3;
-    text-shadow: none;
-  }
-}
-
-/* ==============================
-   DESKTOP
-============================== */
-
-@media (min-width: 1025px) {
-
-  #links {
-    margin-left: 0;
-    margin-right: 0;
-    width: 100%;
-    border-radius: 0;
-    background: #111315;
-  }
-
-  a {
-    color: #a9c2d1;
-    font-size: 15px;
-    background: transparent;
-    border: none;
-    line-height: 25px;
-    margin-left: 5%;
-    outline: none;
-  }
-
-  a:hover {
-    color: #e2edf3;
-  }
-
-  div.tape a {
-    font-size: 14px;
-  }
-
-  .date {
-    margin-right: 5%;
-    font-size: 13px;
-    color: #8999a2;
-    background: transparent;
-    border: none;
-    outline: none;
-  }
-
-  .date:hover {
-    color: #e2edf3;
-    text-shadow: none;
-  }
 }
