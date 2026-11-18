@@ -37,6 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://www.tokyvideo.com/br/video/o-fantastico-senhor-raposo-2009-dublado"/>fantástico senhor raposo/</a><p class="date">nov 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://fofocou-2peq4zuz.manus.space/"/>fofocar sobre tudo/</a><p class="date">nov 15, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://archive.org/details/@pezette_br"/>dragon ball z @pezette_br/</a><p class="date">nov 09, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://web.archive.org/web/20261108203153if_/https://ijuinews.com.br/index.php?m=news&a=detail&id=10692"/>Evandro Everton Mainardi morte por afogamento/</a><p class="date">nov 08, 2026 </p> <hr> </div>
