@@ -37,6 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="assets/pdf/livro/ficcao_cientifica/Materia_escura_-_BlakeCrouch.pdf"/>Matéria Escura (Blake Crouch).pdf/</a><p class="date">nov 22, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://readera.org/"/>para abrir .pdf readera/</a><p class="date">nov 22, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://www.tokyvideo.com/br/video/o-fantastico-senhor-raposo-2009-dublado"/>fantástico senhor raposo/</a><p class="date">nov 17, 2026 </p> <hr> </div>
 <div class="link-item"><a href="https://fofocou-2peq4zuz.manus.space/"/>fofocar sobre tudo/</a><p class="date">nov 15, 2026 </p> <hr> </div>
