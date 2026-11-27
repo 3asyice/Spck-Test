@@ -37,6 +37,7 @@ const linkstwentytwentyfour = document.getElementById("linksScripted").innerHTML
 
 
 
+<div class="link-item"><a href="https://ia601508.us.archive.org/30/items/spin-soldier/essa%20m%C3%BAsica%20do%20GTA%206%20%C3%A9%20t%C3%A3o%20%F0%9F%8D%B8%20-%20ZOE%20%28720p%29.mp4"/>essa música do GTA 6 é tão 🍸/</a><p class="date">nov 27, 2026 </p> <hr> </div>
 <div class="link-item"><a href="assets/apk/esta__o_609.apk"/>estação 609.apk/</a><p class="date">nov 25, 2026 </p> <hr> </div>
 <div class="link-item"><a href="assets/y/2026/nov/gta-sa-android-fullmap-savegame.zip"/>grand theft auto san andreas  gta (arquivo de savegame)/</a><p class="date">nov 25, 2026 </p> <hr> </div>
 <div class="link-item"><a href="assets/pdf/livro/ficcao_cientifica/Materia_escura_-_BlakeCrouch.pdf"/>Matéria Escura (Blake Crouch).pdf/</a><p class="date">nov 22, 2026 </p> <hr> </div>
